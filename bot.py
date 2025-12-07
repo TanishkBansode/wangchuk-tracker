@@ -26,7 +26,7 @@ from google.genai import types
 client = genai.Client(api_key=API_KEY)
 MODEL_ID = 'gemma-3-27b-it'
 EMBEDDING_MODEL = 'models/text-embedding-004'
-SIMILARITY_THRESHOLD = 0.85  # Tunable: 0.80-0.95 for duplicate detection
+SIMILARITY_THRESHOLD = 0.80  # Tunable: 0.80-0.95 for duplicate detection
 
 DATA_FILE = 'data.json'
 
@@ -157,14 +157,32 @@ def cosine_similarity(vec1: list, vec2: list) -> float:
 
 def resolve_url(url):
     """Follows redirects to get the final article URL."""
+    headers = {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
+    }
     try:
-        response = requests.head(url, allow_redirects=True, timeout=5)
-        # If HEAD fails or doesn't redirect properly, try GET
+        # 1. Try HEAD first
+        response = requests.head(url, allow_redirects=True, timeout=10, headers=headers)
+        
+        # 2. If HEAD fails or gives generic google link, try GET
         if response.status_code != 200 or 'google.com' in response.url:
-             response = requests.get(url, allow_redirects=True, timeout=10)
-        return response.url
+             response = requests.get(url, allow_redirects=True, timeout=15, headers=headers)
+        
+        final = response.url
+        
+        # 3. Basic cleaning: remove common tracking params to improve matching
+        if '?' in final:
+            from urllib.parse import urlparse, urlencode, parse_qs, urlunparse
+            u = urlparse(final)
+            query = parse_qs(u.query)
+            # Remove utm_*, ref, etc
+            clean_query = {k: v for k, v in query.items() if not any(x in k for x in ['utm_', 'ref', 'source_id'])}
+            u = u._replace(query=urlencode(clean_query, doseq=True))
+            final = urlunparse(u)
+            
+        return final
     except Exception as e:
-        print(f"   ⚠️  Redirect Error: {e}")
+        print(f"   ⚠️  Redirect Error: {e} | URL: {url[:50]}...")
         return url
 
 import concurrent.futures
