@@ -41,7 +41,12 @@
 
         <div class="mb-8">
             <h2 class="text-3xl font-bold text-slate-900 mb-2">Latest Updates</h2>
-            <p class="text-slate-500">Tracking news and updates regarding Sonam Wangchuk.</p>
+            <p class="text-slate-500">Tracking news and updates.</p>
+        </div>
+
+        <!-- Tabs -->
+        <div id="tabs" class="flex flex-wrap gap-2 mb-8">
+            <!-- Tabs injected by JS -->
         </div>
 
         <!-- Timeline Container -->
@@ -54,65 +59,29 @@
     </main>
 
     <script>
+        let currentTab = 'wangchuk'; // Default tab
+        let allData = [];
+
         async function loadData() {
             const container = document.getElementById('timeline');
             try {
                 const response = await fetch('data.json');
                 if (!response.ok) throw new Error('Failed to load data');
-                const data = await response.json();
+                allData = await response.json();
 
-                if (data.length === 0) {
-                    container.innerHTML = `
-                        <div class="text-center py-12">
-                            <p class="text-slate-500 text-lg">No updates found yet.</p>
-                            <p class="text-slate-400 text-sm mt-2">Run the bot to fetch the latest news.</p>
-                        </div>
-                    `;
-                    return;
-                }
+                // Backfill page_id if missing
+                allData.forEach(item => {
+                    if (!item.page_id) {
+                        if (item.title.includes("Pune") || item.title.includes("Pollution")) {
+                            item.page_id = 'pune_pollution';
+                        } else {
+                            item.page_id = 'wangchuk';
+                        }
+                    }
+                });
 
-                container.innerHTML = data.map((item, index) => {
-                    const sentimentColor = {
-                        'Positive': 'bg-green-100 text-green-800 border-green-200',
-                        'Neutral': 'bg-blue-100 text-blue-800 border-blue-200',
-                        'Critical': 'bg-orange-100 text-orange-800 border-orange-200',
-                        'Urgent': 'bg-red-100 text-red-800 border-red-200'
-                    }[item.sentiment] || 'bg-gray-100 text-gray-800 border-gray-200';
-
-                    return `
-                        <div class="relative flex items-center justify-between md:justify-normal md:odd:flex-row-reverse group is-active">
-                            <!-- Icon -->
-                            <div class="flex items-center justify-center w-10 h-10 rounded-full border border-white bg-slate-200 shadow shrink-0 md:order-1 md:group-odd:-translate-x-1/2 md:group-even:translate-x-1/2 z-10">
-                                <span class="text-lg">📰</span>
-                            </div>
-                            
-                            <!-- Card -->
-                            <div class="w-[calc(100%-4rem)] md:w-[calc(50%-2.5rem)] bg-white p-6 rounded-xl shadow-sm border border-slate-100 hover:shadow-md transition-shadow duration-200">
-                                <div class="flex items-center justify-between mb-3">
-                                    <span class="text-xs font-semibold px-2.5 py-0.5 rounded border ${sentimentColor}">
-                                        ${item.sentiment}
-                                    </span>
-                                    <time class="text-xs text-slate-400 font-medium">${item.date}</time>
-                                </div>
-                                <h3 class="text-lg font-bold text-slate-800 mb-2 leading-tight">
-                                    <a href="${item.sources[0].link}" target="_blank" class="hover:text-blue-600 transition-colors">
-                                        ${item.title}
-                                    </a>
-                                </h3>
-                                <p class="text-slate-600 text-sm leading-relaxed mb-4">
-                                    ${item.summary}
-                                </p>
-                                <div class="flex flex-wrap gap-2 border-t border-slate-50 pt-3 mt-2">
-                                    ${item.sources.map(source => `
-                                        <a href="${source.link}" target="_blank" class="inline-flex items-center px-2 py-1 rounded bg-slate-50 hover:bg-slate-100 border border-slate-200 text-xs text-slate-600 hover:text-blue-600 transition-colors">
-                                            ${source.source} ↗
-                                        </a>
-                                    `).join('')}
-                                </div>
-                            </div>
-                        </div>
-                    `;
-                }).join('');
+                renderTabs();
+                renderTimeline();
 
             } catch (error) {
                 console.error('Error:', error);
@@ -123,6 +92,100 @@
                     </div>
                 `;
             }
+        }
+
+        function renderTabs() {
+            const tabsContainer = document.getElementById('tabs');
+            if (!tabsContainer) return;
+
+            // Define known pages and their titles
+            const pages = [
+                { id: 'wangchuk', title: 'Sonam Wangchuk' },
+                { id: 'pune_pollution', title: 'Pune Air Pollution' }
+            ];
+
+            // Check if we have data for other pages not in the list (dynamic support)
+            const dataPages = [...new Set(allData.map(item => item.page_id))];
+            dataPages.forEach(pageId => {
+                if (!pages.find(p => p.id === pageId)) {
+                    pages.push({ id: pageId, title: pageId.replace(/_/g, ' ').replace(/\b\w/g, l => l.toUpperCase()) });
+                }
+            });
+
+            tabsContainer.innerHTML = pages.map(page => `
+                <button 
+                    onclick="switchTab('${page.id}')"
+                    class="px-4 py-2 text-sm font-medium rounded-full transition-colors ${currentTab === page.id
+                    ? 'bg-slate-800 text-white'
+                    : 'bg-white text-slate-600 hover:bg-slate-100 border border-slate-200'}"
+                >
+                    ${page.title}
+                </button>
+            `).join('');
+        }
+
+        function switchTab(tabId) {
+            currentTab = tabId;
+            renderTabs();
+            renderTimeline();
+        }
+
+        function renderTimeline() {
+            const container = document.getElementById('timeline');
+            const filteredData = allData.filter(item => item.page_id === currentTab);
+
+            if (filteredData.length === 0) {
+                container.innerHTML = `
+                    <div class="text-center py-12">
+                        <p class="text-slate-500 text-lg">No updates found for this topic.</p>
+                        <p class="text-slate-400 text-sm mt-2">Run the bot to fetch the latest news.</p>
+                    </div>
+                `;
+                return;
+            }
+
+            container.innerHTML = filteredData.map((item, index) => {
+                const sentimentColor = {
+                    'Positive': 'bg-green-100 text-green-800 border-green-200',
+                    'Neutral': 'bg-blue-100 text-blue-800 border-blue-200',
+                    'Critical': 'bg-orange-100 text-orange-800 border-orange-200',
+                    'Urgent': 'bg-red-100 text-red-800 border-red-200'
+                }[item.sentiment] || 'bg-gray-100 text-gray-800 border-gray-200';
+
+                return `
+                    <div class="relative flex items-center justify-between md:justify-normal md:odd:flex-row-reverse group is-active">
+                        <!-- Icon -->
+                        <div class="flex items-center justify-center w-10 h-10 rounded-full border border-white bg-slate-200 shadow shrink-0 md:order-1 md:group-odd:-translate-x-1/2 md:group-even:translate-x-1/2 z-10">
+                            <span class="text-lg">📰</span>
+                        </div>
+                        
+                        <!-- Card -->
+                        <div class="w-[calc(100%-4rem)] md:w-[calc(50%-2.5rem)] bg-white p-6 rounded-xl shadow-sm border border-slate-100 hover:shadow-md transition-shadow duration-200">
+                            <div class="flex items-center justify-between mb-3">
+                                <span class="text-xs font-semibold px-2.5 py-0.5 rounded border ${sentimentColor}">
+                                    ${item.sentiment}
+                                </span>
+                                <time class="text-xs text-slate-400 font-medium">${item.date}</time>
+                            </div>
+                            <h3 class="text-lg font-bold text-slate-800 mb-2 leading-tight">
+                                <a href="${item.sources[0].link}" target="_blank" class="hover:text-blue-600 transition-colors">
+                                    ${item.title}
+                                </a>
+                            </h3>
+                            <p class="text-slate-600 text-sm leading-relaxed mb-4">
+                                ${item.summary}
+                            </p>
+                            <div class="flex flex-wrap gap-2 border-t border-slate-50 pt-3 mt-2">
+                                ${item.sources.map(source => `
+                                    <a href="${source.link}" target="_blank" class="inline-flex items-center px-2 py-1 rounded bg-slate-50 hover:bg-slate-100 border border-slate-200 text-xs text-slate-600 hover:text-blue-600 transition-colors">
+                                        ${source.source} ↗
+                                    </a>
+                                `).join('')}
+                            </div>
+                        </div>
+                    </div>
+                `;
+            }).join('');
         }
 
         // Initial load
