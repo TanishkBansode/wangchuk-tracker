@@ -155,27 +155,32 @@ def cosine_similarity(vec1: list, vec2: list) -> float:
     
     return float(np.dot(a, b) / (norm_a * norm_b))
 
+# Global session for connection pooling and cookie persistence
+session = requests.Session()
+session.headers.update({
+    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+    'Accept-Language': 'en-US,en;q=0.9',
+    'Referer': 'https://news.google.com/'
+})
+
 def resolve_url(url):
     """Follows redirects to get the final article URL."""
-    headers = {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
-    }
     try:
         # 1. Try HEAD first
-        response = requests.head(url, allow_redirects=True, timeout=10, headers=headers)
+        response = session.head(url, allow_redirects=True, timeout=10)
         
         # 2. If HEAD fails or gives generic google link, try GET
         if response.status_code != 200 or 'google.com' in response.url:
-             response = requests.get(url, allow_redirects=True, timeout=15, headers=headers)
+             response = session.get(url, allow_redirects=True, timeout=15)
         
         final = response.url
         
-        # 3. Basic cleaning: remove common tracking params to improve matching
+        # 3. Basic cleaning: remove common tracking params
         if '?' in final:
             from urllib.parse import urlparse, urlencode, parse_qs, urlunparse
             u = urlparse(final)
             query = parse_qs(u.query)
-            # Remove utm_*, ref, etc
             clean_query = {k: v for k, v in query.items() if not any(x in k for x in ['utm_', 'ref', 'source_id'])}
             u = u._replace(query=urlencode(clean_query, doseq=True))
             final = urlunparse(u)
@@ -287,11 +292,25 @@ def process_entry(entry, known_links, topic_name, page_id):
 
     # 3. Scrape (Network)
     downloaded = trafilatura.fetch_url(final_url)
-    text = trafilatura.extract(downloaded)
     
-    if not text:
+    # Use bare_extraction to get metadata (canonical URL) + text
+    extraction = trafilatura.bare_extraction(downloaded)
+    
+    if not extraction or not extraction.get('text'):
         print("   ⚠️  Failed to extract text.")
-        return None
+        try:
+             # Fallback to simple extraction if bare fails
+             text = trafilatura.extract(downloaded)
+             if not text: return None
+        except:
+             return None
+    else:
+        text = extraction['text']
+        # If the page has a canonical URL, prefer it over the redirect/google one
+        if extraction.get('url'):
+            canonical = extraction['url']
+            if 'google.com' not in canonical and len(canonical) > 10:
+                final_url = canonical
 
     # 4. Analyze (AI)
     analysis = analyze_article(text, entry.title, topic_name)
@@ -301,6 +320,7 @@ def process_entry(entry, known_links, topic_name, page_id):
         
     return {
         "entry": entry,
+        "original_link": entry.link,
         "final_url": final_url,
         "text": text,
         "analysis": analysis,
@@ -328,12 +348,14 @@ def main():
             else:
                 item['page_id'] = 'wangchuk'
 
-    # Collect all known links
+    # Collect all known links (both final and original)
     known_links = set()
     for item in db:
         if 'sources' in item:
             for source in item['sources']:
                 known_links.add(source['link'])
+                if 'original_link' in source:
+                     known_links.add(source['original_link'])
         elif 'link' in item:
              known_links.add(item['link'])
 
@@ -402,7 +424,8 @@ def main():
             "sentiment": analysis['sentiment'],
             "type": "pending",
             "sources": [{
-                "link": final_url,
+                "link": res['final_url'],
+                "original_link": res['original_link'],
                 "source": entry.source.title if 'source' in entry else "News",
                 "scraped_text": res['text']  # Store for deduplication
             }]
