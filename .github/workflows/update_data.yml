@@ -1,6 +1,5 @@
-name: Update News Data
-
 on:
+  push:                   # Run immediately when you push changes
   schedule:
     - cron: '0 */4 * * *' # Run every 4 hours
   workflow_dispatch:      # Allow manual run
