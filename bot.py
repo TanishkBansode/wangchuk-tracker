@@ -63,7 +63,7 @@ class RateLimiter:
 RATE_LIMITER_FLASH_LITE = RateLimiter(requests_per_minute=8, name="Flash-Lite")  # 10 RPM limit, use 8 for safety
 RATE_LIMITER_FLASH = RateLimiter(requests_per_minute=4, name="Flash")  # 5 RPM limit, use 4 for safety
 RATE_LIMITER_GEMMA = RateLimiter(requests_per_minute=25, name="Gemma")  # 30 RPM limit, use 25 for safety
-RATE_LIMITER_EMBEDDING = RateLimiter(requests_per_minute=100, name="Embedding")  # Token-based, very generous
+RATE_LIMITER_EMBEDDING = RateLimiter(requests_per_minute=1000, name="Embedding")  # Token-based, 5M tokens/min - very generous
 
 TOPICS = [
     {
@@ -124,6 +124,10 @@ def get_embeddings(texts: list) -> list:
                     contents=text
                 )
                 embeddings.append(response.embeddings[0].values)
+                # Progress logging every 10 articles
+                idx = len(embeddings)
+                if idx % 10 == 0 or idx == len(truncated_texts):
+                    print(f"         🔹 Embedded {idx}/{len(truncated_texts)} articles...", flush=True)
                 break  # Success, exit retry loop
             except Exception as e:
                 error_str = str(e)
