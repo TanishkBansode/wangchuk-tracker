@@ -1,6 +1,36 @@
 [
   {
     "date": "2025-12-08",
+    "page_id": "wangchuk",
+    "title": "UGC Asked to Consider Recognition for Sonam Wangchuk's Ladakh Institute",
+    "summary": "A House panel has requested the University Grants Commission (UGC) to consider recognizing Sonam Wangchuk\u2019s institute in Ladakh. The article, sourced from The Hindu via Google News, details this recommendation without providing a specific date for the panel's action.",
+    "sentiment": "Neutral",
+    "type": "pending",
+    "sources": [
+      {
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPX2JBYmx2SXVhTzdYc1piN1U5UVNYRHJhcGF6bXBPN194RXFmalF0d2dMdXc5aGlIVXVTdHdFVi00SW5SQkQ0bFF0RlRtR0w5QTRTcEZDUUVHalduaVNiNXE0emZpa3pJRjNwY3VkWTQyaVpkbG1fcW5GUE5WalctWVpSSFpSekExdkV4d003ckRtN21tbnI4TTNUaTAzNm1TYjhYTkJDaU50SVdiUTJFY0pWcGF3RnYyY0RNRUpudHUyOExMVkowdk5GQ3kyem9Cd3Rr0gHaAUFVX3lxTFBhNzV3QVdaaTRrT0x1aHpRZUc0U1NYRUpleVVhNU9JLVo5b0k4Q0dJYWJ4dklFU21FRVlzVjNMeVVmbDhRX3dLcTlvZjJEQU43RXlUdzZldU54bkJNRU5SQU5Lb00xOVFyOXBQaDlxWlREaHYwOXZvRVVYRVZwWWhmWlREZ3Fvdm1LQ0pGR0Utckh6eGllNkRmZjRBcjZlLXVCcWE1a3JMMGxabXhJc0J1Sy1NMDVwSmpyTW9GM1JTcEhFbzk3cm43bkNyeHY0TWtWaGxVT1A0N3VB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "original_link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPX2JBYmx2SXVhTzdYc1piN1U5UVNYRHJhcGF6bXBPN194RXFmalF0d2dMdXc5aGlIVXVTdHdFVi00SW5SQkQ0bFF0RlRtR0w5QTRTcEZDUUVHalduaVNiNXE0emZpa3pJRjNwY3VkWTQyaVpkbG1fcW5GUE5WalctWVpSSFpSekExdkV4d003ckRtN21tbnI4TTNUaTAzNm1TYjhYTkJDaU50SVdiUTJFY0pWcGF3RnYyY0RNRUpudHUyOExMVkowdk5GQ3kyem9Cd3Rr0gHaAUFVX3lxTFBhNzV3QVdaaTRrT0x1aHpRZUc0U1NYRUpleVVhNU9JLVo5b0k4Q0dJYWJ4dklFU21FRVlzVjNMeVVmbDhRX3dLcTlvZjJEQU43RXlUdzZldU54bkJNRU5SQU5Lb00xOVFyOXBQaDlxWlREaHYwOXZvRVVYRVZwWWhmWlREZ3Fvdm1LQ0pGR0Utckh6eGllNkRmZjRBcjZlLXVCcWE1a3JMMGxabXhJc0J1Sy1NMDVwSmpyTW9GM1JTcEhFbzk3cm43bkNyeHY0TWtWaGxVT1A0N3VB?oc=5",
+        "source": "The Hindu"
+      }
+    ]
+  },
+  {
+    "date": "2025-12-02",
+    "page_id": "pune_metro",
+    "title": "Rail Projects Approved in Gujarat and Maharashtra",
+    "summary": "The central government has approved rail projects totaling Rs 27.81 billion in Gujarat and Maharashtra. The Google News article does not provide specific dates beyond the general announcement of the approval.",
+    "sentiment": "Neutral",
+    "type": "pending",
+    "sources": [
+      {
+        "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNeW1XWVlWRmxMa1p3RVh2RkFUWEtndnlBUWR3alo1NkpFM2NQV0k5MklnaWFxS2t1NWJ0M0E0UDRWRFhYbUU5QzFJYkJ4TFFxeWN2aHdzNkNJSzlHNnZ1WHA2QW9Zd09XRHZIZkxEYnhSMUVNT2l2cG5pdDFZTU9tY0xCbDNxaHlxdXF3RXhsSGNmeFp3SjQ5RGdtQl95RDBZcUZ6c2tfdkRyV2dUam5ELWdQOUpPZHBWMzQ4cVoxZ1lvR2s1Z3ZzTmNXUlU4bV80ZldZODlUR3NBeHRZdlNvbUV0U2RXX2J0YjZyQU5FczRyTEFJT09zMzlDUG1mOUk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "original_link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNeW1XWVlWRmxMa1p3RVh2RkFUWEtndnlBUWR3alo1NkpFM2NQV0k5MklnaWFxS2t1NWJ0M0E0UDRWRFhYbUU5QzFJYkJ4TFFxeWN2aHdzNkNJSzlHNnZ1WHA2QW9Zd09XRHZIZkxEYnhSMUVNT2l2cG5pdDFZTU9tY0xCbDNxaHlxdXF3RXhsSGNmeFp3SjQ5RGdtQl95RDBZcUZ6c2tfdkRyV2dUam5ELWdQOUpPZHBWMzQ4cVoxZ1lvR2s1Z3ZzTmNXUlU4bV80ZldZODlUR3NBeHRZdlNvbUV0U2RXX2J0YjZyQU5FczRyTEFJT09zMzlDUG1mOUk?oc=5",
+        "source": "Construction World"
+      }
+    ]
+  },
+  {
+    "date": "2025-12-08",
     "page_id": "trees_nashik",
     "title": "Nashik Municipal Corporation and Activists Discuss Tapovan Tree Felling",
     "summary": "A meeting between the Nashik Municipal Corporation (NMC) and activists regarding tree felling in Tapovan concluded without a resolution. The Google News article does not provide specific dates or times for the meeting.",
