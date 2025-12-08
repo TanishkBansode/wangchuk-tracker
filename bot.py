@@ -589,7 +589,7 @@ Create a merged summary (2-3 sentences) that:
 
 Output JSON: {{"merged_summary": "..."}}"""
     
-    response = call_with_retry('models/gemini-flash-latest', prompt)
+    response = call_with_retry(MODEL_ID, prompt)
     if response:
         try:
             result = json.loads(response.text.replace('```json', '').replace('```', '').strip())
