@@ -105,9 +105,15 @@ TOPICS = [
     {
 	"page_id": "red_fort_incident",
 	"page_title": "red_fort_incident",
-	"topic_name": "red_fort_incident",
+	"topic_name": "Red Fort Incident",
 	"query": "Red+Fort+Blast+Incident"
-}
+    },
+    {
+	"page_id": "cricket_india",
+	"page_title": "Cricket India",
+	"topic_name": "Cricket India",
+	"query": "Cricket+India"
+    }
 ]
 
 def get_rss_url(query):
