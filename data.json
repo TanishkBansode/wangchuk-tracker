@@ -1,6 +1,21 @@
 [
   {
     "date": "2025-12-09",
+    "page_id": "trees_nashik",
+    "title": "Protest Held Over Tree Felling in Nashik's Tapovan Area",
+    "summary": "ANiS held a collective protest against tree felling in Nashik's Tapovan area, as reported by Free Press Journal via Google News. The article details a demonstration regarding this issue, but does not provide specific dates or times.",
+    "sentiment": "Critical",
+    "type": "pending",
+    "sources": [
+      {
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPY0lnSk15NHVSUHdjOS1lYmhQd0pyc3BLTHN0TXdfZVZtUzRnYWZ0OU1MOEx0OGhYaExFTmpiQkJhZHdtWHdTMWNhSC1lNnZlVWxSbTFMc3NVaWVJbENiemZ5TEU1eHR5ZWM4aWMyeXVsc1ZKTU1NSTJPcEp1Yjg3aVJYRERLYUtXdV9leC1SaHEyVUtfRWxvVFRjV2t3dmRWUEVGWGpwaFk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "original_link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPY0lnSk15NHVSUHdjOS1lYmhQd0pyc3BLTHN0TXdfZVZtUzRnYWZ0OU1MOEx0OGhYaExFTmpiQkJhZHdtWHdTMWNhSC1lNnZlVWxSbTFMc3NVaWVJbENiemZ5TEU1eHR5ZWM4aWMyeXVsc1ZKTU1NSTJPcEp1Yjg3aVJYRERLYUtXdV9leC1SaHEyVUtfRWxvVFRjV2t3dmRWUEVGWGpwaFk?oc=5",
+        "source": "Free Press Journal"
+      }
+    ]
+  },
+  {
+    "date": "2025-12-09",
     "page_id": "wangchuk",
     "title": "Supreme Court Defers Decision on Sonam Wangchuk's Virtual Court Plea, Centre Opposes",
     "summary": "The Supreme Court has deferred a decision regarding Sonam Wangchuk\u2019s plea for a virtual court. The Centre has opposed the plea, according to reports from Google News.",
