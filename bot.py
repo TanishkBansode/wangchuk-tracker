@@ -95,7 +95,13 @@ TOPICS = [
         "page_title": "Nashik trees",
         "topic_name": "Nashik trees",
         "query": "Nashik+trees"
-    }
+    },
+    {
+	"page_id": "formula_1",
+	"page_title": "Formula 1",
+	"topic_name": "Formula 1",
+	"query": "Formula+1"
+}
 ]
 
 def get_rss_url(query):
