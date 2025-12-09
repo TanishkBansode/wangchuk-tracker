@@ -101,6 +101,12 @@ TOPICS = [
 	"page_title": "Formula 1",
 	"topic_name": "Formula 1",
 	"query": "Formula+1"
+    },
+    {
+	"page_id": "red_fort_incident",
+	"page_title": "red_fort_incident",
+	"topic_name": "red_fort_incident",
+	"query": "Red+Fort+Blast+Incident"
 }
 ]
 
