@@ -1,5 +1,340 @@
 [
   {
+    "date": "2025-12-10",
+    "page_id": "cricket_india",
+    "title": "India Defeats South Africa in First T20I by 101 Runs",
+    "summary": "India defeated South Africa in the first T20I match by a significant margin of 101 runs. The performance of Pandya and the Indian bowlers were key to the victory.",
+    "sentiment": "Positive",
+    "type": "pending",
+    "sources": [
+      {
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYURCZTF3ZmFIQ2dpdi1vNURLX09vODM0SU1BZHhKLUk3UW5YNk91WU5XRlRxY0Y4dEJEX1NIUTBzSkVKa0lIem1DbGxNTGF1TlU1MXFUVHpibExLcHBEOEVNX2FnVlNhNWN4cjVwS0tUR0tWMFBITzcxaEtHUEpRT2lMMnhpVUMyd3FGZThRNVhpQ0hFQndhd09oWWk2ZVNxMGNvSVl4ZlU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "original_link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYURCZTF3ZmFIQ2dpdi1vNURLX09vODM0SU1BZHhKLUk3UW5YNk91WU5XRlRxY0Y4dEJEX1NIUTBzSkVKa0lIem1DbGxNTGF1TlU1MXFUVHpibExLcHBEOEVNX2FnVlNhNWN4cjVwS0tUR0tWMFBITzcxaEtHUEpRT2lMMnhpVUMyd3FGZThRNVhpQ0hFQndhd09oWWk2ZVNxMGNvSVl4ZlU?oc=5",
+        "source": "thefederal.com"
+      }
+    ]
+  },
+  {
+    "date": "2025-12-10",
+    "page_id": "formula_1",
+    "title": "Helmut Marko Departs Red Bull Formula 1 Team After Two Decades",
+    "summary": "Helmut Marko has left his position as a consultant with the Red Bull Formula 1 team after 20 years of service. The news was reported by Google News and details his departure from the team.",
+    "sentiment": "Neutral",
+    "type": "pending",
+    "sources": [
+      {
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMzNaVXJqRHJucndpNnJCUmJCaFE2WEtfMDF2MXRnVjlEeVBQNnlpQ3d1RFRSeVdGVFBNNzVyLVNBeHdpR3lRRENRdTM0N285SzNTMEpqTnRoaFhKeFVIejM0SEd6Rk9GZ0JJVW8wUVFoQ1A2ZkdKY0p3ZmdvQXdWRHM1aTdNQmxxSmprRzB0aEFZcWlONmI3YUo1UXp1ejNhcUdPWmJuanRjYkNO0gG6AUFVX3lxTFBrNzR5TXFlTHM2LVpDS3JyNWxPOHgzTGdmZENnRkYzT01JNWdteWlVbmVRQ3RLNVU2ZTNnTERLRWpkTGRoRnJ3NkNPanhQQkNJOGZsSnA4Qm5tejl1dTRBeE1IOGpFbHVkZ0FxMk5qTlhGM2VEVTRPNjhtdl96dTZYU0JvWHNybTd0dGtUQm1Bc3lVaWRhTXo0MFFheTFpNVdBNTdaeVIySWJ6YmxoazN1NzRYUjRkbkpodw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "original_link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMzNaVXJqRHJucndpNnJCUmJCaFE2WEtfMDF2MXRnVjlEeVBQNnlpQ3d1RFRSeVdGVFBNNzVyLVNBeHdpR3lRRENRdTM0N285SzNTMEpqTnRoaFhKeFVIejM0SEd6Rk9GZ0JJVW8wUVFoQ1A2ZkdKY0p3ZmdvQXdWRHM1aTdNQmxxSmprRzB0aEFZcWlONmI3YUo1UXp1ejNhcUdPWmJuanRjYkNO0gG6AUFVX3lxTFBrNzR5TXFlTHM2LVpDS3JyNWxPOHgzTGdmZENnRkYzT01JNWdteWlVbmVRQ3RLNVU2ZTNnTERLRWpkTGRoRnJ3NkNPanhQQkNJOGZsSnA4Qm5tejl1dTRBeE1IOGpFbHVkZ0FxMk5qTlhGM2VEVTRPNjhtdl96dTZYU0JvWHNybTd0dGtUQm1Bc3lVaWRhTXo0MFFheTFpNVdBNTdaeVIySWJ6YmxoazN1NzRYUjRkbkpodw?oc=5",
+        "source": "Outlook India"
+      }
+    ]
+  },
+  {
+    "date": "2025-12-10",
+    "page_id": "cricket_india",
+    "title": "Jitesh Sharma on Selection and Competition with Sanju Samson",
+    "summary": "Jitesh Sharma stated he is playing in the India XI while Sanju Samson is not currently selected. Sharma also mentioned a healthy competitive relationship between the two wicketkeepers.",
+    "sentiment": "Neutral",
+    "type": "pending",
+    "sources": [
+      {
+        "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOSl9UWTZXNXNVQnlhNDFveHM0VHY0bG9BWVFDU0lFWnZHeUoyMmRXMF9LY1loZW1WQ2NJX3ZjLUNJV2EyN1FqWEN2Sk5KMG5zREFvWW9pLWxlNXpMMUMyeHY3TVJYSllHdnBoUWJOT2tyRjFWaTRLcnpZU1EtOHdnMHNUalRoajlCRTlhQXNhcjI2RDdQSFJKUmRKaXJnZGd0MUg2ZXJUTEw0ZUh6NDRJbkhYRG4ycVNtTDlzTW9PTnRZNHhVSzhiMExSVTBxd25NLWlvWFNPZ0JyYVFzQmp3UXp3aExGNW1IaUZWVlRpaUp5VVMzZmJKRzR4a2dNMzJSakNPSmxB0gGLAkFVX3lxTFB2WmJmNHBaZTZfeVNGUHh5RDYyVTJWTWozZm1OUFhXMjQ5d2lxRUREdlJPSFIwSTN6VXRmTE9DZ1ZDUVpWbmlqNnlvZ3RIcm0zeEtyQk5uWDBORWF5VXJlcHYydHdFZml4bUhnZGRWRmpWZzlmN3hwdFU5bjFMdnJOM0thcVdxejNQUUVLMFA3Vmh3eTAwMHMtN3M5cVpoRlhySlRPdnlLNHhod0VZaXdjSm55UW5VcXZTcnlwRlZSdzJHMkh5MUZBWkxTa01LYUxoY2tZaTJ5ZFFzemJSem4xaDdSLXBERDdDSmRSbFJ4NXE0RUQyZUI4TWRaM2UtZ19mbTFqNGp5aGpHRQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "original_link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOSl9UWTZXNXNVQnlhNDFveHM0VHY0bG9BWVFDU0lFWnZHeUoyMmRXMF9LY1loZW1WQ2NJX3ZjLUNJV2EyN1FqWEN2Sk5KMG5zREFvWW9pLWxlNXpMMUMyeHY3TVJYSllHdnBoUWJOT2tyRjFWaTRLcnpZU1EtOHdnMHNUalRoajlCRTlhQXNhcjI2RDdQSFJKUmRKaXJnZGd0MUg2ZXJUTEw0ZUh6NDRJbkhYRG4ycVNtTDlzTW9PTnRZNHhVSzhiMExSVTBxd25NLWlvWFNPZ0JyYVFzQmp3UXp3aExGNW1IaUZWVlRpaUp5VVMzZmJKRzR4a2dNMzJSakNPSmxB0gGLAkFVX3lxTFB2WmJmNHBaZTZfeVNGUHh5RDYyVTJWTWozZm1OUFhXMjQ5d2lxRUREdlJPSFIwSTN6VXRmTE9DZ1ZDUVpWbmlqNnlvZ3RIcm0zeEtyQk5uWDBORWF5VXJlcHYydHdFZml4bUhnZGRWRmpWZzlmN3hwdFU5bjFMdnJOM0thcVdxejNQUUVLMFA3Vmh3eTAwMHMtN3M5cVpoRlhySlRPdnlLNHhod0VZaXdjSm55UW5VcXZTcnlwRlZSdzJHMkh5MUZBWkxTa01LYUxoY2tZaTJ5ZFFzemJSem4xaDdSLXBERDdDSmRSbFJ4NXE0RUQyZUI4TWRaM2UtZ19mbTFqNGp5aGpHRQ?oc=5",
+        "source": "Hindustan Times"
+      }
+    ]
+  },
+  {
+    "date": "2025-12-10",
+    "page_id": "cricket_india",
+    "title": "Shahid Afridi Comments on Gautam Gambhir's Role in Indian Cricket",
+    "summary": "Shahid Afridi has made further comments regarding Gautam Gambhir, referring to him as the 'backbone of India'. The article appears in the context of discussions surrounding potential team selections for the upcoming World Cup.",
+    "sentiment": "Critical",
+    "type": "pending",
+    "sources": [
+      {
+        "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQTlhqV3V1dFVvU3dlQzJHcjVLdHN5NDRCTFMtY1RWdkM2YUZvXzBzNHh2WWktSEFSUldIRVJLN2FVejdGVXc5ZGFTbERHNlQ0SmRWZEZacllwb2NRbU1Uc3VPdE1KNXVTLU9mT1JoRnRuckVYdTVQS2JiQjIySV9WMTBOa1M4aGVwLURRdUpyYllocUtTQmNCRExTWEt4dllwZ1hyaWZZeXd6NExrVWFGUkh4bW00VXBDNXNUaGtVLXhSYXV6WlZNbF9kYVdtbmMwM0dhVGhmOHN2eTFyUGNpMmlCU1dSNFVlanhjSHlsakhSTFhBWUc4VG5hemIwMExwMkd4cXBuZDJ5MEo1c1lPUkxVTlBBWldKRmc4SzZ4ONIBpAJBVV95cUxNdzlvVV9aZGtQSW5VYUJQRkFoMFhvbzNDaFZZaG44RjhaYk1TeEs4YzZNcEl2cUxUSnFaNnhSZjltWmpPanpiWjlCX2Z5Tlk4bXFmZlVwRWIyRGVqdmVqVFR3UWlaSGN4LUdwMVRaa3p5M2NMZG0xWS1BWFhPa1YtOXBZclhWZDgydDByZU9xSE1scXJoUEtLUWxYOXp0UXhuZEJwb01QS3puSEJXQlVHNC05NDZzUnNPX3g2eXBGUnNLdHJ3Z3JVMUFYeEZzSG5KbGktbUJkVi1UNXY5TzN2YzZHZFN3b3M2WDZCYS14YnlXMmo4c3pIYWdUd0NZSVhscmVLc05xeTlZWWl2b3pZX0NSaUVCVkk2THFMSG5ldUt3MlRp?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "original_link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQTlhqV3V1dFVvU3dlQzJHcjVLdHN5NDRCTFMtY1RWdkM2YUZvXzBzNHh2WWktSEFSUldIRVJLN2FVejdGVXc5ZGFTbERHNlQ0SmRWZEZacllwb2NRbU1Uc3VPdE1KNXVTLU9mT1JoRnRuckVYdTVQS2JiQjIySV9WMTBOa1M4aGVwLURRdUpyYllocUtTQmNCRExTWEt4dllwZ1hyaWZZeXd6NExrVWFGUkh4bW00VXBDNXNUaGtVLXhSYXV6WlZNbF9kYVdtbmMwM0dhVGhmOHN2eTFyUGNpMmlCU1dSNFVlanhjSHlsakhSTFhBWUc4VG5hemIwMExwMkd4cXBuZDJ5MEo1c1lPUkxVTlBBWldKRmc4SzZ4ONIBpAJBVV95cUxNdzlvVV9aZGtQSW5VYUJQRkFoMFhvbzNDaFZZaG44RjhaYk1TeEs4YzZNcEl2cUxUSnFaNnhSZjltWmpPanpiWjlCX2Z5Tlk4bXFmZlVwRWIyRGVqdmVqVFR3UWlaSGN4LUdwMVRaa3p5M2NMZG0xWS1BWFhPa1YtOXBZclhWZDgydDByZU9xSE1scXJoUEtLUWxYOXp0UXhuZEJwb01QS3puSEJXQlVHNC05NDZzUnNPX3g2eXBGUnNLdHJ3Z3JVMUFYeEZzSG5KbGktbUJkVi1UNXY5TzN2YzZHZFN3b3M2WDZCYS14YnlXMmo4c3pIYWdUd0NZSVhscmVLc05xeTlZWWl2b3pZX0NSaUVCVkk2THFMSG5ldUt3MlRp?oc=5",
+        "source": "Times Now"
+      }
+    ]
+  },
+  {
+    "date": "2025-12-10",
+    "page_id": "trees_nashik",
+    "title": "Nashik Residents Mobilize to Protect Tapovan Area",
+    "summary": "The article discusses efforts by Nashik citizens to protect the Tapovan area. It highlights community involvement in conservation, though specific dates or times are not provided in the limited text available.",
+    "sentiment": "Positive",
+    "type": "pending",
+    "sources": [
+      {
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQNTdrRDZQb09NTWE2dXZJb3E2ODJjNFZDWXhOTDZ4MU1RenlBRlF6ZGVVR0RPanhTZTVoTGN4SXBqYVhrVml0TXZiYnhhOWpPM3VFVGlucFItU0RzWmtFRHN6Mk1yWDNxbjZRdlhKcVBUaGhGM0xRU292ZzFJTTN0T3czVFNLRWhRNVVLdXlQcS04X0FKQk5Wa2lqME9EWHJZOXpHb2JVNmJ1Uk0xdXJLRDBRYWFRa3Ezb01vWWJnTGxJelZWQ2c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "original_link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQNTdrRDZQb09NTWE2dXZJb3E2ODJjNFZDWXhOTDZ4MU1RenlBRlF6ZGVVR0RPanhTZTVoTGN4SXBqYVhrVml0TXZiYnhhOWpPM3VFVGlucFItU0RzWmtFRHN6Mk1yWDNxbjZRdlhKcVBUaGhGM0xRU292ZzFJTTN0T3czVFNLRWhRNVVLdXlQcS04X0FKQk5Wa2lqME9EWHJZOXpHb2JVNmJ1Uk0xdXJLRDBRYWFRa3Ezb01vWWJnTGxJelZWQ2c?oc=5",
+        "source": "Hindustan Times"
+      }
+    ]
+  },
+  {
+    "date": "2025-12-10",
+    "page_id": "cricket_india",
+    "title": "India Cricket Team Selection Discussion: Samson, Gill, Pant",
+    "summary": "The article discusses perceived unfair treatment of Sanju Samson and comparisons of Shubman Gill to Virat Kohli and Rohit Sharma. It suggests considering Rishabh Pant's inclusion in the team if Samson's position is uncertain, but no specific dates are mentioned.",
+    "sentiment": "Critical",
+    "type": "pending",
+    "sources": [
+      {
+        "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOcURQRlJvaXp0QmNaTjVvTC02OE1XQnRscFlrUzZJMFE1Q2tVVWtpOEJ4M3YzU1ZLY09SWG5RbGlVVkNBdFIwdnFNTVVDUGQ0YzlYa25QZDVHVDlCRl9jTzlHN1AxUGpFbDZ2aU1uVXB2eWZkRGhSSXFyVHlMc0tYQk9CZXJoUzlsc3ZGdF9PYm0tR2x4TGRLWnFUd1VXWGsxampTel9zakdLb2FuU3BaSTRDTktKclM3eXdBN0IySFJTVm1mNjN4QVlVRmRGWTEySjJDV1Z4SGpwdTVfQnVRZUhWRktmVl9IVXJLWU5zV3I1U3I4eDZlSVEyb3dFOEHSAYQCQVVfeXFMUHg5Vll1M0E1VHp4QlN6MDdJU0Vwdm1xXzlrMUlPZ3hQcnRyYlpCM01TQ3Z5ekJycEFpM3RjLUtwdUdqMktPZ1BzQ180OFdZVFExRVhzSWE4cm1lZkhvZ2c3R09FNUlQSC1WMXVyOUNUWUFwN1ZzUG8tUmJGQVE3cHlhNHhod1o1OFE1cTk1TGxxcDRlQU1UN3dnbW9uQkI0OHZSSnh6RWYzUkU2bE1vSEk2OE4tTENqdExER0FMOHRER1dwa25KV0VQN2NkTlkwbG1EdGF3aVo2YXRiTnhXNHNZdElsY0MyQWZLU01kVTQtMFZ2TDBSMFZIajdxLWZ4R1FCaWg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "original_link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOcURQRlJvaXp0QmNaTjVvTC02OE1XQnRscFlrUzZJMFE1Q2tVVWtpOEJ4M3YzU1ZLY09SWG5RbGlVVkNBdFIwdnFNTVVDUGQ0YzlYa25QZDVHVDlCRl9jTzlHN1AxUGpFbDZ2aU1uVXB2eWZkRGhSSXFyVHlMc0tYQk9CZXJoUzlsc3ZGdF9PYm0tR2x4TGRLWnFUd1VXWGsxampTel9zakdLb2FuU3BaSTRDTktKclM3eXdBN0IySFJTVm1mNjN4QVlVRmRGWTEySjJDV1Z4SGpwdTVfQnVRZUhWRktmVl9IVXJLWU5zV3I1U3I4eDZlSVEyb3dFOEHSAYQCQVVfeXFMUHg5Vll1M0E1VHp4QlN6MDdJU0Vwdm1xXzlrMUlPZ3hQcnRyYlpCM01TQ3Z5ekJycEFpM3RjLUtwdUdqMktPZ1BzQ180OFdZVFExRVhzSWE4cm1lZkhvZ2c3R09FNUlQSC1WMXVyOUNUWUFwN1ZzUG8tUmJGQVE3cHlhNHhod1o1OFE1cTk1TGxxcDRlQU1UN3dnbW9uQkI0OHZSSnh6RWYzUkU2bE1vSEk2OE4tTENqdExER0FMOHRER1dwa25KV0VQN2NkTlkwbG1EdGF3aVo2YXRiTnhXNHNZdElsY0MyQWZLU01kVTQtMFZ2TDBSMFZIajdxLWZ4R1FCaWg?oc=5",
+        "source": "Hindustan Times"
+      }
+    ]
+  },
+  {
+    "date": "2025-12-10",
+    "page_id": "pune_metro",
+    "title": "Swargate-Katraj Metro Tunneling Completion Expected in March",
+    "summary": "Tunneling work on the Swargate-Katraj Metro line is expected to be completed by March, according to officials. The article, sourced from the Times of India via Google News, provides a timeline update on this specific section of the Pune Metro project.",
+    "sentiment": "Neutral",
+    "type": "pending",
+    "sources": [
+      {
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNbndXYzdtNmlOekZmRXVkYTF0Y19aaGVCbkNnRnhKaGdoaW0tMk5BeEVTZWE5ZDBYaVllM3VmV0JLRkllZmh6a25XSXhjU191WHdGWUMxQ3VOTVExdmJVS2JfdTBJUWdteDNLOWJ6TFVZeFlRaXNVLUt3ZkRKZHE0ZDJhcEhOdW8wMjFoVDh5VVFUbTd0QTI3T0JiaDNPQnFTRmlHZnVialhuLUJiOEV2VndEbk5ZaGtnMVdCQWluaEFlWXF0SGhEQllSN1IzMElBSDM4S1ZmanfSAd4BQVVfeXFMTm4tRHpLV2t2SXRMX0JhQzlJanBGZ0J1VDhXbENWRkdFV1FjTURmVjBGUm0yOVlIYkx5cHM5dHNQb1hpNGQtNmZURENuX1NmSWVUZmtkUFQxYnlwaHlYSi1HYmQxRXF0R3lHZXpFTGxiVktmLW96SWRudGpQdG9ncjQxSEtNbklZcVRrbUV4N1JjU25yaXlHc1B6Q2x3RzhFWDczUmdkeVhheDQyOEFLN1VRS1hjMkJjdFRGM3BMaERMRW1XVWVDcUoxbENZcE9UVUE3dXFCdnIwbEJ4MTNn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "original_link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNbndXYzdtNmlOekZmRXVkYTF0Y19aaGVCbkNnRnhKaGdoaW0tMk5BeEVTZWE5ZDBYaVllM3VmV0JLRkllZmh6a25XSXhjU191WHdGWUMxQ3VOTVExdmJVS2JfdTBJUWdteDNLOWJ6TFVZeFlRaXNVLUt3ZkRKZHE0ZDJhcEhOdW8wMjFoVDh5VVFUbTd0QTI3T0JiaDNPQnFTRmlHZnVialhuLUJiOEV2VndEbk5ZaGtnMVdCQWluaEFlWXF0SGhEQllSN1IzMElBSDM4S1ZmanfSAd4BQVVfeXFMTm4tRHpLV2t2SXRMX0JhQzlJanBGZ0J1VDhXbENWRkdFV1FjTURmVjBGUm0yOVlIYkx5cHM5dHNQb1hpNGQtNmZURENuX1NmSWVUZmtkUFQxYnlwaHlYSi1HYmQxRXF0R3lHZXpFTGxiVktmLW96SWRudGpQdG9ncjQxSEtNbklZcVRrbUV4N1JjU25yaXlHc1B6Q2x3RzhFWDczUmdkeVhheDQyOEFLN1VRS1hjMkJjdFRGM3BMaERMRW1XVWVDcUoxbENZcE9UVUE3dXFCdnIwbEJ4MTNn?oc=5",
+        "source": "Times of India"
+      }
+    ]
+  },
+  {
+    "date": "2025-12-09",
+    "page_id": "cricket_india",
+    "title": "Shahid Afridi Comments on Virat Kohli, Rohit Sharma, and Gautam Gambhir",
+    "summary": "Shahid Afridi criticized Gautam Gambhir and praised Virat Kohli and Rohit Sharma as key players in the Indian batting lineup. The article, sourced from Times of India via Google News, focuses on Afridi's statements regarding these cricketers.",
+    "sentiment": "Critical",
+    "type": "pending",
+    "sources": [
+      {
+        "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPZXBEOWJOLXk0cjJZN09PcFRfNk1wWC01aXM4eGxiTkdFVHB0QTlRanNUV0ItdklNdnlCd0dxdUZOZ1JLbERWak9pR2xRMS1HRVhDUDNYZ2FUOF83Z2R2OUp2MjNiZ0ZZTDhTdWFEWkNDVlFJZERBQmp5Sjc2c0dSZEpfU3BuQld3WnlfQkRVTi1GUFJjeXMxYXNpRXNjZzdHdm8zUU5sREkybUNURTZWektKMEtSbm5YM1pSSlVDUmI2aWV3UTBpNkhILVJteGQtMmR1LXhsWjJGLWg0YmJLSjltZUt5S2toejd4bGZ1U0lUVGNJWTFVaTQ2cFp5QkxLWjRwY2IzbzNHRFM0dHfSAZMCQVVfeXFMTXJ5bjZrZEJVMWQ2UmR2YTg4aEFuYWpOV2lEMkg3Vmx6TC1jVTlrRDJhcFlPWDNZNlNiTW5VeGxhb1NJZ1o5aExfOE9objZoZy1ac202QXNXV0ZfU3pKckxrYnlIcEJiU3BBYWtHSDRqaG1oLUtncmU4U1FSX1ZZVGRBYmxoTlhLc1Q1R3RCSXZjOExpdXlHZ0xGemFsQ1g1RGFWOHNLUE9pREZ5ZG9VMU0xM09BdHRBVDRucVZDcXhsZ09JM2lBV0RWM0gxQnpkQ0pOQ0xxNEJaZDlaU2xZOUxLY09CWFJUZUZ0SWdRbmRvVHhGc29abWQ2azFWenNjOHV1RUQ1TlNxZERORk5iZm5jT28?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "original_link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPZXBEOWJOLXk0cjJZN09PcFRfNk1wWC01aXM4eGxiTkdFVHB0QTlRanNUV0ItdklNdnlCd0dxdUZOZ1JLbERWak9pR2xRMS1HRVhDUDNYZ2FUOF83Z2R2OUp2MjNiZ0ZZTDhTdWFEWkNDVlFJZERBQmp5Sjc2c0dSZEpfU3BuQld3WnlfQkRVTi1GUFJjeXMxYXNpRXNjZzdHdm8zUU5sREkybUNURTZWektKMEtSbm5YM1pSSlVDUmI2aWV3UTBpNkhILVJteGQtMmR1LXhsWjJGLWg0YmJLSjltZUt5S2toejd4bGZ1U0lUVGNJWTFVaTQ2cFp5QkxLWjRwY2IzbzNHRFM0dHfSAZMCQVVfeXFMTXJ5bjZrZEJVMWQ2UmR2YTg4aEFuYWpOV2lEMkg3Vmx6TC1jVTlrRDJhcFlPWDNZNlNiTW5VeGxhb1NJZ1o5aExfOE9objZoZy1ac202QXNXV0ZfU3pKckxrYnlIcEJiU3BBYWtHSDRqaG1oLUtncmU4U1FSX1ZZVGRBYmxoTlhLc1Q1R3RCSXZjOExpdXlHZ0xGemFsQ1g1RGFWOHNLUE9pREZ5ZG9VMU0xM09BdHRBVDRucVZDcXhsZ09JM2lBV0RWM0gxQnpkQ0pOQ0xxNEJaZDlaU2xZOUxLY09CWFJUZUZ0SWdRbmRvVHhGc29abWQ2azFWenNjOHV1RUQ1TlNxZERORk5iZm5jT28?oc=5",
+        "source": "Times of India"
+      }
+    ]
+  },
+  {
+    "date": "2025-12-09",
+    "page_id": "formula_1",
+    "title": "Carlos Sainz Surpasses Lewis Hamilton's 2025 Podium Count",
+    "summary": "The article discusses Carlos Sainz exceeding Lewis Hamilton's podium finishes projected for 2025. It highlights Sainz's performance in relation to Hamilton's anticipated results.",
+    "sentiment": "Positive",
+    "type": "pending",
+    "sources": [
+      {
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMGExbG11UnFUU0hiTXVSd3M5SzZEZFJNUjF0Sm1KYm9jY1FwVnNESm8xWmYySFk5T2F4NFhMZ0VNWEFZQmdyNFJRNWFZMmRUT0FmNmhseHBhaXlTdWFzUjEwa2RSLUZoQk5kQlVwRnVDUFlQQWRJQTNmYkEzNGd5XzhSOU44a3ZRc0ZhQ1gxOHN1NGdNZWhldVowOFlENWxWVW00SjV4bEVEWmdCUzJkNElmYlVObGl4MEROUWNtNE5ESGprcFNEY1JB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "original_link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMGExbG11UnFUU0hiTXVSd3M5SzZEZFJNUjF0Sm1KYm9jY1FwVnNESm8xWmYySFk5T2F4NFhMZ0VNWEFZQmdyNFJRNWFZMmRUT0FmNmhseHBhaXlTdWFzUjEwa2RSLUZoQk5kQlVwRnVDUFlQQWRJQTNmYkEzNGd5XzhSOU44a3ZRc0ZhQ1gxOHN1NGdNZWhldVowOFlENWxWVW00SjV4bEVEWmdCUzJkNElmYlVObGl4MEROUWNtNE5ESGprcFNEY1JB?oc=5",
+        "source": "F1 Oversteer"
+      }
+    ]
+  },
+  {
+    "date": "2025-12-09",
+    "page_id": "formula_1",
+    "title": "Isack Hadjar Completes First Official Red Bull Outing",
+    "summary": "The article reports on Isack Hadjar's first official outing with Red Bull. It suggests Hadjar communicated a message to the team following this initial experience, though details are not provided in the limited text.",
+    "sentiment": "Neutral",
+    "type": "pending",
+    "sources": [
+      {
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYXF3TDd0SHRMNm5VTFpsb2xVSFF1R3ZoWHlNVEhtbHVVVnR4cXdiQ2s0NUZERTVRTUVQUDktQ3N3ZGNJSE1pYnMySm9IbW1UUFRNRGs2aURORUNtTFByVHhweUpKNDdwQ2J3UjVHY2dUSW1TcXFsb1oxNU1RdEdLa1J6S2prcU5ocVRBZ0JrcllKZDhTVXR2b3prSQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "original_link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYXF3TDd0SHRMNm5VTFpsb2xVSFF1R3ZoWHlNVEhtbHVVVnR4cXdiQ2s0NUZERTVRTUVQUDktQ3N3ZGNJSE1pYnMySm9IbW1UUFRNRGs2aURORUNtTFByVHhweUpKNDdwQ2J3UjVHY2dUSW1TcXFsb1oxNU1RdEdLa1J6S2prcU5ocVRBZ0JrcllKZDhTVXR2b3prSQ?oc=5",
+        "source": "racingnews365.com"
+      }
+    ]
+  },
+  {
+    "date": "2025-12-09",
+    "page_id": "trees_nashik",
+    "title": "Nashik Tapovan Protest Continues, NMC Seeks Resolution",
+    "summary": "Environmentalists are continuing their protest in Tapovan, Nashik. The Nashik NMC is currently working to find a resolution to the issues driving the protest, as of the time of reporting by Google News.",
+    "sentiment": "Neutral",
+    "type": "pending",
+    "sources": [
+      {
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQMVpUelIzZm5zdnV1RUZFb2Nfa1l2Z0FmY0tXU0xyTi1fZ1JkbVRIazR0OWZFOFpaRkh1Y3J2ZW9FWEhzVC1nZUl3Wl9HczZET0dMR3puLWhVRXJMQXZ6dnlmeGFWU2ctYUpvWUNIdlFXd3NfdXptcTlNVWgwNlZfYUZRTHBJZHlLNzlYMWF2ZUVnVFJDa0dpemJJR3pVZTMzazJqdVdQV1JiQms4cTMzQTBqLUkxa2xXNS1RWVpSX3pZQ3BGSldLcER0U21kWFVCNVJJ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "original_link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQMVpUelIzZm5zdnV1RUZFb2Nfa1l2Z0FmY0tXU0xyTi1fZ1JkbVRIazR0OWZFOFpaRkh1Y3J2ZW9FWEhzVC1nZUl3Wl9HczZET0dMR3puLWhVRXJMQXZ6dnlmeGFWU2ctYUpvWUNIdlFXd3NfdXptcTlNVWgwNlZfYUZRTHBJZHlLNzlYMWF2ZUVnVFJDa0dpemJJR3pVZTMzazJqdVdQV1JiQms4cTMzQTBqLUkxa2xXNS1RWVpSX3pZQ3BGSldLcER0U21kWFVCNVJJ?oc=5",
+        "source": "MSN"
+      }
+    ]
+  },
+  {
+    "date": "2025-12-09",
+    "page_id": "cricket_india",
+    "title": "Sanju Samson and Kuldeep Yadav Omitted from India's Playing XI for First T20I Against South Africa",
+    "summary": "The article explains the reasons behind Sanju Samson and Kuldeep Yadav not being included in the Indian playing eleven for the 1st T20I against South Africa. No specific dates or times beyond the mention of the '1st T20I' are provided in the limited text.",
+    "sentiment": "Neutral",
+    "type": "pending",
+    "sources": [
+      {
+        "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOb2JlSkZWNFFSVmI4d3FpM2pBd0FFWXhQcEs3NjMtVHNibjV2LWo1LTVmUXFEMTdEZjVYRU9veWw5NGZlSVdKY0g2SVVMa1llWTc1SHo1SG5xWGRjQkw2STFzNGpiNTRiWmdGZ090R3g1YWZzUGJPbElIcWU2VFd2QVN4RTBzVmlQWHpzYVlHN0ZBZjkxMGVLbjlDVFNIZmZWWWtVVW9zWktEZ3dBZ3JEbEVVekxvUWdGUkUwaXd2RGVBNGNTeXYyekZ5SUt0UnhiSF94RVZkZEJndlctVW1YcE55LVFZeUdMdF9UaDBFUXRZeGstcDBER0tIMV9FNjjSAYQCQVVfeXFMTXNUUFdSWHlzLU9SNWF3ZllEb2N6UXRaUDN1S0IyTURLOEZsMGdIUGV2VzFqVUlUS2w3aHZsSFpSR3VodU54OUItZEdsam1sRVh1OXhNdmx1cGVvWE5RV1d2TXloRkNGeUxDQVNoT0RlOS1qdmwtQmtlQlRSVnlIajFPSXh3ejV5N0ZaY0V1Nm93aUFzbU1IUWt5UlhTaThUMTk2cFQ5RERfZ3hzc3htSk0wX1J3Qm1IRkJvMUFwV1FhTGtiUlM5M2JNSmNvUHBsOXJzbTZBT1FZWkxnWUs0b3ROcXM4Z1R1eVI2TUFHRUFfNzBaVUYwZjhBWVlON0dyd1hzcTI?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "original_link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOb2JlSkZWNFFSVmI4d3FpM2pBd0FFWXhQcEs3NjMtVHNibjV2LWo1LTVmUXFEMTdEZjVYRU9veWw5NGZlSVdKY0g2SVVMa1llWTc1SHo1SG5xWGRjQkw2STFzNGpiNTRiWmdGZ090R3g1YWZzUGJPbElIcWU2VFd2QVN4RTBzVmlQWHpzYVlHN0ZBZjkxMGVLbjlDVFNIZmZWWWtVVW9zWktEZ3dBZ3JEbEVVekxvUWdGUkUwaXd2RGVBNGNTeXYyekZ5SUt0UnhiSF94RVZkZEJndlctVW1YcE55LVFZeUdMdF9UaDBFUXRZeGstcDBER0tIMV9FNjjSAYQCQVVfeXFMTXNUUFdSWHlzLU9SNWF3ZllEb2N6UXRaUDN1S0IyTURLOEZsMGdIUGV2VzFqVUlUS2w3aHZsSFpSR3VodU54OUItZEdsam1sRVh1OXhNdmx1cGVvWE5RV1d2TXloRkNGeUxDQVNoT0RlOS1qdmwtQmtlQlRSVnlIajFPSXh3ejV5N0ZaY0V1Nm93aUFzbU1IUWt5UlhTaThUMTk2cFQ5RERfZ3hzc3htSk0wX1J3Qm1IRkJvMUFwV1FhTGtiUlM5M2JNSmNvUHBsOXJzbTZBT1FZWkxnWUs0b3ROcXM4Z1R1eVI2TUFHRUFfNzBaVUYwZjhBWVlON0dyd1hzcTI?oc=5",
+        "source": "Times Now"
+      }
+    ]
+  },
+  {
+    "date": "2025-12-09",
+    "page_id": "formula_1",
+    "title": "Ferrari Announces Plans for 2026 Formula 1 Car Launch",
+    "summary": "The article reports that Ferrari is preparing to unveil its 2026 Formula 1 car. No specific launch date is provided in the text, only that it is expected to be revealed soon.",
+    "sentiment": "Neutral",
+    "type": "pending",
+    "sources": [
+      {
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWFJpUDNSbHpUYm9uN2p4bFBfaldXamVYOVVFTmNNdUtuekpLOFo5UTNYMmhqS1RabWxsYVpqcHF3X1Vwd3VISkZHcU5KSlNzUl9wWlg0LXZ3aHIzbHJOQVFDeDc2SS1uaXhLVFpVSDFEZU5XdDJGZVdaM085UXRocDh2X3FJd25JN3NvSWhpS1JCVnRSMWZOck5sQUJ3SzA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "original_link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWFJpUDNSbHpUYm9uN2p4bFBfaldXamVYOVVFTmNNdUtuekpLOFo5UTNYMmhqS1RabWxsYVpqcHF3X1Vwd3VISkZHcU5KSlNzUl9wWlg0LXZ3aHIzbHJOQVFDeDc2SS1uaXhLVFpVSDFEZU5XdDJGZVdaM085UXRocDh2X3FJd25JN3NvSWhpS1JCVnRSMWZOck5sQUJ3SzA?oc=5",
+        "source": "Scuderia Ferrari Fans"
+      }
+    ]
+  },
+  {
+    "date": "2025-12-09",
+    "page_id": "formula_1",
+    "title": "Red Bull Lose Formula 1 Titles to McLaren; Perez Responds",
+    "summary": "The article reports that Red Bull has lost both Formula 1 titles to McLaren. Sergio Perez offered a one-word response following the outcome, as reported by PlanetF1 via Google News.",
+    "sentiment": "Negative",
+    "type": "pending",
+    "sources": [
+      {
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSzJrM1didUlLZjNmaFhGanZ4cFRtc1VrQTNnaXFDbHpfWXZpMDQ5TFUzb1QxbHhCaktSa29zeE02S3Z1bFBfcThlZ2tWaW9NTkd6Njc2Zl96bFQxVVVSbnF3dWcxNzdrUUdKcUsyQTNzZ1hzazNOQTIwbWVGbmE4VVh3M3pkZmo4NFBWT1ViNFhqZWxYQkNSY0ZaTmM5MkJGSWJj?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "original_link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSzJrM1didUlLZjNmaFhGanZ4cFRtc1VrQTNnaXFDbHpfWXZpMDQ5TFUzb1QxbHhCaktSa29zeE02S3Z1bFBfcThlZ2tWaW9NTkd6Njc2Zl96bFQxVVVSbnF3dWcxNzdrUUdKcUsyQTNzZ1hzazNOQTIwbWVGbmE4VVh3M3pkZmo4NFBWT1ViNFhqZWxYQkNSY0ZaTmM5MkJGSWJj?oc=5",
+        "source": "PlanetF1"
+      }
+    ]
+  },
+  {
+    "date": "2025-12-09",
+    "page_id": "formula_1",
+    "title": "Lando Norris' Personal Life",
+    "summary": "A recent Google News article details the personal life of Formula 1 driver Lando Norris, specifically exploring his romantic relationships and inquiring about his current girlfriend. Beyond his love life, the article also covers Norris's net worth and family background, providing a broader overview of his life outside of racing.",
+    "sentiment": "Neutral",
+    "type": "pending",
+    "sources": [
+      {
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNcUpKS0FDU0RJbkRvc29DTjdueWNuYXBwTzJZZmlzaFd3SFhRMUdGSWs5bGpGdndRSzdrVEtPaG5EdkZNS1V2VHh3TkhSZ2thY2Q0bEtERTVEWnRqTk43S19yd0xlYjVqRm9HY0dPVlVidVZod0FCRnJFRzNkTXhESXJCel9IbWJqX0xzcDlJRnV0NTd2OE9B?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "original_link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNcUpKS0FDU0RJbkRvc29DTjdueWNuYXBwTzJZZmlzaFd3SFhRMUdGSWs5bGpGdndRSzdrVEtPaG5EdkZNS1V2VHh3TkhSZ2thY2Q0bEtERTVEWnRqTk43S19yd0xlYjVqRm9HY0dPVlVidVZod0FCRnJFRzNkTXhESXJCel9IbWJqX0xzcDlJRnV0NTd2OE9B?oc=5",
+        "source": "Gulf News"
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNT2lDei1pbkxuRkRLTmwxZGxtQ29Ga0Vsd3gzQm9Ua3lnd3RQSnk4aXFfeXVNU1FIbmJYWklnWFZzdDhFMGRhZ2FUREE2UThOaXBxMTJHYVdGeGNCQmhObVc1bkZabnlXQzZPQ2QzOEc1OHJZVk1GY1hLVjNPQ3ZzYjlBTHRaWVpFUGdWZnBUeE5qSjNKRkl2TVdsSVBXa1ZONU1GT2lKTXZadUt1ZzhrNEFwZmpvVkw3MDRXc3NGbEU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "original_link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNT2lDei1pbkxuRkRLTmwxZGxtQ29Ga0Vsd3gzQm9Ua3lnd3RQSnk4aXFfeXVNU1FIbmJYWklnWFZzdDhFMGRhZ2FUREE2UThOaXBxMTJHYVdGeGNCQmhObVc1bkZabnlXQzZPQ2QzOEc1OHJZVk1GY1hLVjNPQ3ZzYjlBTHRaWVpFUGdWZnBUeE5qSjNKRkl2TVdsSVBXa1ZONU1GT2lKTXZadUt1ZzhrNEFwZmpvVkw3MDRXc3NGbEU?oc=5",
+        "source": "MSN"
+      }
+    ]
+  },
+  {
+    "date": "2025-12-08",
+    "page_id": "formula_1",
+    "title": "Report: Maguire Corsairo Celebrates Lando Norris's Performance in Abu Dhabi",
+    "summary": "The article reports on Maguire Corsairo's celebration of Lando Norris's performance, likely in Abu Dhabi. The source is Google News, but no specific dates or times are provided within the given text.",
+    "sentiment": "Positive",
+    "type": "pending",
+    "sources": [
+      {
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNXRGeHRQTG9rM1BCZkVUb3pHUkFFRFU4cUZvdkhsSUVBU1F3ekRYWDFnM2F2dnNWMk5jMGxUYTllMThSdVp0end0bms2SlVKZDhhWU9TOTN2b0FZbDBfc0h1OXNWSGtNdVVvQ3NVV1I0ZjJNb2hpUHJ6TlhEZng3dFBtcnIyT0V0bkxoSFBQd1BKOHB2b2ZRV0tJZ3dJNnM3NGF5SkI1N2psQ0lEWExVVHhMYWRZWEp2SnRqVVQ0ZDFxdUNuaU5WUlhoX3A2YXNGelFDTkRjelg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "original_link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNXRGeHRQTG9rM1BCZkVUb3pHUkFFRFU4cUZvdkhsSUVBU1F3ekRYWDFnM2F2dnNWMk5jMGxUYTllMThSdVp0end0bms2SlVKZDhhWU9TOTN2b0FZbDBfc0h1OXNWSGtNdVVvQ3NVV1I0ZjJNb2hpUHJ6TlhEZng3dFBtcnIyT0V0bkxoSFBQd1BKOHB2b2ZRV0tJZ3dJNnM3NGF5SkI1N2psQ0lEWExVVHhMYWRZWEp2SnRqVVQ0ZDFxdUNuaU5WUlhoX3A2YXNGelFDTkRjelg?oc=5",
+        "source": "112.ua"
+      }
+    ]
+  },
+  {
+    "date": "2025-12-08",
+    "page_id": "formula_1",
+    "title": "Lando Norris Celebrates Formula 1 Victory",
+    "summary": "The article reports on Lando Norris's celebration following a Formula 1 win, including details about a large bar bill. It also mentions his girlfriend, who is a model, and his achievement in making sporting history.",
+    "sentiment": "Positive",
+    "type": "pending",
+    "sources": [
+      {
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQaVdxZTZiZ2owMnpXdWV2MzZXWTh1em1OWm90ak54WjhIWlBLNFVGRDhUeno1S1NqUENOdTNGM2t2aEsyS1RsbVg2azZnMVZtSENQejVIR3dQSHJNbXpxeWZ3RXZXRDRrcERISHRPb3QzUlQzV2doN0JaMEgwNkF2M3VCY012d3VvcnF1dU93TkNyVEJGOFBB?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "original_link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQaVdxZTZiZ2owMnpXdWV2MzZXWTh1em1OWm90ak54WjhIWlBLNFVGRDhUeno1S1NqUENOdTNGM2t2aEsyS1RsbVg2azZnMVZtSENQejVIR3dQSHJNbXpxeWZ3RXZXRDRrcERISHRPb3QzUlQzV2doN0JaMEgwNkF2M3VCY012d3VvcnF1dU93TkNyVEJGOFBB?oc=5",
+        "source": "The Sun"
+      }
+    ]
+  },
+  {
+    "date": "2025-12-08",
+    "page_id": "formula_1",
+    "title": "Lando Norris' Girlfriend Featured in Lingerie Photos",
+    "summary": "The article reports on photos of Lando Norris' girlfriend, Magui Corceiro, in lingerie. The source of the article is Google News, but no specific dates or times are mentioned within the provided text.",
+    "sentiment": "Neutral",
+    "type": "pending",
+    "sources": [
+      {
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRHFvaHJnT29jdm1HTGM0Slp5bkczOEVVUzlGZWR5NGlsVTJrT1ZoSmlnWGFjSmVITjBiMW81LUxWdmdRdkdfS09hTk9ZWElSazB5X21XV2pTUmJubFg3R3FzUHltckJ6TG43LVZwTTVHQ1pHMDhrYlBxYXlDblhjOVRyVDJrV0dkUlBVOEFjczZnbWthb0ZsM2VabHdVUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "original_link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRHFvaHJnT29jdm1HTGM0Slp5bkczOEVVUzlGZWR5NGlsVTJrT1ZoSmlnWGFjSmVITjBiMW81LUxWdmdRdkdfS09hTk9ZWElSazB5X21XV2pTUmJubFg3R3FzUHltckJ6TG43LVZwTTVHQ1pHMDhrYlBxYXlDblhjOVRyVDJrV0dkUlBVOEFjczZnbWthb0ZsM2VabHdVUQ?oc=5",
+        "source": "The Sun"
+      }
+    ]
+  },
+  {
+    "date": "2025-12-08",
+    "page_id": "cricket_india",
+    "title": "Virat Kohli Invests Rs 40 Crore in His Brand",
+    "summary": "Virat Kohli has reportedly invested Rs 40 crore into his own brand, signaling a new phase for the company. The report, published by NDTV Sports via Google News, details this financial commitment.",
+    "sentiment": "Neutral",
+    "type": "pending",
+    "sources": [
+      {
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQWVYRW1CYzMtdnpSVHdPX1huWXBzS1JNUk1YTGxnMURzTDdZamRUNEpqVV9wOHVfN0RuSW9la0s2RnJKSUd0RDZrWEtHdEFrTEEzbzkxSWNDN0VVaDhTOVVjNHgzZVlQUkJEQnpKZjdzTXlMS2JNM2F0SVJXMUM2aWp0bGRlSVN6U084NWVSX3BSTmdEemZVTVRJVEhKQ05JeFhnbzltcEtCWEdSa1FvaHNaSXcybUNzbGRvcU5TWHltbV9NRF9OdA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "original_link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQWVYRW1CYzMtdnpSVHdPX1huWXBzS1JNUk1YTGxnMURzTDdZamRUNEpqVV9wOHVfN0RuSW9la0s2RnJKSUd0RDZrWEtHdEFrTEEzbzkxSWNDN0VVaDhTOVVjNHgzZVlQUkJEQnpKZjdzTXlMS2JNM2F0SVJXMUM2aWp0bGRlSVN6U084NWVSX3BSTmdEemZVTVRJVEhKQ05JeFhnbzltcEtCWEdSa1FvaHNaSXcybUNzbGRvcU5TWHltbV9NRF9OdA?oc=5",
+        "source": "NDTV Sports"
+      }
+    ]
+  },
+  {
+    "date": "2025-12-08",
+    "page_id": "formula_1",
+    "title": "Lando Norris and Magui Corceiro Relationship Details",
+    "summary": "The article discusses the relationship between Formula 1 driver Lando Norris and Magui Corceiro. It also suggests potential conflicts arising from the relationship with other drivers, though no specific dates or times are mentioned in the provided text.",
+    "sentiment": "Neutral",
+    "type": "pending",
+    "sources": [
+      {
+        "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOVXp2aGU4WHBKVWE4aHpNTW1XZ2NVTkJ2ZXViTnF4cUhSNUdKVXpGZm03OUhnTGFqa3B0OFdOZktrS09RZnRtR0pxTEF2Y3NnTzRfMC1NZS1oRzFhaTBMdHo0bTB3Mk1IeEEtTEppaUtBcC1XZTd1NExvVGFpdmU5ZkkySjkzWGt4M0VsVmdQM1VWbGRFcHUwMHRLWkxYMlg1RnpCbmh1MXZJdm9wLVdKNGNCQXg0TEdMNTc4UE16NDhBaDdHcTYteVk2Q3A3RjV1WUlLR1k0Wlh3TFNLbUhIaXBDekI1bUs3UHh1ajg5N3VKUTctVWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "original_link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOVXp2aGU4WHBKVWE4aHpNTW1XZ2NVTkJ2ZXViTnF4cUhSNUdKVXpGZm03OUhnTGFqa3B0OFdOZktrS09RZnRtR0pxTEF2Y3NnTzRfMC1NZS1oRzFhaTBMdHo0bTB3Mk1IeEEtTEppaUtBcC1XZTd1NExvVGFpdmU5ZkkySjkzWGt4M0VsVmdQM1VWbGRFcHUwMHRLWkxYMlg1RnpCbmh1MXZJdm9wLVdKNGNCQXg0TEdMNTc4UE16NDhBaDdHcTYteVk2Q3A3RjV1WUlLR1k0Wlh3TFNLbUhIaXBDekI1bUs3UHh1ajg5N3VKUTctVWc?oc=5",
+        "source": "Zee News"
+      }
+    ]
+  },
+  {
+    "date": "2025-12-08",
+    "page_id": "cricket_india",
+    "title": "Shubman Gill's Performance Under Scrutiny Ahead of T20 International Series",
+    "summary": "The article discusses the pressure on Shubman Gill to perform well in the upcoming T20Is. A former India all-rounder has issued a warning regarding Gill's current form, suggesting this series is crucial for his position.",
+    "sentiment": "Urgent",
+    "type": "pending",
+    "sources": [
+      {
+        "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQWWtlSFR3UHduTkViOHpHaGtvanNMSDYwZkRrdWxlTGJXM0xwQnY2aHE0dUJHWUdMVmpoUFlNckRrdlRteDV5UVBOaHdsbnUwbU1qVzJ2aEVMTVlZVWlMdTlkTGxRXzd6VlNMQjFMeUVpUHpWb3BMbExLdkQxWTcxSDY3aThwc0Y4QmdEOXRVU1J2ZXR0MlV5Sl9oenlhdTItRGtQNHo4NERfUG8zSTZaeFhPWjdXclV6MUludmc2ODM1dWJ2SWM1UExySHFKd29LVThfLUp3TkFBRURlTGpNUlB4aFhENkhJb2JZeEN1bF8xNmd5M0xvOHRTZnFlbnN2dVJCdUh4Tk4tdGhSQnVZ0gGUAkFVX3lxTFBSUTBwZHRwNHAxR2hnT1VycTRHVWRKZExkc1MwZHdWY1V2NEs5cG1oU3hIdTRxQUZyS2JXaFRoc2pnMW9fQnlzMElZdHNXNF9IU1ZJVFFNRGlPRjJmU01iel9JYnFmQmVLcGZPaC1hRGRtWGlsbElKQTZ2UGQ0Q0xhZUpzTS1ZMFlXd1ltS21LYjJjVU1VRnVkZ0NQUk82aG5zOE1nZUx2YkZWZF8yajBDUWNuUVZXaWhJeWQySVk5OG9uSUhBVGtTNDRTNWptd0ZEVEZ4UHAwdG04QmVlUDR5ZGJnU1l2UF85eVduRnQ3aTUxS01WZFI1VzVYZFczbTdRYW1nUFY4cnFDVHpmZWRsQWI0Zg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "original_link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQWWtlSFR3UHduTkViOHpHaGtvanNMSDYwZkRrdWxlTGJXM0xwQnY2aHE0dUJHWUdMVmpoUFlNckRrdlRteDV5UVBOaHdsbnUwbU1qVzJ2aEVMTVlZVWlMdTlkTGxRXzd6VlNMQjFMeUVpUHpWb3BMbExLdkQxWTcxSDY3aThwc0Y4QmdEOXRVU1J2ZXR0MlV5Sl9oenlhdTItRGtQNHo4NERfUG8zSTZaeFhPWjdXclV6MUludmc2ODM1dWJ2SWM1UExySHFKd29LVThfLUp3TkFBRURlTGpNUlB4aFhENkhJb2JZeEN1bF8xNmd5M0xvOHRTZnFlbnN2dVJCdUh4Tk4tdGhSQnVZ0gGUAkFVX3lxTFBSUTBwZHRwNHAxR2hnT1VycTRHVWRKZExkc1MwZHdWY1V2NEs5cG1oU3hIdTRxQUZyS2JXaFRoc2pnMW9fQnlzMElZdHNXNF9IU1ZJVFFNRGlPRjJmU01iel9JYnFmQmVLcGZPaC1hRGRtWGlsbElKQTZ2UGQ0Q0xhZUpzTS1ZMFlXd1ltS21LYjJjVU1VRnVkZ0NQUk82aG5zOE1nZUx2YkZWZF8yajBDUWNuUVZXaWhJeWQySVk5OG9uSUhBVGtTNDRTNWptd0ZEVEZ4UHAwdG04QmVlUDR5ZGJnU1l2UF85eVduRnQ3aTUxS01WZFI1VzVYZFczbTdRYW1nUFY4cnFDVHpmZWRsQWI0Zg?oc=5",
+        "source": "Times of India"
+      }
+    ]
+  },
+  {
+    "date": "2025-12-07",
+    "page_id": "cricket_india",
+    "title": "Kohli and Sharma to Receive Modified Approach Following South Africa ODI Series",
+    "summary": "The article reports that Virat Kohli and Rohit Sharma have been asked to be approached differently following the ODIs against South Africa. No specific dates are mentioned in the provided text beyond the reference to the South Africa ODIs.",
+    "sentiment": "Neutral",
+    "type": "pending",
+    "sources": [
+      {
+        "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPQm1vZWRkYVJ1X2FyRjlld3p3LVFTSlJEcS1udWE1aEpWMEhDSG10eXlFWGhlbEtyT3d5cVYxandYZnRPRjAtbEZET19vcmJxWUVrZmI0VjdDcUkzamhpODFVQUJXc0QwUGVXeGhXM3liYW9qamxOTmZWTm9ZYXktckg5Rlh2UW5SeWhzUlo0WXVZT3JKWklLU1pGSmVVZFlUdEpuZ3JhSVYxeWU1ekUweGdCeTd4LS1KOXk1bjh4aXI1QVZkVjM4amRET1BPMGJJd2RfcGhiWWdPMS1ra1paVlprc2tCTDFsSjRsOGFUUFc1WDhOLU1YVmllekZmanVXOVBGbtIBigJBVV95cUxPMjR3Sjluek1qRVl4elZ1UHJkTENuNXJQUi1GWmFwMWpjOHJlS0E0V2xTWjFicEZKX0MwekU4cUFtSEI2TnNtSXFSVGlscmZmdkt5UUs2NjZZNVdxVjd4OTlIczVvOE5nUkNRandCcUZKX20xby14S2l2M2RqR0FqLThYc1RzMHVxSmI4ekM1a2Z3WnFzWnVIWXVSdU9fck4yNTJpYVlaS2Z3Z3VfVGdTNmhvZ2p0NElXNzZhYW9RWjRwWS1zNURScUV4UkV4YlZ0OS1qeVMzMnBBbWdWZkxnNmZKd3hnX1JVWVJLd3V6N05wNnJnZjMwajFoODJVSVhXeXozQnRJSUg2UQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "original_link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPQm1vZWRkYVJ1X2FyRjlld3p3LVFTSlJEcS1udWE1aEpWMEhDSG10eXlFWGhlbEtyT3d5cVYxandYZnRPRjAtbEZET19vcmJxWUVrZmI0VjdDcUkzamhpODFVQUJXc0QwUGVXeGhXM3liYW9qamxOTmZWTm9ZYXktckg5Rlh2UW5SeWhzUlo0WXVZT3JKWklLU1pGSmVVZFlUdEpuZ3JhSVYxeWU1ekUweGdCeTd4LS1KOXk1bjh4aXI1QVZkVjM4amRET1BPMGJJd2RfcGhiWWdPMS1ra1paVlprc2tCTDFsSjRsOGFUUFc1WDhOLU1YVmllekZmanVXOVBGbtIBigJBVV95cUxPMjR3Sjluek1qRVl4elZ1UHJkTENuNXJQUi1GWmFwMWpjOHJlS0E0V2xTWjFicEZKX0MwekU4cUFtSEI2TnNtSXFSVGlscmZmdkt5UUs2NjZZNVdxVjd4OTlIczVvOE5nUkNRandCcUZKX20xby14S2l2M2RqR0FqLThYc1RzMHVxSmI4ekM1a2Z3WnFzWnVIWXVSdU9fck4yNTJpYVlaS2Z3Z3VfVGdTNmhvZ2p0NElXNzZhYW9RWjRwWS1zNURScUV4UkV4YlZ0OS1qeVMzMnBBbWdWZkxnNmZKd3hnX1JVWVJLd3V6N05wNnJnZjMwajFoODJVSVhXeXozQnRJSUg2UQ?oc=5",
+        "source": "Times of India"
+      }
+    ]
+  },
+  {
     "date": "2025-12-09",
     "page_id": "cricket_india",
     "title": "Analysis of Shubman Gill's Performance in T20 World Cup",
@@ -442,6 +777,12 @@
         "original_link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOOVpJLWUwc1ZwVlpBMVc5NkdhcWtkenhrTVg1QTVZRjdlOFA3OXdKVS0wWmtDaHBCdC1DaVlFZzIxYUttbGtSMkVqMUlBV2cxVjcxc3dtNktyNXF5SXFLS1pRTDhkblM4WnhYV0U2ZWFaUUlmdWJXWE5qd056MWxXYXo4OGltcnNaRndheEFwYlFseXp5WEpTSDRacHNYWWVaWnZuTEptR0dfanAy0gGyAUFVX3lxTE1sb19SMzc0NVN6dDNZQ0t6Vzg5VGdHTjB1RXp0a1NvWkdvSHZRNFJpa2ZrOHBrTzkxbTdnNjBfMTZEWVpfYTdneEVpckhmWkdlbF80b212M3BzQlRYd3ZtM3o0ODJEUlMwTlJNekVUOHpzSzFvd0Jib2VQTjhFMGFvMjc4SWhIR0lzM0ptN21JbDZoWTd2bzZfLXAtaWlNdWxyeFJZbzljZkE0NEhKWmJ1R0E?oc=5",
         "source": "News18",
         "scraped_text": "Google News"
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOMzNMSDRaRXhIMlBBTGR2SFRTWWdram1uaUk5WjRONEd0T1dLeTZhdzNMSXEtMFpPaFhiZmYtUVowTXprNVF1VzA4T0IyLTM1Vklvd1FzdlZmR3lXWXpRVjNmdlVfLTdQZzdVZVl3TVNENEZGN3FTZnBjdDZYQlUxTGFSNWkwTmxhSWxvSmdUOXcxZUtHWjhOVUdqeGlyeFNIem9vbHEyOWp5bThEUFhmRHVIQ0pzbXVWc0VQWmc4NV9TOEdQdjI4cFptb2J1TWpsRE9KTGIyVG90WUoxVEIwMGl2aDNLRnJHY29HQS1vMkgzUjRxU3BlLVdmZlNIRkI4MHg0WGxzTTlQOWdNOXJrNmdUWWFPSF90aVRR?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "original_link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOMzNMSDRaRXhIMlBBTGR2SFRTWWdram1uaUk5WjRONEd0T1dLeTZhdzNMSXEtMFpPaFhiZmYtUVowTXprNVF1VzA4T0IyLTM1Vklvd1FzdlZmR3lXWXpRVjNmdlVfLTdQZzdVZVl3TVNENEZGN3FTZnBjdDZYQlUxTGFSNWkwTmxhSWxvSmdUOXcxZUtHWjhOVUdqeGlyeFNIem9vbHEyOWp5bThEUFhmRHVIQ0pzbXVWc0VQWmc4NV9TOEdQdjI4cFptb2J1TWpsRE9KTGIyVG90WUoxVEIwMGl2aDNLRnJHY29HQS1vMkgzUjRxU3BlLVdmZlNIRkI4MHg0WGxzTTlQOWdNOXJrNmdUWWFPSF90aVRR?oc=5",
+        "source": "News18",
+        "scraped_text": "Google News"
       }
     ]
   },
@@ -457,6 +798,12 @@
         "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPQWtkWDN5blJ5emFiQ3MycGcxd1J3YnRrM0VWM0IwVmU2aFZ1Nl9LWHpfeU1Idk52OUtVbnduTktuQmx2eWFET0xwcTZGZDZvR3lUZkw4U3VrN0p0TXU1TkZveHVDdHBrbDMzUnJ2YzM3VnBiRXpuNzFtcWFzekttcnF5QV9DVUhDVy00SUlhYXVtUXV5X2lueTF5ZmJYM3RIM05hck82M2VlUjVWOGNFRUd5WlQtSktRcUV5TkZRc0p4UXJKOFRLNkpoSUZkRGJIN2c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "original_link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPQWtkWDN5blJ5emFiQ3MycGcxd1J3YnRrM0VWM0IwVmU2aFZ1Nl9LWHpfeU1Idk52OUtVbnduTktuQmx2eWFET0xwcTZGZDZvR3lUZkw4U3VrN0p0TXU1TkZveHVDdHBrbDMzUnJ2YzM3VnBiRXpuNzFtcWFzekttcnF5QV9DVUhDVy00SUlhYXVtUXV5X2lueTF5ZmJYM3RIM05hck82M2VlUjVWOGNFRUd5WlQtSktRcUV5TkZRc0p4UXJKOFRLNkpoSUZkRGJIN2c?oc=5",
         "source": "OneCricket"
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMHo1bkwzQnViV3BtTDlRdjBiNGwyVEktLUNWMGJhckFXemRGTzdFVDF3MlR3Z19CazNURkVHcUI1Q2xmSk1pTk8zelFGaUxjbVNiUVc3YWE1VVNIUlY5Wkh3TnlSWTRyUFJCdXBfc1FpQ2FvNVUyc1lMeUE2Z3JTdk9KR2NILXZxTGRiTnh0bThYTmYxWEdWUkhzWmxRODJVNmswTzlwTUxwbzJKeWg0?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "original_link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMHo1bkwzQnViV3BtTDlRdjBiNGwyVEktLUNWMGJhckFXemRGTzdFVDF3MlR3Z19CazNURkVHcUI1Q2xmSk1pTk8zelFGaUxjbVNiUVc3YWE1VVNIUlY5Wkh3TnlSWTRyUFJCdXBfc1FpQ2FvNVUyc1lMeUE2Z3JTdk9KR2NILXZxTGRiTnh0bThYTmYxWEdWUkhzWmxRODJVNmswTzlwTUxwbzJKeWg0?oc=5",
+        "source": "Australian Broadcasting Corporation",
+        "scraped_text": "Google News"
       }
     ]
   },
@@ -606,6 +953,12 @@
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPd3lucmtpcFZIeDNHR1ZVVXV6RzJ4Q2xtb1VSX3FETkpkbm1SNmQ5a2dfQTdJcE5sR0FPY2tCVl83R2VQenVSdWotN0NYTWdZR25GSi1qZWVtTjFkM044bllOOFVUenFtUDRyRmZYMjlzN08wTWV6VklRNFJTRTZuRzFiakExNHVCWjk2NXdZTFVscnRPT19zUm9zaG9CSFh6R1FqUDI4bUswZkxNbFlNbmk2SdIBuAFBVV95cUxQQnc3TlBvTHY4ZzQtMldlTlpuaWZDbzN0TkxNcWgzbWwzczRwcFZtMGlPa1lBWHZOTTNkdVdxYUtJaWMwaWhhenpKdDdMdl9vNmxXYUNpb3JDaHdtMUZ5ZUdVdzd5U3p6NXV1dFk2aXpMTDhxRVVLb0lQaVBqbUt6NVZJRksteWdBUGlaRTVEX0x2Y3RNaEFKQmc1UU9ZWWowc3VPRExzYVNUbG1teFRmLTZ5aU5UU09D?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "original_link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPd3lucmtpcFZIeDNHR1ZVVXV6RzJ4Q2xtb1VSX3FETkpkbm1SNmQ5a2dfQTdJcE5sR0FPY2tCVl83R2VQenVSdWotN0NYTWdZR25GSi1qZWVtTjFkM044bllOOFVUenFtUDRyRmZYMjlzN08wTWV6VklRNFJTRTZuRzFiakExNHVCWjk2NXdZTFVscnRPT19zUm9zaG9CSFh6R1FqUDI4bUswZkxNbFlNbmk2SdIBuAFBVV95cUxQQnc3TlBvTHY4ZzQtMldlTlpuaWZDbzN0TkxNcWgzbWwzczRwcFZtMGlPa1lBWHZOTTNkdVdxYUtJaWMwaWhhenpKdDdMdl9vNmxXYUNpb3JDaHdtMUZ5ZUdVdzd5U3p6NXV1dFk2aXpMTDhxRVVLb0lQaVBqbUt6NVZJRksteWdBUGlaRTVEX0x2Y3RNaEFKQmc1UU9ZWWowc3VPRExzYVNUbG1teFRmLTZ5aU5UU09D?oc=5",
         "source": "News18",
+        "scraped_text": "Google News"
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxONjNEOFRDd2N6NGtrYjZaa3VvZ2RrTzVwdzc5V3JRdVZFWU9pTFBESUEwdjNwODRGR1d2a0ItSnlvd1ltUnh5czNGSm9HdFBzQW5kSHJPcEV5OXRhT1pfYi1QbWFfZnlYbjh4RWlBbGt5dGtzX2g4c3BvRlBfZjJlSy1CR0dLUWpLcnJZQlF1ZnloOVdTU09RSm40WVZIMHRIb3VMbXBOV09EZlNzcnU1RTFfdmwzaERTUjA2NTZvTk5pOVhvbnBvcGtCU1lqbWpKMm1keU1la1VZblRWb09mMEhKczBodVgzZXI1dVFLa0ZkRllGZnJkN1Bsc21PdEZHaVp6aVM2cC1FVDl1WERMYXh5QTHSAZoCQVVfeXFMT3dyQXpscXN3TUl5YWtKZW1GaHU4eHJZTkNvclVBdU5ZT014UU1XNVJ6MDY3TDVmVnBLR3hPYUg1SUlXQkhhalN5MFppV05pS3VoT2pGZ2c5YTBxX3VyMXhha0daVlM0Sjd6ZWt4U1BUS0xDYkMydkc4d3lYU25oLU01WUpqMGRUbGdxUUhiM2I5M3ZJcFVXYWNXR00tX0JVQ1FnamtOMmVvWjljY3d6ejJBVkFGSndUOW44QzJxVUJBOHYxREg1bG41c29WODVadlAyb0dHanhfWEdCUGZQUFM2UUlTLUkzdy1xemNScG5MQVlIRzU0LVpWYXRsU1FXbWJIZExhQXZMaGVKcU1fQklfOWQ2ejRLakt3?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "original_link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxONjNEOFRDd2N6NGtrYjZaa3VvZ2RrTzVwdzc5V3JRdVZFWU9pTFBESUEwdjNwODRGR1d2a0ItSnlvd1ltUnh5czNGSm9HdFBzQW5kSHJPcEV5OXRhT1pfYi1QbWFfZnlYbjh4RWlBbGt5dGtzX2g4c3BvRlBfZjJlSy1CR0dLUWpLcnJZQlF1ZnloOVdTU09RSm40WVZIMHRIb3VMbXBOV09EZlNzcnU1RTFfdmwzaERTUjA2NTZvTk5pOVhvbnBvcGtCU1lqbWpKMm1keU1la1VZblRWb09mMEhKczBodVgzZXI1dVFLa0ZkRllGZnJkN1Bsc21PdEZHaVp6aVM2cC1FVDl1WERMYXh5QTHSAZoCQVVfeXFMT3dyQXpscXN3TUl5YWtKZW1GaHU4eHJZTkNvclVBdU5ZT014UU1XNVJ6MDY3TDVmVnBLR3hPYUg1SUlXQkhhalN5MFppV05pS3VoT2pGZ2c5YTBxX3VyMXhha0daVlM0Sjd6ZWt4U1BUS0xDYkMydkc4d3lYU25oLU01WUpqMGRUbGdxUUhiM2I5M3ZJcFVXYWNXR00tX0JVQ1FnamtOMmVvWjljY3d6ejJBVkFGSndUOW44QzJxVUJBOHYxREg1bG41c29WODVadlAyb0dHanhfWEdCUGZQUFM2UUlTLUkzdy1xemNScG5MQVlIRzU0LVpWYXRsU1FXbWJIZExhQXZMaGVKcU1fQklfOWQ2ejRLakt3?oc=5",
+        "source": "Times of India",
         "scraped_text": "Google News"
       }
     ]
@@ -1567,6 +1920,12 @@
         "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZ3JWa213YnpQOVhoOGRaTmpFU2hSY2piVm5fWHViY1dtMFdJOXEtTUtWaGl6dVItSk12ZGdKSkxNTmNySHhpcWxEek5GV2NOakVNMi1OLXNLM3o2X2JHNlNUbmgxdUNMdmZxd293WkNRbEM3TzV2bVE1aUxwLVE2eVN2SW96VGRJaUVJUnpOYm1ub3NrZlBOQWdFVVlvRnYtWnFsc1YtU185UEhWSGNvRlR4bUIyczg?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "original_link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZ3JWa213YnpQOVhoOGRaTmpFU2hSY2piVm5fWHViY1dtMFdJOXEtTUtWaGl6dVItSk12ZGdKSkxNTmNySHhpcWxEek5GV2NOakVNMi1OLXNLM3o2X2JHNlNUbmgxdUNMdmZxd293WkNRbEM3TzV2bVE1aUxwLVE2eVN2SW96VGRJaUVJUnpOYm1ub3NrZlBOQWdFVVlvRnYtWnFsc1YtU185UEhWSGNvRlR4bUIyczg?oc=5",
         "source": "RaceFans"
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORFNrSG9GX2ZWVmJmZ0l2RU9xbEp2Q1pGS2tqZ3YwSW14QnZ5LVJCdnB0dDA3YS1pOTZMa2ZXVHZsc1J5d29Qb1lhS1Q0bVZJWGhfdFFVZW4wb3Nvb25OdGptZW5NUmlDUDdwa0Q2dEprM1JldVcxX0o2a1BJYkp3ZVZzSExOdWRHYW5wWGRwelA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "original_link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORFNrSG9GX2ZWVmJmZ0l2RU9xbEp2Q1pGS2tqZ3YwSW14QnZ5LVJCdnB0dDA3YS1pOTZMa2ZXVHZsc1J5d29Qb1lhS1Q0bVZJWGhfdFFVZW4wb3Nvb25OdGptZW5NUmlDUDdwa0Q2dEprM1JldVcxX0o2a1BJYkp3ZVZzSExOdWRHYW5wWGRwelA?oc=5",
+        "source": "GPblog",
+        "scraped_text": "Google News"
       }
     ]
   },
@@ -1602,6 +1961,18 @@
         "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNENJSGEtTEpSUVZnTG1pWndic0NHeFpyUGpwSXRjTG9hZF9wTUFJVEw4cXdvRFc0M0VLVVM5SXV6Unk0eFJzTzZRdjJETHpsbW5pZTAzOEp6SEJnZlhLeU52SnBSWXlBbjVhNlNVQ0dVenVtMHZmTnZnU2hhYWdVaDRUMjZvUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "original_link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNENJSGEtTEpSUVZnTG1pWndic0NHeFpyUGpwSXRjTG9hZF9wTUFJVEw4cXdvRFc0M0VLVVM5SXV6Unk0eFJzTzZRdjJETHpsbW5pZTAzOEp6SEJnZlhLeU52SnBSWXlBbjVhNlNVQ0dVenVtMHZmTnZnU2hhYWdVaDRUMjZvUQ?oc=5",
         "source": "ESPN India",
+        "scraped_text": "Google News"
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcVhwSmR6S3Y2eHNYYUl1bjlmOXU2b21COFAxampjYzBKMFFsSXdaTHJxRG9hVGFNWlZpbTR3aHVCTGYzdFpROWdMNFdla0Q2WnRsQmVvaFY2TnI3TG5XMXNhZE04RllZTkVFM2JZWlNwcjBDVFRnME93TG9FM0R1QVJvUWludm5tMF9hVVBPaGRSeDlsX3FaaUhVMFF5U2JHQ3Uw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "original_link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcVhwSmR6S3Y2eHNYYUl1bjlmOXU2b21COFAxampjYzBKMFFsSXdaTHJxRG9hVGFNWlZpbTR3aHVCTGYzdFpROWdMNFdla0Q2WnRsQmVvaFY2TnI3TG5XMXNhZE04RllZTkVFM2JZWlNwcjBDVFRnME93TG9FM0R1QVJvUWludm5tMF9hVVBPaGRSeDlsX3FaaUhVMFF5U2JHQ3Uw?oc=5",
+        "source": "Autosport",
+        "scraped_text": "Google News"
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZWdVVEpnbFNuejAxbWFFQVhLd3Bac2ZEN3hIVEVVU0RfRXJPcDBINkxrRGJidkRaSVJtUE5WcjRnNUpXN09PYWZOcUh5VHZ0Q0RFUE9zdkZySE5PVjlqRlZCLTc0Q3dfbDhHRjhseTNNalh4RjJrdUI3UmhxNl9ZQ25ZN2pXWjRlOEM5RWZYQ0thbGVEcW5N?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "original_link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZWdVVEpnbFNuejAxbWFFQVhLd3Bac2ZEN3hIVEVVU0RfRXJPcDBINkxrRGJidkRaSVJtUE5WcjRnNUpXN09PYWZOcUh5VHZ0Q0RFUE9zdkZySE5PVjlqRlZCLTc0Q3dfbDhHRjhseTNNalh4RjJrdUI3UmhxNl9ZQ25ZN2pXWjRlOEM5RWZYQ0thbGVEcW5N?oc=5",
+        "source": "myKhel",
         "scraped_text": "Google News"
       }
     ]
@@ -1648,6 +2019,12 @@
         "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOYzFfSGRCdi05NkJmNXRsaG5KbU9FVzZSdG80d0RVcjB4Nm9KdlhsRGNSTjVSdDROd21XUnJKS0xNdDlDTHo4djVzV1lBM2lHeXhpWVVaNUNYU0lUU1ZyNXZRRG1SdWFFZ3VZdHlHNjJ1MTNRaHhKUEVUSGFUa3NwTUdhWHk2TXJjWjFhcUNCSWltN2JHUEE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "original_link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOYzFfSGRCdi05NkJmNXRsaG5KbU9FVzZSdG80d0RVcjB4Nm9KdlhsRGNSTjVSdDROd21XUnJKS0xNdDlDTHo4djVzV1lBM2lHeXhpWVVaNUNYU0lUU1ZyNXZRRG1SdWFFZ3VZdHlHNjJ1MTNRaHhKUEVUSGFUa3NwTUdhWHk2TXJjWjFhcUNCSWltN2JHUEE?oc=5",
         "source": "Atlassian Williams Racing"
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5UdWo4Q1FpVnczZzBKSmV1UnZ5d1U5T1ktdXREckRnVkNoZ3BSUHdLUlZ5VlBKU2YzaV9JcmdZbDN1YnRLQmhpOHV0MXlCN09jSHF6aHlFNHJsX3NQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "original_link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5UdWo4Q1FpVnczZzBKSmV1UnZ5d1U5T1ktdXREckRnVkNoZ3BSUHdLUlZ5VlBKU2YzaV9JcmdZbDN1YnRLQmhpOHV0MXlCN09jSHF6aHlFNHJsX3NQ?oc=5",
+        "source": "Atlassian Williams Racing",
+        "scraped_text": "Google News"
       }
     ]
   },
