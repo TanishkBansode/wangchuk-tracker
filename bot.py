@@ -109,7 +109,12 @@ TOPICS = [
 	"topic_name": "Red Fort Incident",
 	"query": "Red+Fort+Blast+Incident"
     },
-
+    {
+	"page_id": "pmpml_buses",
+	"page_title": "PMPML Buses",
+	"topic_name": "PMPML Buses",
+	"query": "PMPML+buses"
+    }
 ]
 
 def get_rss_url(query):
