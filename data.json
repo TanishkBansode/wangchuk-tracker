@@ -1,6 +1,86 @@
 [
   {
     "date": "2025-12-10",
+    "page_id": "formula_1",
+    "title": "2026 Formula 1 Season Schedule and Testing Dates",
+    "summary": "The 2026 Formula 1 season will begin with the Australian Grand Prix between March 6-8 and conclude on December 6th in Abu Dhabi. Pre-season testing is scheduled to start with private sessions in Barcelona from January 26-30, followed by two weeks of testing in Bahrain from February 11-20.",
+    "sentiment": "Neutral",
+    "type": "pending",
+    "sources": [
+      {
+        "link": "https://www.bbc.com/sport/formula1/articles/cvgrkmzrxgpo",
+        "original_link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5mM1lONE5KVEJKVHY2SW1yOWtWR3Q1ZEE1Zjd0d3ZxR3E4TWw0Y3Vmcy01clRyYzRjMi1RMTVueWhEbWFtVHpwTnJ2NnF4bGRkY080VEhfMUwtT2R6VWVNekg1ZFdFVG8?oc=5",
+        "source": "BBC"
+      }
+    ]
+  },
+  {
+    "date": "2025-12-09",
+    "page_id": "red_fort_incident",
+    "title": "NIA Arrests Eighth Accused in Delhi Red Fort Blast Case",
+    "summary": "The National Investigation Agency (NIA) arrested Dr. Bilal Naseer Malla on December 9, 2025, in connection with the blast near the Red Fort on November 10, 2025, which resulted in 11 deaths. The Union Cabinet expressed grief over the incident and condemned the act of terror on November 12, 2025.",
+    "sentiment": "Negative",
+    "type": "pending",
+    "sources": [
+      {
+        "link": "https://www.etvbharat.com/en/bharat/nia-arrests-key-accused-in-red-fort-blast-case-enn25120906262",
+        "original_link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOV0txZ3F3T3oySzN2NnF6Mkpfa2czOGt6WDN1VWdVejJpSWFKM1FKNEVTSXZkYWhDbE5IdTltTE5lWTlMdl9nZDgtMXJGVkZ0c21NVFFUS1hWaWJycUk4Wk5kOUxKSkFKVlpJTGhsOU95R0E4TFJJV1VFdVRRaEFQUUhqaEliRzVqOTBrQ1hJLXRod253cFNJV29qRFBMd9IBowFBVV95cUxQWnpkMHI0UXg3RzhHOUd5R05RdUUwM0JPRl9LanRhZmp5RGJiS0ptNjUxODZDUnhGQmE5d3dkTl9GMklLc3hNRGhnbHNZTEhnUUEwUlB6bkxOWEtPVERsU1lFNHFwd1Z1TWdTZTlpQzR3dGx5S1Q2Y25tOGxnUVFjYnVvb3dfOFktZ2VTU0d1VG44RFl2Y2k5LVpFYkVLUU9SU0lF?oc=5",
+        "source": "ETV Bharat"
+      }
+    ]
+  },
+  {
+    "date": "2025-12-07",
+    "page_id": "red_fort_incident",
+    "title": "Al Falah University Investigated Following Delhi Car Bombing",
+    "summary": "Al Falah University is under intense scrutiny following a car bombing near Delhi\u2019s Red Fort monument on November 10th, which authorities have declared a \u201cterror incident.\u201d The investigation has led to arrests of university staff and concerns about the institution's accreditation and future.",
+    "sentiment": "Negative",
+    "type": "pending",
+    "sources": [
+      {
+        "link": "https://www.independent.co.uk/asia/india/delhi-blast-car-bombing-red-fort-umar-un-nabi-al-falah-university-b2868835.html",
+        "original_link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVlVFem03OFNSVFFGblR0V0xYZklLd2d3NVNrMXhoeXZMWi1lYmV2aS1HUnNtZlNvS3J0Ry0taDVrQ0xobi0yUlhZZlBIeFk4RUVBenNwY21DWnRTUGpXN3dBOXAxY2tzRnZ5VnJOWXgxZTZ0M0lyUzNKd2lYd1FqTlZ0SHZkLVpucXBpdENOdnY3Q210d01VaS1PZGc4SmxLZm1aWHF4bGd4NldvM0hmMEJPZTdETUl3ZW1rSw?oc=5",
+        "source": "The Independent"
+      }
+    ]
+  },
+  {
+    "date": "2025-12-06",
+    "page_id": "red_fort_incident",
+    "title": "UNESCO Meet to be Held at Red Fort from December 8-13",
+    "summary": "The Red Fort in New Delhi will host the 20th session of the Intergovernmental Committee for Safeguarding of Intangible Cultural Heritage from December 8-13, with over 1,000 delegates expected to attend. India is also proposing the festival of Diwali for inclusion on UNESCO\u2019s Intangible Cultural Heritage list during this session.",
+    "sentiment": "Neutral",
+    "type": "pending",
+    "sources": [
+      {
+        "link": "https://timesofindia.indiatimes.com/india/red-fort-to-host-unesco-meet-on-protecting-intangible-heritage/articleshow/125798702.cms",
+        "original_link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQQ2dDMTYyTGdzd21aRHdmZUd4OTJ1eXBmQmxkNHpLZ3RHOEhrT2dlb1ItblkwcTdFSWZDdzFUZldfOS1CT2VTVmJsTUxYd0owb19YRlhZRG5fajhrS1NmeWdiTmZoUjFsb0M2bVV2RFo2MjE3MlZENnBfQW40SXpjVWJiZTFSRTFxMHBMZTkwR1R4eG9MV0sxeHdJVUFtYkNkOEFWQmc2ZkJCZ2hDSVJsX011R0R6LVdSSC1ra1NoMmMxZnd1TWU2UEdR0gHPAUFVX3lxTE1Yb0l5T1lwaTdWZVV4T1hEWkNLSGNCbUtKdmEtSHlDTU4wNXd1Wm90bzdXa1NfNnhyRGhtTzgtX0hvYzlJQk5vSno1eHNwTWktbFhrN3pQNVUyaUhTVWtDbG1WLUQ4NzRNYjlEV0l1bzdzaFl1cXVwLXVGNjVpR1NWYjJvc3NWMlhITXNsX1BJUTA5WWRhR05TX2NPYXNsbGx1eXprSXZxRFIzdE1rRERfS3FiR0xfUkd0UndqTHFOTE92ckJGQkExaXNuVzZLaw?oc=5",
+        "source": "Times of India"
+      }
+    ]
+  },
+  {
+    "date": "2025-12-04",
+    "page_id": "trees_nashik",
+    "title": "Nashik Civic Body Plans Tree Removal for Kumbh Mela Settlement",
+    "summary": "The Nashik civic body plans to cut down over 1,700 trees in the Tapovan area to construct a 'Sadhu Gram' for religious leaders in preparation for the October 2026 Kumbh Mela, sparking protests from civil society members and opposition from figures like actor Sayaji Shinde. Maharashtra Chief Minister Devendra Fadnavis stated on December 4th, 2025, that some of this opposition is politically motivated, while affirming the government's commitment to environmental protection and exploring tree relocation as an alternative, noting the relatively small land area (300-350 acres) allocated for Nashik's Kumbh Mela compared to Prayagraj's 15,000 hectares.",
+    "sentiment": "Neutral",
+    "type": "pending",
+    "sources": [
+      {
+        "link": "https://www.deccanherald.com/india/maharashtra/kumbh-mela-tree-row-why-greens-dont-object-to-goat-slaughter-on-eid-asks-nitesh-rane-3819469",
+        "original_link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOR2ZoekwtMmplMDBXQkR2X2dzRHlRTGNFa01GM3g1b1VwRlg3WkJCLWtGUzVaVVJQQW9IOENob2hDME4zSXUxX1NCTUpOMEtSQWJvVEZXZm9RMUQtNGZ4WHJxcWJmVzdVUmpsaFhZenlkSHdBR2Uwb3VleGNKTmlqTkpaRFZjcm12dmdGUnczS1hkQlpLSTVpZDY1OVg1dENZaVdFOGtEcVMzQTVhSXdxWm0zcWtQVjc2eHBqWDlqU3pDYk1wSkYwUzNNWlF1YWNuVjMzU3l3?oc=5",
+        "source": "Deccan Herald"
+      },
+      {
+        "link": "https://www.lokmattimes.com/nashik/some-concerns-politically-motivated-says-fadnavis-on-nashik-kumbh-mela-protests-a475/",
+        "original_link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbTFNbWwzN294UVdGejlkall6TW1oY1AtYkE2b210eDdhVl9NZ0FGal9Qa01EOHd0aUJfdjVjczExRVFLLXkwMk9QcFhfd05jUllJNGYtVDdpdlNEZ3hsb3dzdVkxdjhfTjlZWTRXN3NNdXN5SFNVSnAxUlRyVG1ORUtxQUFjUjVEajhyTEJQSldDM05sMm5ONnp6dU9OX1pZdUdYSWV6eEJVQU8xLVdMZUp0MlI2b3dHYzNmedIBwgFBVV95cUxOUjNyZmdEWlh5alFkS1ZTMUQtMmx2OHN3clgzX2p4VTg0blZCbmY4T0RzQmVyU2hWVzJJNTBLLTR6MkVxWTQ5YmpVdGFNc002ZEJFNTM2LTVGcmgxNHh4ZlhrS0pMOUFTbUVFVlpVdm1BYTF2ekt0NUF2UDR5aC0wbXBXVGg1MHZpM25LSmhwczVUaE5EcGl5YzkzOFZGVEktd3JWLWhiQy1kRzhSSHI0ODN3R1BpQTNNOXBvaV9Kc0RPdw?oc=5",
+        "source": "lokmattimes.com"
+      }
+    ]
+  },
+  {
+    "date": "2025-12-10",
     "page_id": "cricket_india",
     "title": "BCCI Contract Updates: Potential Changes for Indian Cricketers",
     "summary": "The article discusses the possibility of Shubman Gill receiving an A+ BCCI contract. It also questions whether Rohit Sharma and Virat Kohli might be excluded from the highest contract category.",
@@ -6697,6 +6777,12 @@
         "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQVXFSTEY2bUFCYWh6aEgtTVBVUG1fMzN2MGJvdWVPRVZMb3c0UGNkUzZqalZlMjNlemFkdXJWa25heWFDWHhQRU9neVh1d05mSmlpcXlDV3FuVnlsdVcxUUpTTE5MTmd1MUUxQWhnc2I1RkNsZExoUmF0SHZDZTZhdUVmSGUyZlB3MVpGOUdUWFk4dV85TGlWRTBTaUZtYWRQaDF3b1RmdXRZYXVRMUlBS1Y2OGhSWGRaYko2OWpQTlJ0amE2anNWMEVyUzZPOEVJZmVwNFFmSFo1WFlk?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "original_link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQVXFSTEY2bUFCYWh6aEgtTVBVUG1fMzN2MGJvdWVPRVZMb3c0UGNkUzZqalZlMjNlemFkdXJWa25heWFDWHhQRU9neVh1d05mSmlpcXlDV3FuVnlsdVcxUUpTTE5MTmd1MUUxQWhnc2I1RkNsZExoUmF0SHZDZTZhdUVmSGUyZlB3MVpGOUdUWFk4dV85TGlWRTBTaUZtYWRQaDF3b1RmdXRZYXVRMUlBS1Y2OGhSWGRaYko2OWpQTlJ0amE2anNWMEVyUzZPOEVJZmVwNFFmSFo1WFlk?oc=5",
         "source": "Mid-day"
+      },
+      {
+        "link": "https://www.freepressjournal.in/mumbai/maharashtra-minister-nitesh-rane-questions-environmentalists-silence-on-goat-slaughter-amid-nashik-kumbh-mela-tree-felling-protests",
+        "original_link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOZC1EMFRkYUFfQ1VuN1R2ZU12V1pRMVhxSkhId3NscTUzRnlFSmtkcW1qY3ZMYW5JRlRFR1EtaUY0ZU92d0xhUExVeGpscElzMzZtZk9hdU5pTUNYZjA1dzUxakV3Mm8xaG95dlhXSTA1YTRLM1l0S2tXWGZYSGFfT1hUaFVmZWdLWHlsR1d1UEhGa0VXbFZDMTNkbUpZRThfY1BYak9QMUhuRnltM1liclBGakYyUnRpcXRXOXI3OEJvOV9QZGJuN1ZxQzRkLTdac3NoeDZDbm5LRUNxQXRLU2ZzRDFVMzZuT2NDVWJLUE9CODNpbEhwZDFYSXY0Ym_SAYQCQVVfeXFMUDFXQVo4anpabEVIb0Y3RVVvNzhEakludWJySk5kYkJpUzZoQ25uRml0YWM5eXI4ZDZmWFFuQlFUOHVyN01vN3VEUkl1bGhPZ2RQYng2Y0wtc0pMQnc3MTZ6dUdWcHd1SWdhWEIxS2Q1OTY3d1NleGZodHQwU3JHdVAzTVNZc0RVT1A2bndLUEVvN3ZSc09ZTXhNNVI5YXVjdUtfTTQwV3VncFBLN0pHdDdQc1ZkZHU2cXU4MThSZWNJYlJyUEtjT2JjUWVkZF8ycUpDc2ZJalNBb3FqNWdXdklfN3VZeTVQZm81S1lOd0FUOURsRnZ2eU90QVE5S3JUamIyZEc?oc=5",
+        "source": "Free Press Journal",
+        "scraped_text": "Mumbai: Maharashtra minister and BJP leader Nitesh Rane on Thursday wondered why environmentalists opposing the felling of trees in Nashik ahead of Kumbh Mela were never seen opposing the slaughter of goats on Eid.\nRane's remarks came amid protests by civil society members against the Nashik civic body's plan to cut down more than 1,700 trees in the Tapovan area to build a 'Sadhu Gram' (settlement for religious leaders) ahead of the Kumbh Mela, which will begin in October 2026.\nMaharashtra Minister Nitesh Rane's Tweet\n\"The environmental activists who oppose tree felling at Tapovan in Nashik, were never seen opposing goat sacrifice. All religions equal?\" Rane said in a post on X.\nMeanwhile, the Opposition NCP (SP) Lok Sabha member from Dindori in Nashik district, Bhaskar Bhagare, expressed disappointment over the proposed tree felling.\n\"We are already witnessing erratic rains, flooding and extreme weather conditions in the last few years. In such a situation, cutting down so many trees is unacceptable,\" he said, adding that he has written to Union Environment Minister Bhupender Yadav on the issue.\nMaharashtra Chief Minister Devendra Fadnavis on Wednesday said the government would ensure no harm to the environment.\nHe said some people are trying to create hurdles for the Nashik Kumbh Mela, while certain individuals have suddenly become environmentalists for political reasons.\nNotably, actor Sayaji Shinde, a member of the Deputy CM Ajit Pawar's NCP, which is part of the ruling coalition, has said he would oppose the government if it were adamant on removing the trees.\nPawar on Wednesday called for a conciliatory approach to resolve the issue, saying that maintaining environmental balance is as important as development.\nLocal Hindu organisations along with political parties have also joined the protests against the planned tree felling in the Tapovan area of Nashik.\nActivists of the Hindu Mahasabha recited the Hanuman Chalisa in Tapovan a few days back, while the supporters of some other Hindu organisations pasted posters with the slogan `Jai Shriram, Jai Hanuman' on the trees marked for removal by the Nashik Municipal Corporation.\nSome of them also invoked the local belief that Lord Ram and Sita lived in Tapovan during their exile, and called for protecting the trees for the sake of religious sentiments.\nSchool children staged demonstrations in Tapovan on Wednesday, carrying placards with pro-conservation messages.\nLocal leaders and workers of the Congress, Shiv Sena (UBT) and Aam Aadmi Party (AAP) also joined the agitation.\n(Except for the headline, this article has not been edited by FPJ's editorial team and is auto-generated from an agency feed.)\nTo get details on exclusive and budget-friendly property deals in Mumbai & surrounding regions, do visit: https://budgetproperties.in/"
       }
     ]
   },
