@@ -6,6 +6,7 @@ import trafilatura
 import time
 import numpy as np
 import threading
+from googlenewsdecoder import new_decoderv1
 
 from datetime import datetime, timezone, timedelta
 from dotenv import load_dotenv
@@ -108,12 +109,7 @@ TOPICS = [
 	"topic_name": "Red Fort Incident",
 	"query": "Red+Fort+Blast+Incident"
     },
-    {
-	"page_id": "cricket_india",
-	"page_title": "Cricket India",
-	"topic_name": "Cricket India",
-	"query": "Cricket+India"
-    }
+
 ]
 
 def get_rss_url(query):
@@ -187,29 +183,17 @@ session.headers.update({
 })
 
 def resolve_url(url):
-    """Follows redirects to get the final article URL."""
+    """Decodes Google News URL using googlenewsdecoder library."""
     try:
-        # 1. Try HEAD first
-        response = session.head(url, allow_redirects=True, timeout=10)
-        
-        # 2. If HEAD fails or gives generic google link, try GET
-        if response.status_code != 200 or 'google.com' in response.url:
-             response = session.get(url, allow_redirects=True, timeout=15)
-        
-        final = response.url
-        
-        # 3. Basic cleaning: remove common tracking params
-        if '?' in final:
-            from urllib.parse import urlparse, urlencode, parse_qs, urlunparse
-            u = urlparse(final)
-            query = parse_qs(u.query)
-            clean_query = {k: v for k, v in query.items() if not any(x in k for x in ['utm_', 'ref', 'source_id'])}
-            u = u._replace(query=urlencode(clean_query, doseq=True))
-            final = urlunparse(u)
-            
-        return final
+        # Use a small interval to be polite/avoid rate limits if doing many
+        decoded = new_decoderv1(url, interval=0.5)
+        if decoded.get('status'):
+            return decoded['decoded_url']
+        else:
+            print(f"   ⚠️  Decoder failed: {decoded.get('message', 'Unknown error')}")
+            return url
     except Exception as e:
-        print(f"   ⚠️  Redirect Error: {e} | URL: {url[:50]}...")
+        print(f"   ⚠️  Decoder Exception: {e}")
         return url
 
 import concurrent.futures
