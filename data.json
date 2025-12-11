@@ -1,5 +1,35 @@
 [
   {
+    "date": "2025-12-10",
+    "page_id": "formula_1",
+    "title": "The History of Tobacco Sponsorship in Formula 1 and MotoGP",
+    "summary": "The article details the extensive history of cigarette brands sponsoring Formula 1 and MotoGP teams, beginning with John Love's 'Team Gunston' in 1968 and continuing until the ban implemented by the FIA in 2006, with some indirect sponsorships lasting until 2021. Brands like Marlboro (debuting in 1972), Camel, and Gitanes heavily influenced the aesthetics of the sport, with many teams adapting their liveries to match brand colors.",
+    "sentiment": "Neutral",
+    "type": "pending",
+    "sources": [
+      {
+        "link": "https://www.nssmag.com/en/lifestyle/17842/cigarette-sponsors-f1-motogp-historic-liveries",
+        "original_link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZ2tmel9lMEE5ekI5ZmxfdlVIUWZwQS13TTdfVk52UXh3c1pLMndaNWhGYUxzaC1aNVRsSXNVckxwdUxaWF94bS1IU3B0T1JnQUZEQkE2WXhBZm5GeC1ZaE9ZMWFOdWhCS3RNMS1HdzhIb2oxcWIyN3pqUWg1QXhOeFFpOF9CTEYzRlE0WGQ1aVFxN1JFaHRN?oc=5",
+        "source": "nss sports"
+      }
+    ]
+  },
+  {
+    "date": "2025-12-08",
+    "page_id": "formula_1",
+    "title": "Lando Norris Wins Formula 1 World Championship",
+    "summary": "The article reports that McLaren racer Lando Norris has won the Formula 1 world championship, as indicated by the 'Now Playing' segment lasting 5:04. Other segments include news on various sports and events, such as the 2026 FIFA World Cup Final Draw and Ryan Lochte auctioning his medals.",
+    "sentiment": "Positive",
+    "type": "pending",
+    "sources": [
+      {
+        "link": "https://www.nbcnews.com/now/video/-mclaren-racer-lando-norris-wins-formula-1-world-championship-253957189844",
+        "original_link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWWFiRFhZRWU3Q2ZQclozT3NqVEplaENKaDdIUkFtRzNTVlNXZk1VVkdCMUVMaDFTNklQTU9ndEVuUFBTblpCQU5aSFFuR1JCU3JNY3lxSUs3MnUtRUdYdUZoUGYwM1hyS0xJU0c4NHZ1UWRXaGVlY3E2bzkyVFJycldlZU52TFdRVnhJSG40Y20zV0ZBT0ZBN1h6RldiQmhHY3pKVTlOUlFXaEgt0gFmQVVfeXFMUGlFZlJ3aE5xY25kaThpWlVJSUVTb2x6cDBRLW5OdVZSZnh1V0toSmxBT2ZnLWV2Q3BaZ1VBWDZTVHFodlZsT0wwZDV2SXpVd0ZiVlhVaHBZczVhODd3Y3ZOUGl4Skp3?oc=5",
+        "source": "NBC News"
+      }
+    ]
+  },
+  {
     "date": "2025-12-11",
     "page_id": "formula_1",
     "title": "Formula 1 Las Vegas Grand Prix 2025: Brand Activations and Event Details",
