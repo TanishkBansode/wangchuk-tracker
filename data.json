@@ -1,6 +1,96 @@
 [
   {
     "date": "2025-12-11",
+    "page_id": "formula_1",
+    "title": "Lando Norris Wins 2025 Formula One World Championship",
+    "summary": "Lando Norris secured his first Formula One World Championship after finishing third in the Abu Dhabi Grand Prix on December 11, 2025, amidst a fierce battle with Max Verstappen and Oscar Piastri. The 24-race season saw Norris overcome challenges including teammate rivalry and a mid-season slump, culminating in a victory that ended McLaren's 17-year drivers' crown drought.",
+    "sentiment": "Positive",
+    "type": "pending",
+    "sources": [
+      {
+        "link": "https://sportstar.thehindu.com/motorsport/f1/f1-2025-season-analysis-lando-norris-formula-one-world-champion-mclaren-piastri-verstappen/article70383793.ece",
+        "original_link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOWUZrWDZTenRwTEtuMnJQYWVocDJkWVdPQmlPVzhoOWtQV1ltQnF3d1FTdXExd0FCTDRCdFpYMlhBVTRhTDVpVUtSWWlHRU9vczdnUjkzeEhoYl9IQzhVcy00VHAtTnR6LVBuVHVHZEI0azIxc0pFSUdSQzlYRnpocnJhcXlNVFF2eUJRY3lPazN2NklnRDRwUVNQdlFjal9FTXNVcmgzM0dEU0VXUTJieFQtbk1rTFNDOGNQcUViaFEwYUpRbTAyWjJ2T2dFalVTS21sSGd1bE1wQTVRQm83bmFVT0ZsU282bFhv0gHyAUFVX3lxTE03T0U0YzkwN0VRaXBfSUV0bEppY1d3RkF4TlFZbnNEV2d0TTNoNW1HWl9ReWxLcnAxWHJXVDJWRl95cXJ2QVZCQTZuSWJnM2pGRVBKcFRHNXBOVUFZVnY3UE5pd1ZMczBzVHk0RDA2cTZRMnNSOXRtdHVfWXhONHdlUmdNNnpIbFpUYUVoWC1oVWswU0FDZnRQU3lkOXBySTZtblE5aEY5N2hwVkd5M3NXZjJ5UzhUdlNEaVlRZFd6Y0VQM0NwWXAydERGTHRTTF9PWHp4dndyQ2hTdmhmRjF6Rnl3ekt2QmZlTHdTOXdBZmJR?oc=5",
+        "source": "Sportstar"
+      }
+    ]
+  },
+  {
+    "date": "2025-12-11",
+    "page_id": "formula_1",
+    "title": "Jeffrey Dean Morgan Criticizes Zak Brown Following Abu Dhabi Grand Prix",
+    "summary": "Actor Jeffrey Dean Morgan publicly criticized Zak Brown on social media after the Abu Dhabi Grand Prix, accusing him of mismanagement and expressing sympathy for Oscar Piastri. Morgan also praised Max Verstappen, calling him the greatest Formula 1 driver since Ayrton Senna.",
+    "sentiment": "Negative",
+    "type": "pending",
+    "sources": [
+      {
+        "link": "https://www.gpblog.com/en/news/hollywood-star-blasts-zak-brown-and-papaya-rules-in-fiery-social-media-rant",
+        "original_link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcWJQLTBieEZGME8xRjlmdEZWMktKUlhyVXFzVEJ3X3liSVNaeEtoX2RlYmxMZWNyLS1wVVA4TWhkZEw2bGpXZERfXzFCTEd4TFlkRXpOY1pjbTFQNm5xR3dqU1dDRmdFb2lXbnZQVzNKMGliRWUxOGJRcmRZN0xnSTB2bWxXNlFkTnVmRlJnSmY3RVZlQ21BM2ZnNzVaLTQwZUR0dTh4elY2UQ?oc=5",
+        "source": "GPblog"
+      }
+    ]
+  },
+  {
+    "date": "2025-12-11",
+    "page_id": "formula_1",
+    "title": "F1 Teams to Test 2026 Cars in Barcelona with Livery Restrictions",
+    "summary": "Formula 1 teams will conduct the first official 2026 testing in Barcelona from January 26-30, with a request to use plain or camouflaged liveries. Further testing is scheduled in Bahrain on February 11-13 and February 18-20, where teams are expected to reveal their full 2026 designs.",
+    "sentiment": "Neutral",
+    "type": "pending",
+    "sources": [
+      {
+        "link": "https://www.planetf1.com/news/teams-receive-unusual-request-for-closed-door-f1-test",
+        "original_link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNalo5Q1gwZ05meWtIbGhqUXNDOEYtRlZWdWVCdENPRkprYVlGZzllOG1qdllidGlsMHJyNUdiY1YyazBMR0ZOcEV6WjNDVkpaVmJNN0RKYnpfVWZGVHo0bkZLWXVRX1NmblEyUUdNMlRJbGl0TDdrR3licGVYV0k4V2p2Z3pEMldyZmZF?oc=5",
+        "source": "PlanetF1"
+      }
+    ]
+  },
+  {
+    "date": "2025-12-11",
+    "page_id": "formula_1",
+    "title": "Kush Maini to Race for ART Grand Prix in 2026 Formula 2 Season",
+    "summary": "Kush Maini will join ART Grand Prix for the 2026 Formula 2 season after previously racing with DAMS Lucas Oil, Campos Racing, and Invicta Racing. The team confirmed the move on December 9, 2025, and Maini will continue to work with the BWT Alpine Formula 1 Team as a reserve driver and under the guidance of Mika Hakkinen.",
+    "sentiment": "Positive",
+    "type": "pending",
+    "sources": [
+      {
+        "link": "https://www.autox.com/motorsport-news/kush-maini-signs-with-art-grand-prix-for-2026-f2-season-122425/",
+        "original_link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYk5zWlRJVE9IU0dIalpEME1PUVd1YzBMQ2I2cGxwUVRRcnMtYjJqSUVvdWpYWXJHdFNIbXVuU3g4aC1XUXNuZHhsOW56TlJFVi1fdkVwRzBSUzgzYXl3b1Z5TnRVZEhaZ2pxM2VDZXNzdVVQQWhDcUtNRVhUZU5MQ3NIT2M0alRHNFpYQW8wUjJyWFN6UlBmMTRHYmFFMjF2c21B?oc=5",
+        "source": "autoX"
+      }
+    ]
+  },
+  {
+    "date": "2025-12-11",
+    "page_id": "formula_1",
+    "title": "2026 Chinese Grand Prix Tickets Now Available",
+    "summary": "Tickets for the 2026 Chinese Grand Prix at the Shanghai International Circuit are now on sale for the race weekend of March 13\u201315. The event will be the second round of the 2026 Formula 1 campaign and will feature the first F1 Sprint of the season.",
+    "sentiment": "Positive",
+    "type": "pending",
+    "sources": [
+      {
+        "link": "https://www.formula1.com/en/latest/article/tickets-on-sale-for-2026-chinese-grand-prix.16kNj72XNtyBQ4cMsgzAJz",
+        "original_link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObU1RSTVKY3hSY1dTZzhtT1ItWHFBM2h1d1lqV3ZPRHdsVV82V3JwMmZqb182VmZFaHozV2FGby1QdFU0ZjUycUlXUjljXzkzNW1WYzZFcUgySHlyMFBQZVhScVhfU20tX3NmWTBXelZCR1J6YkxzYUxsWnoyeWRzRmswY0RRYkhsYlo1NHpHbW9RZUp4Z0tXbUJLbjVzdk1SZHI1aHAzQXVzeVl3QUE?oc=5",
+        "source": "Formula 1"
+      }
+    ]
+  },
+  {
+    "date": "2025-12-10",
+    "page_id": "formula_1",
+    "title": "Lewis Hamilton Plans Complete Disconnect During F1 Winter Break",
+    "summary": "Lewis Hamilton stated he will be completely disconnecting during the F1 winter break, even going as far as getting rid of his phone. He described his recent season, his 18-year in F1, as the most difficult of his career, failing to secure a podium finish for the first time.",
+    "sentiment": "Neutral",
+    "type": "pending",
+    "sources": [
+      {
+        "link": "https://racingnews365.com/lewis-hamilton-reveals-winter-break-plans-not-speaking-to-anyone",
+        "original_link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbl9DQ3dXTWlDdElNa2pzNUFBRHlqM0YwSUFtX3FtNGVFLTNuUDYxaU5MMjVSM1ZsLTM2LWdzU3lXY0lVa0hVWGxfNzFJSmxrR0M0M1FPdm9reHhLelJqbVRTQzdHUUNXZmg2c1FMTlFaSHpJaE85cHdocGJaQVRkcjFQT0dwa1FVSXZrYW5LV3BiMHdh?oc=5",
+        "source": "racingnews365.com"
+      }
+    ]
+  },
+  {
+    "date": "2025-12-11",
     "page_id": "pune_metro",
     "title": "Pune Flyover Project Revised to Include Future Metro Line Provision",
     "summary": "Chief Minister Devendra Fadnavis instructed that the planned flyover on the Solapur highway from Hadapsar to Yavat should begin at Bhairoba Nala and include provisions for a future metro line. The decision was made during a cabinet infrastructure meeting held at the Vidhan Bhavan, with the goal of addressing traffic congestion due to increasing urbanization.",
@@ -1233,6 +1323,12 @@
         "original_link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZ3AxXzZoMWwxaFRjZmpQMUlpOUxISGFkcDloWGkxbUtTRVJKbUE3OXFSZjVlLVZWeHRnaW1ZcmpGTFZBSDVUN2NyOEcxUGFnamoySUMwSHl1eVdlUVRRd19weWh4eGs3Yzg0Q1Rrc2hqRXNLaDZWakV1bXAxVjRJNzVoNXhFdjI4UDVDWTBuOFdNVlJLMjdlQy16SHJaSENoU0xoLV9tbzRHZFlyUmVHcDdwcmdxbEZwVkRaR1oycWRpSHNETm1IWTltd0Vlc21V0gHQAUFVX3lxTE9ncDFfNmgxbDFoVGNmalAxSWk5TEhIYWRwOWhYaTFtS1NFUkptQTc5cVJmNWUtVlZ4dGdpbVlyakZMVkFINVQ3Y3I4RzFQYWdqajJJQzBIeXV5V2VRVFF3X3B5aHh4azdjODRDVGtzaGpFc0toNlZqRXVtcDFWNEk3NWg1eEV2MjhQNUNZMG44V01WUksyN2VDLXpIclpIQ2hTTGgtX21vNEdkWXJSZUdwN3ByZ3FsRnBWRFpHWjJxZGlIc0RObUhZOW13RWVzbVU?oc=5",
         "source": "News18",
         "scraped_text": "Kush Maini Joins ART Grand Prix For 2026, Eyes Formula One Breakthrough\nKush Maini joins ART GP for his fourth F2 season, aiming for F1. Read about his journey, recent achievements and future ambitions.\nStar Indian racing driver Kush Maini has joined the ART Grand Prix for next year, as he will continue racing in Formula 2 while aspiring for a seat in Formula 1. This will be his fourth successive year in the championship. Maini will thus join F2\u2019s most decorated team.\nRecommended Stories\nMaini joins ART, bringing valuable experience from three seasons in F2, where he notched two victories and seven podiums, highlighted by a standout win in Monaco. Despite finishing 16th in his most recent season, his raw speed and composure have kept him on the radar of top Formula 1 teams.\nBefore his F2 career, Maini was runner-up in the 2020 BRDC British Formula 3 Championship and earned a podium in the 2022 FIA Formula 3 season. This progression has moulded him into a well-rounded driver and ART see him as ready for the next step.\n\u201cI am very happy to be joining such a historic team like ART Grand Prix. My first contacts with the engineers and mechanics have been very positive. I appreciate the determination and the human atmosphere within the team and I cannot wait to start working with them and see what we can achieve together,\" Maini was quoted as saying by F2.\nMaini made his first official appearance in modern F1 machinery on Tuesday, taking part in the post-season Young Driver Test at the Yas Marina Circuit after the Formula 2 race weekend.\nMaini has already gained experience with the team through its Testing Previous Cars programme and simulator as part of the Alpine Academy and his role was expanded earlier this year to include duties as a test and reserve driver.\n\u201cI cannot wait to take part in the post-season Abu Dhabi test and to have my first proper experience of the A525. The Yas Marina Circuit is one I know well from Formula 2 and it will be impressive to see the level of performance Formula 1 cars have around this track,\" Maini had been quoted as saying by F1."
+      },
+      {
+        "link": "https://www.indiatoday.in/sports/other-sports/story/formula-2-kush-maini-art-2026-season-indian-racer-f1-breakthrough-2833669-2025-12-10",
+        "original_link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNOEtnWVkyUWtlcDQ4VnpnQzQ4Y3RhYTZXbzR6NThVZXhrTmwyc05idkNMTjhMdGluOUF2eTUzdkxTWU9mcG9jbHQxRXFhZXB3MVZHTHJtdFZwZmZieVNRVnRCNDlrNWdhV3lSQngxX0x1UkE4OEZVa3JHV3NHOXk0R0JqQ25Hc0NRUWFXNmswazBoYTFRU0RDUnVwbUJjanNfaHF1U1BBX0ZLUHBPNXpTV1RrdnppbTE2VGlpb0s5UktMeXhaVnkwQ2ZHeUtnYkg5SUpPNXhfMNIB1wFBVV95cUxNOEtnWVkyUWtlcDQ4VnpnQzQ4Y3RhYTZXbzR6NThVZXhrTmwyc05idkNMTjhMdGluOUF2eTUzdkxTWU9mcG9jbHQxRXFhZXB3MVZHTHJtdFZwZmZieVNRVnRCNDlrNWdhV3lSQngxX0x1UkE4OEZVa3JHV3NHOXk0R0JqQ25Hc0NRUWFXNmswazBoYTFRU0RDUnVwbUJjanNfaHF1U1BBX0ZLUHBPNXpTV1RrdnppbTE2VGlpb0s5UktMeXhaVnkwQ2ZHeUtnYkg5SUpPNXhfMA?oc=5",
+        "source": "India Today",
+        "scraped_text": "India's Kush Maini signs with ART for 2026 as he pushes for F1 breakthrough\nKush Maini's move to ART Grand Prix signals his most decisive push yet toward Formula 1. With a stronger platform beneath him, 2026 could become a make-or-break season in his rising career.\nIndian racing driver Kush Maini will continue his pursuit of a Formula 1 future after signing with ART Grand Prix for the 2026 Formula 2 season, marking his fourth consecutive year in the championship. Widely regarded as one of India\u2019s brightest motorsport talents, Maini now joins one of F2\u2019s most decorated teams in what could become the defining season of his career.\nMaini arrives at ART with valuable experience already behind him. Across three seasons in F2, he has collected two race wins and seven podiums, including a landmark victory in Monaco that instantly amplified his reputation. While his most recent campaign ended in 16th place, flashes of raw pace and composure ensured he remained firmly on the radar of top teams.\nBefore his F2 journey, Maini finished runner-up in the 2020 BRDC British Formula 3 Championship and secured a podium during the 2022 FIA Formula 3 season. That developmental path has shaped him into a well-rounded racer, and ART believe his next step is imminent.\n\u201cI\u2019m very happy to be joining such a historic team like ART Grand Prix,\u201d Maini said after the announcement. \u201cMy early interactions with the engineers and mechanics have been extremely positive. I appreciate the determination within the team and can\u2019t wait to start working together to see what we can achieve.\u201d\nART Team Principal Sbastien Philippe echoed the sentiment, praising the Indian driver\u2019s maturity. \u201cKush has shown real speed and composure in Formula 2. His win in Monaco stands out as proof of his potential. We\u2019re delighted to welcome him to ART Grand Prix and look forward to 2026.\u201d\nMaini\u2019s upward trajectory has also carried him closer to Formula 1. As part of the Alpine F1 programme, he recently drove the A525 during the post-season Young Driver Test in Abu Dhabi, continuing a year of intensive simulator work and private running. The session made him the third Indian ever to take part in an official Formula 1 outing.\nWith ART providing a competitive platform and Alpine keeping a close watch, the 2026 F2 season represents Maini\u2019s strongest chance yet to stake a claim for a full-time Formula 1 seat in 2027. For the 24-year-old from Bengaluru, the path is clearer than ever \u2014 now comes the crucial push to follow through.\nIndian racing driver Kush Maini will continue his pursuit of a Formula 1 future after signing with ART Grand Prix for the 2026 Formula 2 season, marking his fourth consecutive year in the championship. Widely regarded as one of India\u2019s brightest motorsport talents, Maini now joins one of F2\u2019s most decorated teams in what could become the defining season of his career.\nMaini arrives at ART with valuable experience already behind him. Across three seasons in F2, he has collected two race wins and seven podiums, including a landmark victory in Monaco that instantly amplified his reputation. While his most recent campaign ended in 16th place, flashes of raw pace and composure ensured he remained firmly on the radar of top teams.\nBefore his F2 journey, Maini finished runner-up in the 2020 BRDC British Formula 3 Championship and secured a podium during the 2022 FIA Formula 3 season. That developmental path has shaped him into a well-rounded racer, and ART believe his next step is imminent.\n\u201cI\u2019m very happy to be joining such a historic team like ART Grand Prix,\u201d Maini said after the announcement. \u201cMy early interactions with the engineers and mechanics have been extremely positive. I appreciate the determination within the team and can\u2019t wait to start working together to see what we can achieve.\u201d\nART Team Principal Sbastien Philippe echoed the sentiment, praising the Indian driver\u2019s maturity. \u201cKush has shown real speed and composure in Formula 2. His win in Monaco stands out as proof of his potential. We\u2019re delighted to welcome him to ART Grand Prix and look forward to 2026.\u201d\nMaini\u2019s upward trajectory has also carried him closer to Formula 1. As part of the Alpine F1 programme, he recently drove the A525 during the post-season Young Driver Test in Abu Dhabi, continuing a year of intensive simulator work and private running. The session made him the third Indian ever to take part in an official Formula 1 outing.\nWith ART providing a competitive platform and Alpine keeping a close watch, the 2026 F2 season represents Maini\u2019s strongest chance yet to stake a claim for a full-time Formula 1 seat in 2027. For the 24-year-old from Bengaluru, the path is clearer than ever \u2014 now comes the crucial push to follow through."
       }
     ]
   },
@@ -1571,6 +1667,12 @@
         "original_link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNGFpd3dXaEw1dGZfSXpXdDdqN3dEeGpjYlVocUc4S3dKRnVyaXpuRndlaWRsT0s2OEQ3MnJOZnB1emJ3UmJzZ2JwTDNPcUZMZHlvSERkaTlXdUN3MDFVeWhwQnFVREd5aEMtQ0I0WEdXd2pUU2U1dXR1c1BkQ1ZHenJuek83V1ozN1lsTXVCc0lrRk1xRGFBTmYzVWRiX3p3RGRVZm9DVHpacnVFLTBkZmVUNmFSQVJwMjROTENQVy0?oc=5",
         "source": "Sports Illustrated",
         "scraped_text": "2025 F1 Post-Season Test Results As American Star Leads The Way And 2026 Preparations Begin\nJak Crawford topped the Formula 1 post-season test in Abu Dhabi as teams began preparations for 2026.\nThe American set a best time in the 2025 Aston Martin of 1:23.766s at the Yas Marina Circuit as two separate tests took place.\nRookie drivers circulated in 2025 machinery as is usual at the young driver test, while incumbent race drivers took to the track in 2026 mule cars, which are adapted '25 cars designed to mimic regulation changes for next season.\nCrawford leads Young Driver Test\nAn important day of running for young drivers aiming to scale the single-seater ladder or bolster their understanding of the cars for development work with their respective teams, not much can be looked into, timing-wise.\nBut it was F2 star Crawford, taking to the cockpit of the Aston Martin AMR25 for the third time in two months, who set the best time of the day while clocking 119 laps [629km] across set-up tests and long-run simulations.\nAlpine reserve Paul Aron was second, though in a Sauber, with Luke Browning third for Williams, like Crawford, having taken part in FP1 last Friday.\nFrederik Vesti was fourth for Mercedes ahead of Ayumu Iwasa in the Red Bull, the Japanese driver having been at the wheel of a Racing Bull in FP1.\nPatricio O'Ward was back in a McLaren and the first of those slower than a mule car, with Haas' Ryo Hirakawa seventh fastest of the YDT runners, despite an early incident.\nDino Beganovic was next fastest in the Ferrari, with 2026 Racing Bulls driver Arvid Lindblad getting ready for his new gig with the ninth-quickest YDT time and Alpine's Kush Maini the last of the rookies.\nF1 Abu Dhabi Young Driver Test results\nPosition / Driver / Team\nGap [s]\n1. Jak Crawford / Aston Martin\n1:23.766\n2. Paul Aron / Sauber\n+0.081\n3. Luke Browning / Williams\n+0.154\n4. Frederik Vesti / Mercedes\n+0.802\n5. Ayumu Iwasa / Red Bull\n+1.159\n6. Patricio O'Ward / McLaren\n+1.652\n7. Ryo Hirakawa / Haas\n+1.697\n8. Dino Beganovic / Ferrari\n+1.954\n9. Arvid Lindblad / Racing Bulls\n+2.753\n10. Kush Maini / Alpine\n+3.778\nMule cars take center stage\nNo fewer than 14 full-time F1 drivers ran mule cars, with some duties shared across the day, with Aston Martin test and development driver Stoffel Vandoorne joining in the fun in the absence of Fernando Alonso and Lance Stroll.\nThe cars ran prototypes of the new-for-2026 dynamic-aero front wings, the Mercedes demonstrating an example powered by actuators.\nMule cars were limited to 300km/h [186mph] in order to help balance the extra load created by the active aero, with Pirelli and the teams aiming to harvest data points to take into the winter break.\nAgain unrepresentative, the results below have been separated from the YDT but are gapped to Crawford's best effort.\nF1 Abu Dhabi Post-Season Test results - Mule cars\nPosition / Driver / Team\nGap to P1 overall\n1. Kimi Antonelli / Mercedes\n+1.404\n2. Oscar Piastri / McLaren\n+2.333\n3. Lewis Hamilton / Ferrari\n+2.372\n4. Lando Norris / McLaren\n+2.376\n5. Alex Albon / Williams\n+2.523\n6. Charles Leclerc / Ferrari\n+2.651\n7. Carlos Sainz / Williams\n+2.688\n8. Liam Lawson / Racing Bulls\n+2.739\n9. Gabriel Bortoleto / Sauber\n+3.001\n10. Nico Hulkenberg / Sauber\n+3.238\n11. Pierre Gasly / Alpine\n+3.667\n12. Isack Hadjar / Red Bull\n+3.749\n13. Stoffel Vandoorne / Aston Martin\n+3.977\n14. Oliver Bearman / Haas\n+4.061\n15. Esteban Ocon / Haas\n+7.641\nThe Latest Formula 1 News\nMax Verstappen Hits Out At F1 Journalist Over Controversial George Russell Clash\nMcLaren CEO Zak Brown Issues Oscar Piastri Prediction\nWhy 2026 Is \u2018Now or Never\u2019 For Charles Leclerc And Ferrari\u2019s F1 Title Hopes\nLando Norris Reveals \"Regret\" Over Lewis Hamilton, Max Verstappen Jibes\nEwan is a motorsport journalist covering F1 for Grand Prix On SI. Having been educated at Silverstone, the home of the British Grand Prix, and subsequently graduating from university with a sports journalism degree, Ewan made a move into F1 in 2021. Ewan joins after a stint with Autosport as an editor, having written for a number of outlets including RacingNews365 and GPFans, during which time he has covered grand prix and car launches as an accredited member of the media.Follow ewangale"
+      },
+      {
+        "link": "https://www.crash.net/f1/results/1088130/1/2025-f1-abu-dhabi-post-season-test-full-timings-and-results",
+        "original_link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcFU3Q2Z1czJtRUFHa1duZElJZTlJVU5wUkNLRmZrR0hheVh2ejlQV0RRZjdTWmdyNWptUlZFV3ZrdUkxMmZGNWMxN1dPdWZjaE5zWHYxRDZOalVUclBpYkYxMURCaVVxSjRwRzViYVBqUE1RbWF6czJDLUVjMEhHOUdyWmRyWE5jSV80aUFaUTNxdkkzSEh1MWNOOFAxNzJ3V3VubA?oc=5",
+        "source": "Crash.net",
+        "scraped_text": "2025 F1 Abu Dhabi post-season test - Full timings and results\nEnd-of-day results from F1 2025 post-season testing at the Yas Marina circuit.\nAston Martin\u2019s Jak Crawford topped the timesheets in the post-season F1 test at the Yas Marina Circuit in Abu Dhabi.\nAll 10 F1 teams were in action for nine hours of running on Tuesday. The main purpose of the test was to try out Pirelli\u2019s 2026 tyre range.\nTo give Pirelli more representative data, teams were able to run mule cars to produce the lower downforce levels expected in 2026. Mercedes trialled a unique-looking front wing design in the morning.\nCrawford topped the timesheets for Aston Martin with a 1m23.766s, completing 119 laps in total. He pipped Alpine\u2019s Paul Aron, who narrowly missed out on a 2026 F1 drive to Franco Colapinto.\nLuke Browning rounded out the top three for Williams, just under two-tenths shy of Crawford\u2019s pace. The British driver completed 129 laps in total.\nFrederik Vesti got the entire day behind the wheel of the Mercedes W15 as George Russell elected to miss the test. He was fourth-fastest ahead of Ayumu Iwasa, who was in action for Racing Bulls.\nKimi Antonelli completed a whopping 157 laps, setting the sixth-best time of the day. Next up was Pato O\u2019Ward in seventh ahead of Haas\u2019 Ryo Hirakawa.\nDino Beganovic was the lead Ferrari in ninth, while Oscar Piastri rounded out the top 10. Lewis Hamilton ran in the afternoon, setting the 11th-fastest time.\n2025 F1 world champion Lando Norris was in action for McLaren in the morning, completing 71 laps in total. Max Verstappen and Fernando Alonso didn\u2019t take part in the test.\nFull timings from Abu Dhabi post-season test\n|2025 F1 Abu Dhabi Post-Season Test Results\n|Pos\n|Driver\n|Nat.\n|Team\n|Time\n|Laps\n|1\n|Jak Crawford\n|USA\n|Aston Martin Aramco F1 Team\n|1m23.766s\n|119\n|2\n|Paul Aron\n|EST\n|BWT Alpine F1 Team\n|1m23.847s\n|126\n|3\n|Luke Browning\n|GBR\n|Atlassian Williams Racing\n|1m23.920s\n|129\n|4\n|Frederik Vesti\n|DEN\n|Mercedes AMG Petronas F1 Team\n|1m24.568s\n|145\n|5\n|Ayumu Iwasa\n|JPN\n|Visa Cash App Racing Bulls F1 Team\n|1m24.925s\n|121\n|6\n|Kimi Antonelli\n|ITA\n|Mercedes AMG Petronas F1 Team\n|1m25.170s\n|157\n|7\n|Pato O'Ward\n|MEX\n|McLaren F1 Team\n|1m25.418s\n|127\n|8\n|Ryo Hirakawa\n|JPN\n|MoneyGram Haas F1 Team\n|1m25.463s\n|121\n|9\n|Dino Beganovic\n|SWE\n|Scuderia Ferrari HP\n|1m25.720s\n|122\n|10\n|Oscar Piastri\n|AUS\n|McLaren F1 Team\n|1m26.099s\n|85\n|11\n|Lewis Hamilton\n|GBR\n|Scuderia Ferrari HP\n|1m26.138s\n|73\n|12\n|Lando Norris\n|GBR\n|McLaren F1 Team\n|1m26.142s\n|71\n|13\n|Alex Albon\n|THA\n|Atlassian Williams Racing\n|1m26.289s\n|92\n|14\n|Charles Leclerc\n|MON\n|Scuderia Ferrari HP\n|1m26.417s\n|75\n|15\n|Carlos Sainz\n|ESP\n|Mercedes AMG Petronas F1 Team\n|1m26.454s\n|76\n|16\n|Liam Lawson\n|NZL\n|Visa Cash App Racing Bulls F1 Team\n|1m26.505s\n|141\n|17\n|Arivd Lindblad\n|GBR\n|Visa Cash App Racing Bulls F1 Team\n|1m26.419s\n|139\n|18\n|Gabriel Bortoleto\n|BRA\n|Stake F1 Team Kick Sauber\n|1m26.767s\n|78\n|19\n|Nico Hulkenberg\n|GER\n|Stake F1 Team Kick Sauber\n|1m27.004s\n|76\n|20\n|Pierre Gasly\n|FRA\n|BWT Alpine F1 Team\n|1m27.433s\n|144\n|21\n|Isack Hadjar\n|FRA\n|Oracle Red Bull Racing\n|1m27.515s\n|111\n|22\n|Kush Maini\n|IND\n|BWT Alpine F1 Team\n|1m27.544s\n|128\n|23\n|Stoffel Vandoorne\n|BEL\n|Aston Martin Aramco F1 Team\n|1m27.743s\n|108\n|24\n|Oliver Bearman\n|GBR\n|MoneyGram Haas F1 Team\n|1m27.827s\n|80\n|25\n|Esteban Ocon\n|FRA\n|MoneyGram Haas F1 Team\n|1m31.407s\n|4"
       }
     ]
   },
