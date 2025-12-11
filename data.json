@@ -1,5 +1,80 @@
 [
   {
+    "date": "2025-12-11",
+    "page_id": "formula_1",
+    "title": "FIA Increases Superlicense Points for IndyCar Drivers",
+    "summary": "The FIA approved changes to its superlicence system on Wednesday, increasing points awarded to IndyCar drivers finishing 3rd through 9th in the championship starting in 2026. This update aims to better reflect the significance of IndyCar and potentially aid drivers like Colton Herta in their pursuit of Formula One.",
+    "sentiment": "Positive",
+    "type": "pending",
+    "sources": [
+      {
+        "link": "https://www.news18.com/sports/formula-one/indycar-to-get-a-freer-pass-into-f1-fia-boosts-superlicense-points-allocation-ws-l-9762706.html",
+        "original_link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNR2N6YmdZSVRfTXB0NmQ2dXJ6ZmowblJjTDkycElkWlVxM29CdUhiTTZkMktMdGdlVWMyY3lvaEhRblNrRWRnVmpPMWlCUnhJOUU0MG9sVU84aTB4NnJDWE5kZjN2ODJTc0lKanJ1WEU1NDFEbWtheU5YWTlYSU04Yzk2MzN5cm1PQm1BNWN4TXcwME1MN01SZUVicmhRZnJVMVBqMTNySy1aU3dxZ3JxcUxEaTZYYUVGR0R3Xy12S0xDWEFuVzZ3U2hlR0hraWxJODN30gHYAUFVX3lxTE5EQXk2d1ZVdVlhVk5NazJoUEViWGt3ZGZKTlQxODc2ZlhMMXNzR2dnSERpc0VpNkRxVFRKMnhIc2k1azNXY0QtUHRtbVFkbV9vemJJZ0dpVkVOR3NKaWF1c0dBVTRkZF9Xb0JHeDNTeS1HS0t2clJhaFBNaUhTYlZsRW5EdVBWVVE0ZklVYVRXekxIelR0NEtTNXlObkw2X05jbHRPWDVyMVR0YmtjZTJiem9rM182YkZSeWRBZ0hlQUNRS1I2cVEtMk1jU1FRc1RndmtzcEE5MA?oc=5",
+        "source": "News18"
+      }
+    ]
+  },
+  {
+    "date": "2025-12-11",
+    "page_id": "formula_1",
+    "title": "Helmut Marko Retires from Red Bull Racing After 20 Years",
+    "summary": "Red Bull's auto racing adviser Helmut Marko is retiring at age 82, ending a 20-year career that saw him guide drivers like Sebastian Vettel and Max Verstappen to championships. Marko's departure follows other key personnel changes at Red Bull, including Christian Horner's ousting in July and Adrian Newey's move to Aston Martin in 2026.",
+    "sentiment": "Neutral",
+    "type": "pending",
+    "sources": [
+      {
+        "link": "https://www.chinadaily.com.cn/a/202512/11/WS693a257da310d6866eb2e108.html",
+        "original_link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBybnNlZUkyZVc2RG42YmIwek9xUUlhVTZGWmFMVDFmSlhYWi1SUFI4TmlONkIzcTNtN1h4TTNZLUY3eWQ4X21Nc0JKLU5qR18yWnBkX3BMUy0xTGlKRW9Sbm1jT2RUODJpcVM3bHlfeWpXaFdyRDFXdnR0SndUUQ?oc=5",
+        "source": "China Daily"
+      }
+    ]
+  },
+  {
+    "date": "2025-12-09",
+    "page_id": "pmpml_buses",
+    "title": "PMPML Faces Capacity Issues and Plans Expansion",
+    "summary": "PMPML requires 6,000 additional buses and 16 new depots to address increasing commuter demand. The need for expansion highlights current capacity limitations within the public transportation system.",
+    "sentiment": "Urgent",
+    "type": "pending",
+    "sources": [
+      {
+        "link": "https://www.msn.com/en-in/lifestyle/whats-hot/pmpml-needs-6-000-more-buses-16-new-depots-to-meet-growing-commuter-demand/ar-AA1zeZuL?apiversion=v2&noservercache=1&domshim=1&renderwebcomponents=1&wcseo=1&batchservertelemetry=1&noservertelemetry=1",
+        "original_link": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxQUUFoWm9pa1BMUHJUbXlNcVNtTG1vdkV3c1VEbEk3OEtpMzduTGE5ZUk0NDBQZVJjOTN1T1UtbmNDZmh6cG42alNjMWllakp4ZnFtVWQ2Tk01eEE3UzU0TXZQUUhBT1Fod0pWSXVSb2dBd3BkNktzaENfNTl1aV9SVDRHYlowdkREMjlvc3kyMkp2WjlTbzN4bUlxeXFNUURJRDUxNEFQWjZfT3cxSWhIYVE2Z1pDdzJaQmVhdjFsU1dDVzVZX1ZYSVZBdTBBM3hEOFRnVE5JeVFaQjNmazNlTjEtZ3ZzWXpBMzNIUE01Qmh4MTlHVXA4VTctcWU0RlA3WWJUQWtaZDA0ZkZJTm8yb0RhS0xsQ21MemJTTGRUalNBZWdnamdJVjd1alpBQnExZmp1bUV4OFdQQUo4Y2NtVEZSbm9xTUotZW5lYXcwSnA4cWZhWXhhc2tJd2hYUnU2YXFZ?oc=5",
+        "source": "MSN"
+      }
+    ]
+  },
+  {
+    "date": "2025-12-08",
+    "page_id": "formula_1",
+    "title": "Lando Norris Wins Formula 1 Championship; Review of British F1 Champions",
+    "summary": "Lando Norris recently won his first Formula 1 world championship, becoming the 11th British driver to achieve this feat. The article also provides a historical overview of British F1 champions, including Lewis Hamilton, Jim Clark, and Nigel Mansell, and references events like the Canadian Grand Prix on a date not specified.",
+    "sentiment": "Positive",
+    "type": "pending",
+    "sources": [
+      {
+        "link": "https://www.bbc.com/sport/formula1/articles/c0jeqpd3jq7o",
+        "original_link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1HZ0hyRC1fY0xqMG5qNU1PWVNVRVRzVjZRX28wSU9YWXNVdmNIVUNqTUtuUUVCUXZFXzRYVjhlTGVfUzFzYnNKUmlTZ2lfeE9lUE80cHZjaW5nZFd1MnREUXVQdWhYbWs?oc=5",
+        "source": "BBC"
+      }
+    ]
+  },
+  {
+    "date": "2025-12-06",
+    "page_id": "formula_1",
+    "title": "Abu Dhabi Grand Prix Race Updates",
+    "summary": "This article provides live updates and highlights from the Formula 1 Abu Dhabi Grand Prix. It covers the race, qualifying, and practice sessions, with a focus on the competition between Lando Norris, Max Verstappen, and Oscar Piastri as of Monday, December 8, 2025 at 10:36 UK time.",
+    "sentiment": "Neutral",
+    "type": "pending",
+    "sources": [
+      {
+        "link": "https://www.skysports.com/f1/live-blog/12040/13478726/f1-abu-dhabi-gp-live-race-qualifying-practice-title-decider-updates-stream-highlights-in-lando-norris-max-verstappen-oscar-piastri-fight",
+        "original_link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPektveEFObjNRRGNEZWlqSVM3M3RyZDAzUHNmU3NnRzU2NUNsZFNIRlhnWE94Rm5HTm9pUGR4UVVtT2FONnYxSFlSOFh1MkxnYWdMSFFvNHhueHpwZ0s4SThDY1dibFg2RG93MFJIRko1QzZWc19WMlVGb3l4U1RDeVZ6TDFiTHJEQURHc1RNQkp5c2h6aC1JZXNGQ1NnN3U1WUNITk5MdXBodFhCUmNsVE8zSWxselBUQ1IyVDVXMVVpUEpKbDJobUVMUVFaam1wRVRGckstUHViVHRjOGM5SmYxWm5aMDhud3Q1RFZrZ0d0LVhvQ0ZNa2NQaEJNdk5rLWtkU1JKQ3AtNVcwUmh2TkpaSGZfNFpoeEE?oc=5",
+        "source": "Sky Sports"
+      }
+    ]
+  },
+  {
     "date": "2025-12-10",
     "page_id": "formula_1",
     "title": "Lando Norris' Car Collection Detailed After 2025 Championship Win",
@@ -49,7 +124,7 @@
     "page_id": "formula_1",
     "title": "Lando Norris Wins Formula 1 Championship, McLaren Discusses Future with Piastri",
     "summary": "Lando Norris ended Max Verstappen's 1456-day reign to win the 2025 Formula 1 World Championship after a 24-race season, celebrating late into the night and regretting a 6am Sausage McMuffin breakfast. Despite leading the championship for 15 rounds and holding a 34-point advantage after Zandvoort, Oscar Piastri ultimately finished third, 13 points behind Norris, though McLaren CEO Zak Brown predicts Piastri will be a World Champion as early as 2026, praising the competitive dynamic between the two drivers.",
-    "sentiment": "Positive",
+    "sentiment": "Neutral",
     "type": "pending",
     "sources": [
       {
@@ -61,6 +136,12 @@
         "link": "https://www.grandprix.com.au/fan-zone/news/brown-sees-future-title-in-piastris-tank",
         "original_link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWkRsTFo4TmZ1NkhweVZWXzBGLXlLWjNoQTZ3Z2JIV1JXUnA5NHdEQ2Y3RDRISlZWLU05b2pCVWIzbHNTckE5b0tBdjBYSUhXaGpaMVRodnBVYVp6bDhnOTMzNlM1M3E3M1Q4NGY3LUVKNDgtVEdvdjg4SnRMalJnZi1ST011SnJIRFRF?oc=5",
         "source": "formula 1 qatar airways australian grand prix 2026"
+      },
+      {
+        "link": "https://www.abc.net.au/news/2025-12-11/formula-1-quiz-test-your-2025-season-knowledge-oscar-piastri/106124134",
+        "original_link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZWtPeTA4NXk0TTZyM1RDeW9uOUNXQWsyNG1jeGZISmEtaTRJcUdUeUkyTUQ0cTJtdnJydGU0Znd4Qk90WTVaZWlQZ012b0toMVlUNVdZc3JlQkZYYnRaX2pwbGVkWlZScEktVnBqeTZPMW80WU9XRUVrWElBRnVfQzZTdElxYlBVbjRscHVEY2hjd21MdzcyUlN6dUE2Z05ieVRzUlViLUltblNjX2c?oc=5",
+        "source": "Australian Broadcasting Corporation",
+        "scraped_text": "Formula 1 quiz: How much do you remember from the 2025 season?\nAfter 24 grand prix and plenty of champagne, the Formula 1 2025 World Championship is over.\nMcLaren's Lando Norris is the new world champion, bringing Max Verstappen's four-year winning streak to an end, with the finale's three-way battle seeing Australia's Oscar Piastri finish third overall.\nBut between all the races and rivalries, points and penalties \u2014 how much do you remember from the 2025 season?\nTest yourself with our quiz below.Loading\nWhere to find all the ABC's quizzes\nWant to test yourself even further?\nTake a squiz at the ABC's New Quiz topic page and see if you're a whiz at our previous quizzes."
       }
     ]
   },
