@@ -1,5 +1,50 @@
 [
   {
+    "date": "2025-12-11",
+    "page_id": "trees_nashik",
+    "title": "Nashik Municipal Corporation Fells Over 1,200 Trees for Sewage Treatment Plants",
+    "summary": "The Nashik Municipal Corporation (NMC) cut down 1,273 trees between September and October to make way for four new sewage treatment plants along the Godavari river.  A plantation drive, starting on Monday, aims to plant 15,000 trees to compensate for tree felling, with the first batch of 1,000 trees expected to arrive by Friday evening.",
+    "sentiment": "Negative",
+    "type": "pending",
+    "sources": [
+      {
+        "link": "https://timesofindia.indiatimes.com/city/nashik/nmc-cut-1273-trees-for-four-stps-in-sept-oct-greens-enraged/articleshow/125919887.cms",
+        "original_link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPbjkyaENldnNaODR6Z0xqRkd1OFRTWFJodloxTGZVZmFmbEY3dUR5TDRLdGJ0SE5CNDl4emxaelJhQ2Z2WkhUUXFfUEdrVmNYNS1UV2xXallVTVczcnFkeXRjQTNVVnR4YmJEQ2JfTHpsU1VZTEFhc2s0SDhnb0pPME9maUl0c1kwUW52Zk1rOWNhQU5DZjItVlpLbkhnNUJXdnRrVFhfTHQ2TUhUb1RnaU1ZbUhDLXdzTGxCbkZ0VURUN3hjTUQtenJVSkdVZ9IB0wFBVV95cUxQb3JVQWZzby15S2h3QkZ2SVhyR2JkYmxDVVI1OVZvVWEzd2l5cmhyUkk2RVVjSllwZjdsTXpPRXZjLVR4X2k4TTlHUS1pWVF4TjFYVzNVdkFRbTJuQWFSXzQwbE1iOHVjcllHM05MYUMtLWhselF0ZnVqV3NYLWxBRWlaSmtJYmlXUzhmTGZvbzltQ1VWYnpqbXRWanRYMkk3SjB0QVFTa19ERW94TEc3cExKbTlvOHdLVDhXeWQ4aDVCbF9fX3dRMGNBazRzV0ZhOGZr?oc=5",
+        "source": "The Times of India"
+      }
+    ]
+  },
+  {
+    "date": "2025-12-11",
+    "page_id": "formula_1",
+    "title": "Ferrari Tests Simplified Steering Wheel Design for 2026 Formula 1 Car",
+    "summary": "Ferrari tested a new, simplified steering wheel design during a post-season Pirelli tyre test where drivers completed a combined 270 laps, including Lewis Hamilton and Charles Leclerc. The change aims to reduce driver cognitive load and improve focus on lap times and tyre management as Formula 1 prepares for major regulatory shifts in 2026.",
+    "sentiment": "Neutral",
+    "type": "pending",
+    "sources": [
+      {
+        "link": "https://scuderiafans.com/ferrari-reveals-simpler-steering-wheel-design-for-2026-f1-car-photo/",
+        "original_link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMzVUdEZNY1M0cWszUEVzYkpqdmdzU3NpeGhjcnF5ZndKbTFIbVlDaFFsc1hJWnBnRGFmVFlzNmhBdGxULVgxZFRnalR4Q3Q0ZWlxSXI0cXN2RUl1WkhRWjI0RG9mUjZCVkJEalF5SWdLd0xOY0s1TW9JUkRaOTFydDZiNlpnb1ZZOWM4S1lkSXMtV2Vvb3pBZg?oc=5",
+        "source": "Scuderia Ferrari Fans"
+      }
+    ]
+  },
+  {
+    "date": "2025-12-08",
+    "page_id": "formula_1",
+    "title": "Lewis Hamilton's First Season with Ferrari Described as Difficult",
+    "summary": "The article reports that Lewis Hamilton's first season with Ferrari has been disappointing. It references the Abu Dhabi Grand Prix on December 7, 2025, where Hamilton was visibly frustrated.",
+    "sentiment": "Negative",
+    "type": "pending",
+    "sources": [
+      {
+        "link": "https://www.clickorlando.com/gallery/sports/2025/12/08/lewis-hamiltons-dream-formula-1-move-to-ferrari-results-in-a-nightmare-first-season/",
+        "original_link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMHVtcnExSFk0azJ3b2lWWlZIbjFDWWxKNnZkcF9LSlk1ME1LYzJwSWJmbDBtMFQ5T2IzTG9BV0ZXSWVBNXQzUmNseVV2a0xwc3dselYzRDRjcEdIWGFBTkd5VHB1c1lxQ2RadmpNcTdwM1h4UVlNSmxfYThrREZRODZVX09hSDJIaWVOLXVMb2pHaWtDSS1QTTlyNXNiQ3ZNejFZMTNNbGV1UDFXM3VXOHJWazJtVXo0YTdtREwxTGE4d2FDdXhSeWZ5YWRxNTVFMmdZQ0tR?oc=5",
+        "source": "WKMG"
+      }
+    ]
+  },
+  {
     "date": "2025-12-10",
     "page_id": "formula_1",
     "title": "The History of Tobacco Sponsorship in Formula 1 and MotoGP",
@@ -943,6 +988,12 @@
         "original_link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOUzd0RThnMWFNU3U2RlJQU25UMktGeVU4TXBDNHBIeFNUYUl2NmhFSDc0ckJabWMtR1pZemtEOW9GWHdNbzBSS2ZKUnF6cjhjLTZlY2lUSEUxUXJhUTVHQmZfSXN1Tm1yalA3WmN4T3I2OTEzbmpQa21aU1RSNGZQS2tzMF9XU0pXa29wbXZKWHlXZFZQbHVveFZVd3VYdUhleUVZOGpMVG1aVHhmLTJOUUNCVGM2Q1hhWW1YTm5LV0x6c0E4VEtJWlBIX05CMTJacnVLR1NPUQ?oc=5",
         "source": "Formula 1",
         "scraped_text": "\u2018He just needs to go again\u2019 \u2013 Brown says Piastri \u2018should be proud\u2019 of his season\nZak Brown believes Oscar Piastri is a future World Champion despite the Australian falling just short of title glory in 2025.\nMcLaren CEO Zak Brown does not believe that Oscar Piastri will be too disheartened after losing out on a maiden World Championship title to his team mate Lando Norris, insisting that the Australian will win the title himself one day.\nPiastri finished the Abu Dhabi Grand Prix in second place behind Max Verstappen, but that was not enough to deny Norris the title with the Briton coming home third to take his maiden crown. Piastri wound up third overall in the standings, 13 points behind his team mate at the end of a hard-fought season.\nThe result could well have been harder to take for the Australian than for Verstappen \u2013 who fell just two points short \u2013 given that Piastri led the championship for more races than anyone else. He enjoyed a 34-point lead over Norris after Zandvoort, the 15th race of the 24 Grand Prix season.\nBut Brown is sure his driver will be back even stronger next year and sees no reason to change the status quo within McLaren of letting both drivers race each other week in, week out.\n\u201cHe is a future World Champion. Both our guys won seven races, drove brilliantly, they supported each other,\u201d Brown said in the aftermath of Abu Dhabi. \u201cIt's a cruel sport, things sometimes go your way, sometimes they don't [in a way that's] out of your control but I'm excited to go racing with these two guys next year.\u201d\nPiastri's season arguably began to unravel after Baku, a weekend where he failed to finish after crashing twice and jumping the start. That then led to a run of five races where he finished off the podium \u2013 allowing both Norris and Verstappen to catch and then pass him in the standings.\nAnd while he did not convert a sizeable championship lead into the title in 2025, Piastri at least came back fighting at the end of the season, winning the Sprint in Qatar, while he arguably should have had an eighth Grand Prix victory that weekend as well.\n\u201cI don't think [Piastri] needs to pick himself up. He should be proud. He won seven races, led the championship. Of course, he'll be disappointed, but I don't think there's anything he needs to pick himself up from. I think he just needs to go again,\u201d Brown said.\n\u201cI think we've learnt a lot this year but as far as letting our guys race. We let them race all the way down to the end, including Oscar doing a pass around the outside [on Norris on Lap 1 in Abu Dhabi]. So, we're definitely going to continue with that, but I think like you do every weekend, you learn, you refine.\n\u201cWe'll work with the drivers and go, we'll give you equal opportunities or things you want to do differently and the way you do that. We've got two guys capable of winning the World Championship, we'll see what happens next year.\u201d\nWith seven wins apiece in 2026 and separated by just 13 points at the end of a 24-race season, all eyes will be on McLaren in 2026 to see which driver comes out on top in their intra-team fight.\nNext Up\nRelated Articles\n- Joseph \u2018very proud\u2019 to be part of Norris\u2019 title success\n- Abu Dhabi 'not a bad weekend' for Ferrari \u2013 Vasseur\n- 8 moments you missed at the Abu Dhabi Grand Prix\n- All the key stats from Norris\u2019 title-winning season\n- This Week in F110 quiz questions on the Abu Dhabi title decider\n- Norris confirms he will use car number 1 next season"
+      },
+      {
+        "link": "https://www.mykhel.com/more-sports/piastri-demands-equality-with-norris-at-mclaren-011-401561.html",
+        "original_link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOX3E3SFp6blk1M3dJcmh3dVVoZUxaS3RVY1F5MEc2b1EwdXZzQ1c2b1FmRko0WVVmS1hYVXlTcDdUQlQyd0YtMjk0SlV1MWhJSXVwdnZfQkZXZ3hRVGhJUy04dlFKVnBhNVJqWGZpT3F5WFRJVDMtRmV3bmxiS01FMUpiaXRYRlEyeVFjMk1qeGxHRHV1S0Z3LXd3TUFWdEU?oc=5",
+        "source": "myKhel",
+        "scraped_text": "Oscar Piastri has expressed confidence that McLaren will maintain equal treatment for both drivers in the 2026 Formula One season. Lando Norris recently clinched his first F1 title in Abu Dhabi, narrowly defeating Max Verstappen by two points. Despite Norris's success, Piastri remains optimistic about team dynamics. \"I don't think that will change anything,\" Piastri stated after the Abu Dhabi Grand Prix.\nPiastri finished third in the Drivers' Championship, following a second-place result at Yas Marina Circuit. He had led the title race before the mid-season break but fell behind due to a strategic error at the Qatar Grand Prix. This misstep cost him valuable points against his competitors. Nevertheless, Piastri believes McLaren will not alter its approach to favour Norris despite his championship win.\nPiastri emphasised that Norris's victory does not transform him into someone unbeatable. \"For me, he's obviously had a great season this year and a deserving champion, but he's still Lando Norris. It's not like he's become Superman,\" he remarked. Piastri anticipates continued fairness and equality from McLaren moving forward.\nThe Australian driver is confident that the team's treatment of both drivers will remain consistent. \"I'm expecting full fairness from the team and equality going forward,\" he added. Piastri has no concerns about any changes in this regard, even with Norris's recent triumph.\nReflecting on the season, Piastri acknowledged Norris's strong performance and admitted that his teammate ultimately did a better job this year. However, he remains focused on maintaining competitiveness and ensuring fair treatment within McLaren as they prepare for the upcoming season."
       }
     ]
   },
