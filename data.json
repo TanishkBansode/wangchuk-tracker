@@ -2,6 +2,21 @@
   {
     "date": "2025-12-12",
     "page_id": "formula_1",
+    "title": "Mercedes to Review Customer Teams for Power Unit Supply Post-2025",
+    "summary": "Mercedes CEO Toto Wolff announced the team will reduce the number of teams it supplies with power units in the next cycle, aiming for between two and three customers.  As of the end of the 2025 season, Mercedes will no longer supply Aston Martin, who will switch to Honda engines.",
+    "sentiment": "Neutral",
+    "type": "pending",
+    "sources": [
+      {
+        "link": "https://www.gpblog.com/en/news/wolff-looks-to-honda-mclaren-williams-and-alpine-face-mercedes-axe",
+        "original_link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQVZZaEZlRG9ULTMtVlgyN1V3c3ZBUUNIMkpPTlBwcFZzZDBDZ0ZYaUJzdXlIYzRQQ24zY2pjZ1BkckhuWXpVbDdDZkRlb0xwNjh3bEplbUl3U3pQMXV5OVlTb3JwN25SZUM1TlJRWHBCLUJUU1JSSnhIQW5RcTkwODVlMVVXNjlBczMzcFN5NEtqSEdVUjVzNTZqdlBBdw?oc=5",
+        "source": "GPblog"
+      }
+    ]
+  },
+  {
+    "date": "2025-12-12",
+    "page_id": "formula_1",
     "title": "Lando Norris Receives First F1 Championship Trophy at FIA Awards",
     "summary": "Lando Norris received his first Formula 1 world championship trophy at an FIA gala event in Tashkent, Uzbekistan. He clinched the title at the Abu Dhabi Grand Prix last Sunday, defeating Max Verstappen by two points.",
     "sentiment": "Positive",
