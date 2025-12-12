@@ -1,6 +1,51 @@
 [
   {
     "date": "2025-12-12",
+    "page_id": "trees_nashik",
+    "title": "NGT Restrains Tree Cutting in Nashik Until January 15, 2026",
+    "summary": "The National Green Tribunal (NGT) has ordered authorities in Nashik to halt tree cutting, except as legally prescribed, until the next hearing on January 15, 2026, following a challenge to the Nashik Municipal Corporation's plans for tree felling related to the Kumbh Mela 2027. A joint committee has been formed to inspect the sites and submit a report within two weeks, addressing concerns about the lack of Environmental Impact Assessment and potential damage to Nashik's environment.",
+    "sentiment": "Critical",
+    "type": "pending",
+    "sources": [
+      {
+        "link": "https://timesofindia.indiatimes.com/city/nashik/ensure-no-tree-is-cut-till-next-date-by-authority-concerned-in-nashik-ngt/articleshow/125938224.cms",
+        "original_link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxObC1IYzVqa2VScElxQ3lWeE4xT3FqSW5uRlVsQWE4aFZZcVlJOXEtWGJRdnZmbG9QZVFnV2tIX2stbTZzemlqYnI1NGFrSm1PMW1UQm9TSnhHaVpPbnJqc1A2V0tmU3ByU0wwZF9oYmZ1amhaY3Z0eFdmSkNyYS16RG1CUzA1aVdEYXhFd0hVVGFTaVVsZU91WEJWWUV3OWhnVFctTy1sMnJHUkNKOExOOW00VkJKX1Q2RzRSZkJ6ODRMcl9EVlktYnNOckJQWHBuWnRsTkNsbnpJYnp3LVBudtIB5gFBVV95cUxOYlNmM0ZlUUNtOHp4Q2hxajhVX1NDUXhlRC10eXN5dXpUMUhmc0lPYjNlWjV6cWU1YjVLSTdlakpvM0RqTXhCV0xoZlRCR3ZUR2xNXzVZSkQtb0lCSHV2UEtlLTc3VmZ6X3JfZFNva3gwb1RZOGdMNG1wdkVSS1BjSkdZeDhoU2pGT24yd3VTOGt2Z3BrczVtNDNGWjNXQlRmODlnUDBTMENuWENaQ2VvWFJ3VVdaVXVJc2drX2VBS1ZNQWhnaHZwSllCMDM1d3VCdkd6Y1NqYktUVWRTT3BydVB3SlY1Zw?oc=5",
+        "source": "Times of India"
+      }
+    ]
+  },
+  {
+    "date": "2025-12-12",
+    "page_id": "formula_1",
+    "title": "Verstappen Wins F1 Action of the Year Award",
+    "summary": "Max Verstappen was awarded the F1 Action of the Year at the 2025 FIA Awards in Uzbekistan for his overtake on Oscar Piastri at the Emilia Romagna Grand Prix. He also congratulated FIA President Mohammed Ben Sulayem on his re-election in Tashkent.",
+    "sentiment": "Neutral",
+    "type": "pending",
+    "sources": [
+      {
+        "link": "https://www.gpblog.com/en/news/verstappen-beats-norris-to-key-fia-award-at-gala-after-missing-out-on-drivers-title",
+        "original_link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZmlTZlNFMURnQkF3TGo2M3FDcGhuZnFXNXNZSGUwSXU4cEdKb0NRTE1sMExDY2hqdnlxbWN2TC04TWt1aGJPYVpMLWVqODZCVFlVWlRjUlFJalVRM3hlWEowdVR4Q2txQTdFcG5qMEhMOXMxVmdGbzdOUHJ1M3BBZC0tOXNnOE0zNnhUSlZ4cGFYVktoWURFRkhIUC1FcUdfWjJmOGpIVjZpb0FVX2psUmZZTWQ?oc=5",
+        "source": "GPblog"
+      }
+    ]
+  },
+  {
+    "date": "2025-12-12",
+    "page_id": "formula_1",
+    "title": "Formula 1 Teams Preview 2026 Engine Sounds",
+    "summary": "The article discusses new engine sounds being released by Formula 1 teams for the 2026 season. It highlights a significant change related to the upcoming engine regulations.",
+    "sentiment": "Neutral",
+    "type": "pending",
+    "sources": [
+      {
+        "link": "https://www.sportbible.com/f1/f1-new-engine-sounds-2026-322781-20251212",
+        "original_link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9rdGJodzRvZGJPYzVsV0Z6dmt1RkE2aTVpYzg1V3czQXN3Y25LbTJiZVNjU29BSnJlLVY5REZka2lRaFE0OWpCTEZaRFFiM3hwejd0cWhWZHhiMGZ4Q210dVRjNVdiSzRSbTExY3NXbnZlQzB1cEdpNXk4SQ?oc=5",
+        "source": "SPORTbible"
+      }
+    ]
+  },
+  {
+    "date": "2025-12-12",
     "page_id": "formula_1",
     "title": "Mercedes to Review Customer Teams for Power Unit Supply Post-2025",
     "summary": "Mercedes CEO Toto Wolff announced the team will reduce the number of teams it supplies with power units in the next cycle, aiming for between two and three customers.  As of the end of the 2025 season, Mercedes will no longer supply Aston Martin, who will switch to Honda engines.",
@@ -11,6 +56,12 @@
         "link": "https://www.gpblog.com/en/news/wolff-looks-to-honda-mclaren-williams-and-alpine-face-mercedes-axe",
         "original_link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQVZZaEZlRG9ULTMtVlgyN1V3c3ZBUUNIMkpPTlBwcFZzZDBDZ0ZYaUJzdXlIYzRQQ24zY2pjZ1BkckhuWXpVbDdDZkRlb0xwNjh3bEplbUl3U3pQMXV5OVlTb3JwN25SZUM1TlJRWHBCLUJUU1JSSnhIQW5RcTkwODVlMVVXNjlBczMzcFN5NEtqSEdVUjVzNTZqdlBBdw?oc=5",
         "source": "GPblog"
+      },
+      {
+        "link": "https://racingnews365.com/toto-wolff-hints-at-major-mercedes-f1-change",
+        "original_link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5TT1RFb1p6T1NHdXViak1CWlhxX0pLem5XNEJwbXZsOWhCNFRfMGRCMndrSVljRjFTWTk2VW1RWmprUmE4aEc5Y0p2X3MzU2pQejRqcWNHOXNoaDdpOVU4d29RN1luNHJhSGJrSVhCcDZIRmJFcFJXXzhn?oc=5",
+        "source": "racingnews365.com",
+        "scraped_text": "Mercedes team principal Toto Wolff has hinted that the Silver Arrows will axe at least one customer outfit after 2030.\nMcLaren, Williams and Alpine all have contracts with Mercedes to receive engines until at least the end of the 2030 season, although the German manufacturer is already looking into scaling back its production.\nEight of the 22 cars on the grid next season will be powered by Mercedes, with the company being the most represented engine supplier on the grid.\nHowever, with next year's introduction of the new power unit regulations, Wolff and Mercedes chairman Ola K\u00e4llenius have discussed the number of customer teams.\n\"Our current mindset is, also discussing with Ola, that we will reduce the amount of teams we\u2019re going to supply in the next cycle,\u201d Wolff said on the Beyond the Grid podcast.\nWolff explained that the ideal number of Mercedes-powered teams would be \"between two and three, I guess.\"\nHe added: \"It depends on the new regulations going forward. Are they rather simple or not? What is it we believe we can learn by supplying more teams, whilst at the same time needing to lock in some designs earlier?\"\nDue to Mercedes powering four teams, it will need to transport 16 brand-new power units to the 2026 season-opening Australian Grand Prix.\nCompared to Honda, who only have Aston Martin to power, it is a staggering quantity of engines to produce \u2014 something Mercedes wants to change.\n\"If you\u2019re Honda on your own, [it will be] four or five,\" added Wolff, discussing the number of engines being sent to Australia. \"So that means longer lead times, longer production cycles.\n\"So, considering all of that, going forward, it\u2019s not going to be four anymore.\"\nAlso interesting:\nJoin RacingNews365's Ian Parkes, Sam Coop and Nick Golding, as they look back on the title-deciding Abu Dhabi Grand Prix. Lando Norris' title victory is a major talking point, as is the hinted major changes at Red Bull after Max Verstappen's reign ended.\nRather watch the podcast? Then click here!\nDon't miss out on any of the Formula 1 action thanks to this handy 2026 F1 calendar that can be easily loaded into your smartphone or PC.Download the calender\nMost read\nIn this article"
       }
     ]
   },
@@ -1684,6 +1735,12 @@
         "original_link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQRUhHUzFMSkE0MWQ4bU5yQ2pDM2l5cjkzTHNNVHViQ1luVlp2Uzd6b0RRQXFVVmw1ckt6bWxoRHBxclIzQTBza3c2QnVZdlRxbWtjanNiZmFUbmQtXzJEdUpUOGRPTWtlclRGbVhDNVhtOGdILUdjQ3gwTTdvWDl4Q0tiRXVjeGRLOGFVa19faHJXZ0FjOEEtZGhNcVBLcWRxOXV4VGRreFhqMGVrZXR5UWZ5dWJ3c25hY3JUQ1dCcGdnT1g4N0JDU3Q5UDVMa01nNi1ubk13TFNvNFHSAeABQVVfeXFMT2NabUVSWXZlalB4YjhpMXhzS1huSklmM0w1ZjgzczU2V0tNSDZuS3FVdm14NmpqSWFZX1dhdXFYOExyNzctejlId1MwY0hYOEQwSTdCRjF6MmpvNXhUMnF1dFNUX1RjVk9lQmtrcVRWV1FDNk5Zdml6RGpKdWNMZEktU0JNal80LWpMWEVsb21mN1liMElmWVd0WnNtOUwtRVdlTEdWSl9SZ0NwUGJxZlV0ek9HX3UxbVJpSElVN3VxNnNMaFk3a2w2NkxGNGg5MWdwX3o4TkI0MWVIZnM2dnA?oc=5",
         "source": "Free Press Journal",
         "scraped_text": "Nashik: Environmental activists have alleged that around 300 trees were cut down by the Municipal Corporation near Ramtekdi in Panchavati for the construction of a new STP (Sewage Treatment Plant). It is also claimed that the felled trees were buried under mounds of soil to hide the act, sparking signs of a fresh controversy.\nMeanwhile, in Nashik\u2019s Tapovan area, more than 1800 trees are slated to be cut for the upcoming Simhastha Kumbh Mela, a move that has already triggered statewide outrage. Against this backdrop, the claim of tree cutting for the STP project has intensified the debate even further.\nAccording to environmentalists, the trees that were cut had been marked with numbers beforehand. Allegations suggest that after felling, the trees were hidden by dumping soil over them. This action by the Municipal Corporation has angered environmental activists, who have expressed strong displeasure.\nThe administration, while responding to the allegations, stated that they had addressed the concerns of two objectors. However, environmentalists have dismissed this explanation as ridiculous and unacceptable.\nSenior environmentalist Devang Jani stated that the information about the tree felling is factual and added that, at a time when the Tapovan tree-cutting issue is already at the forefront, the Corporation\u2019s decision is condemnable. He further informed that they will be questioning the authorities regarding this matter."
+      },
+      {
+        "link": "https://www.freepressjournal.in/pune/kumbh-mela-tree-felling-row-anna-hazare-joins-protest-as-cm-fadnavis-cites-planning-lapse",
+        "original_link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNQzR6N1BmQXM3ZlE2bXBSai12Y0drb09TQWxrY0xiLUp1V2hKRkhlQzJIQmtpTTd4M2pQYkswUjFnR1F5dEZ4SThnUjhoY0VhUEJobGhUV0x5U0NGbzN0NHpPY3RweFVPdHZjTnlkSjhWaXRFVWZUUVJVdFFCQVN2anhUQllVQXBCMk5ZT1VPVnJhRnJQZVBzSHh1QXVYOWVxSXdLSlJpM195NnFFOWMxaDhib0JIa1FnQ253b2RXd1pkQU5xeTZ5Y25B0gHKAUFVX3lxTE1DNHo3UGZBczdmUTZtcFJqLXZjR2tvT1NBbGtjTGItSnVXaEpGSGVDMkhCa2lNN3gzalBiSzBSMWdHUXl0RnhJOGdSOGhjRWFQQmhsaFRXTHlTQ0ZvM3Q0ek9jdHB4VU90dmNOeWRKOFZpdEVVZlRRUlV0UUJBU3ZqeFRCWVVBcEIyTllPVU9WcmFGclBlUHNIeHVBdVg5ZXFJd0tKUmkzX3k2cUU5YzFoOGJvQkhrUWdDbndvZFd3WmRBTnF5NnljbkE?oc=5",
+        "source": "Free Press Journal",
+        "scraped_text": "Kumbh Mela Tree Felling Row: Anna Hazare Joins Protest As CM Fadnavis Cites Planning Lapse\nA proposal to fell 1,825 trees in Tapovan, Nashik, has sparked a controversy in the preparations for the Kumbh Mela 2027. Environmentalists have strongly opposed the decision and threatened protests, and now veteran social activist Anna Hazare has also expressed his clear opposition to the tree felling.\nNashik \u2013 A proposal to fell 1,825 trees in Tapovan, Nashik, has sparked a controversy in the preparations for the Kumbh Mela 2027. Environmentalists have strongly opposed the decision and threatened protests, and now veteran social activist Anna Hazare has also expressed his clear opposition to the tree felling. On the other hand, while Chief Minister Devendra Fadnavis has stated that he is trying to avoid the tree felling, the issue has transformed into a political dispute at the local level.\nThe Nashik Municipal Corporation (NMC) has proposed felling trees on 54 acres of land in Tapovan to build a Sadhu Gram (village for ascetics). This area is associated with the Tapovan of the Ramayana era and is known as the green lung of the Godavari riverbank.\nThe administration claims that trees need to be cut down to provide accommodation for the Sadgurus' akhadas (religious orders). However, environmentalists have termed this an \"environmental disaster\" and launched a protest. They have demanded that an alternative site be found for the tree felling, and solidarity is being shown from Pune and across the state.\nAnna Hazare's First Response: \"Even if the Kumbh Mela is for national interest, felling trees is not right\"\nVeteran social activist Anna Hazare, from Ralegan Siddhi, reacted to the controversy for the first time, strongly opposing the tree felling. Speaking to the media, he said, \"Even if the Kumbh Mela is for the benefit of society and the nation, how right is it to cut down trees? Cutting down trees causes great harm; it damages the nation and animals. However, if necessary, small trees can be cut down, but large trees should definitely not be cut.\" Hazare's statement has become a major support for the environmentalists, and he has suggested prioritising environmental protection in the Kumbh Mela preparations.\nFadnavis's Opinion: \"We will not cut down trees unnecessarily, but political environmentalism will not be tolerated\"\nChief Minister Devendra Fadnavis, while commenting on this controversy a few days ago, said, \"There is no dispute that tree cutting should be avoided. However, politicizing this issue is wrong. This land has been used for Sadhugram for many years. Look at the Google images from 2015-16; there wasn't a single tree there then. In 2017-18, the NMC proposed planting trees because of encroachment.\"\n\"At that time, the state government's 50 crore tree plantation drive was underway. Therefore, without thinking, and without considering the use of the land again after 12 years, trees were planted. Now they have grown big. People wonder how such large trees can be cut down? The administration also faces the question: if those trees are not cut down, where will Sadgurugram be built?\" he added.\nFadnavis further stated that while 15,000 hectares of land are available for the Kumbh Mela in Prayagraj, Nashik only has 300-350 acres. \"The Kumbh Mela is our ancient tradition that is in harmony with nature. We will not cut down trees unnecessarily; only essential trees will be removed. Some people are engaging in political environmentalism, but we will not allow them to create obstacles for the Kumbh Mela,\" he clarified. Kumbh Mela Minister Girish Mahajan has also stated that \"cutting down some trees is unavoidable.\"\nPolitical Leaders' Opinions and the Threat of Agitation\nIn this controversy, the Shiv Sena (Shinde faction) had already opposed Chief Minister Fadnavis's stance and participated in the agitation. Shiv Sena city chief Pravin Tidme and Ajay Boraste had protested against the decision a few days back in Tapovan, which indicates an internal conflict within the ruling alliance.\" Environmental groups, local citizens, and artists have organised tree appreciation meetings, poetry recitations, and social media campaigns. Although the NMC (Nashik Municipal Corporation) has started digging 15,000 pits as compensation, the opposition does not approve of this.\nWhile preparations for Kumbh Mela 2027 are in full swing, the struggle by citizens and environmentalists to save the greenery in Tapovan is intensifying. This dispute is not limited to Nashik alone but has spread across the state, with a solidarity protest also held in Pune on December 7th. The administration needs to find alternative solutions, otherwise, it could significantly hinder the preparations for the Kumbh Mela.\nRECENT STORIES\n-\nMumbai News: BMC Puts Prime 23,822 Sq m Lower Parel Land Parcel On Lease After Supreme Court Win;...\n-\nBhopal News: Operation Clean Sweep; Mammoth Drive Tracks Fugitives From Across 20 States, 285...\n-\nBombay HC Grants Bail To Alleged LeT Operative Accused Of 2010 Nashik Reconnaissance Case; Cites...\n-\nBombay HC: Magistrate Cannot Order Blocking Of Online Content Under IT Act; Upholds Stay On Contempt...\n-\nIndore News: Four Engineering Diploma Holders Held With \u20b92 Lakh Counterfeit Notes"
       }
     ]
   },
