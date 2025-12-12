@@ -2,6 +2,36 @@
   {
     "date": "2025-12-12",
     "page_id": "formula_1",
+    "title": "Russell Discusses Verstappen's Race Strategy in Abu Dhabi Grand Prix",
+    "summary": "George Russell expressed surprise that Max Verstappen did not slow his pace to bunch up the field during the Abu Dhabi GP, where Lando Norris secured his maiden championship. Russell finished fifth in the race, noting Mercedes' unexpectedly weak pace and Ferrari's Charles Leclerc's strong performance.",
+    "sentiment": "Neutral",
+    "type": "pending",
+    "sources": [
+      {
+        "link": "https://racingnews365.com/george-russell-reveals-max-verstappen-tactics-surprise-in-f1-title-defeat",
+        "original_link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQS04NEpCWGg5RXB2bDJZTjUzRkZZN1d2M1dHeW0yNDdOVjV2bWZFaWZCVzQ2M1VVR3VBTUgteUY3cGNBYVFieFBfbkVrejUwLXBybnQ0YmlCam9iNDdyN2FHRVNBanZmUUhXbVg4WmEteExJTGJydENiUlZCZEU1d2tENkFta3ZrQ2pWbDlNWFprelJDLXJta1JabkhxeHFh?oc=5",
+        "source": "racingnews365.com"
+      }
+    ]
+  },
+  {
+    "date": "2025-12-11",
+    "page_id": "formula_1",
+    "title": "Formula 1 Driver Salaries Projected for 2025",
+    "summary": "The article discusses projected salaries for Formula 1 drivers in 2025, highlighting Oscar Piastri's potential for a significant increase in pay. No specific dates or times are mentioned within the provided text snippet.",
+    "sentiment": "Neutral",
+    "type": "pending",
+    "sources": [
+      {
+        "link": "https://www.msn.com/en-ph/news/other/oscar-piastri-is-set-for-a-major-payday-as-the-highest-paid-f1-drivers-of-2025-are-revealed/ar-AA1SaCrV",
+        "original_link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOWGltQ2puX3F4aWZfU3FONGhkeVVpeTFRVmlscnZPdXY5ZzZaQm85SDVTc1Eta294OHN2V3hfOG5DU1V0Rkxma01OcmU1M2FTb3BMODlJQVhMM3YtcFQzM2ZiekZiTXFiQXdCdEppZ2xTUHhNMVFTRlhKQUxrRWtRRk9oSXJTWnFaajNDVzVPcmh0TEtIMGNfZzZ6Q2FvUjE4SkJoaXd4Uzdzc1UtbnpEMzdxRGtVc1BrWG5qei03WlMzRklzRzN6RDZXbWhrM1V1cndfaGJJQQ?oc=5",
+        "source": "MSN"
+      }
+    ]
+  },
+  {
+    "date": "2025-12-12",
+    "page_id": "formula_1",
     "title": "Piastri Advised to Remain with McLaren for Championship Contention",
     "summary": "Oscar Piastri finished third in the 2025 standings and is under a long-term contract with McLaren, signed in 2023. Former driver Johnny Herbert suggests Piastri should stay with McLaren, as other top teams like Ferrari and Mercedes don't guarantee a World Championship opportunity.",
     "sentiment": "Neutral",
