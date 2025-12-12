@@ -2,6 +2,26 @@
   {
     "date": "2025-12-12",
     "page_id": "formula_1",
+    "title": "Leonardo Fornaroli Wins 2025 Formula 2 Championship",
+    "summary": "At the 2025 FIA Awards, both Lando Norris and Leonardo Fornaroli were celebrated for their championship wins. Norris secured the 2025 F1 World Championship at the Abu Dhabi Grand Prix, while Fornaroli claimed the 2025 Formula 2 Drivers' Championship; both victories were highlighted with post-race coverage and analysis from Jolyon Palmer.",
+    "sentiment": "Positive",
+    "type": "pending",
+    "sources": [
+      {
+        "link": "https://www.formula1.com/en/video/leonardo-fornaroli-celebrates-claiming-the-formula-2-drivers-championship-2025-fia-awards.1851331374348849629",
+        "original_link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOSGlVc3dOc1FuUVFuVzdrNGFaemttY1BPMzBmUkZpZzhRMlplbEdNcS1rR0Rwb3NJZWdTRHQtYm5HbE1EOFprd1J0NU50eUVZYU1waWdaSEdYV0Y3QWltakdjaVgxclRyOHBzSTVBMGZPaXZhNW54MzJvZXVTeGJOMW04TmdGcGFnWFREQmZJd05xMzNuVnE3Q1A5N2g1T3VEV05HVzNZbGNaUldTaDR6VzZIQWwwTlJPd0JPdFZxVENpZVJaVE4xcEpNMTdENUFWbkxXOU9FbnBPaUk?oc=5",
+        "source": "Formula 1"
+      },
+      {
+        "link": "https://www.formula1.com/en/video/lando-norris-speaks-after-claiming-2025-drivers-championship-2025-fia-awards.1851329849100439879",
+        "original_link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQQlJZdzNsNDlCRGFrSUZDZUlvWjlubFBIY3ZaeTdRVE1QN0tJWFM1Qll5c2lvRzdQWWwzcUdnaVUtek5tWjdwWUlYRjlfc0NZcHpOSE5fcDJTODFCLVI1a3doTjFudFJOMFdVNVd0QnJQQkFpMko1UVFra3JXTlZvM081TDN2VG9ETEVNM3JaRGF5eV9lMjZIRTZCX0plUzRPNFR5Qmo3OGN0NUdJcnpaTW1YdDRUcmpKUXc5RkpWZU1KdmVrNUIyQ2F3?oc=5",
+        "source": "Formula 1"
+      }
+    ]
+  },
+  {
+    "date": "2025-12-12",
+    "page_id": "formula_1",
     "title": "Formula 1 to Implement 'Partial' Aero Mode for 2026 Season",
     "summary": "Formula 1 will introduce a 'partial' aero mode in 2026 to address safety concerns with active wings in wet conditions, allowing race control to adjust wing configurations. Additionally, the FIA will extend the first free practice sessions at sprint weekends to a full hour if a red flag occurs within the first 45 minutes.",
     "sentiment": "Neutral",
