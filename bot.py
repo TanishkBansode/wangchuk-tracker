@@ -114,6 +114,18 @@ TOPICS = [
 	"page_title": "PMPML Buses",
 	"topic_name": "PMPML Buses",
 	"query": "PMPML+buses"
+    },
+    {
+	"page_id": "bulgaria_incident",
+	"page_title": "Bulgaria incident",
+	"topic_name": "Bulgaria Incident",
+	"query": "Bulgaria+Incident"
+    },
+    {
+	"page_id": "bulgaria_incident",
+	"page_title": "Bulgaria incident",
+	"topic_name": "Bulgaria protest",
+	"query": "Bulgaria+Protest"
     }
 ]
 
