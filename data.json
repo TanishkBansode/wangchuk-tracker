@@ -1,5 +1,70 @@
 [
   {
+    "date": "2025-12-12",
+    "page_id": "formula_1",
+    "title": "Timo Glock Praises Max Verstappen's Performance in 2024 F1 Season",
+    "summary": "Former F1 driver Timo Glock thanked Max Verstappen for extending the championship battle with McLaren drivers Lando Norris and Oscar Piastri, despite being 104 points behind after the Zandvoort race. Lando Norris ultimately secured the title in the Abu Dhabi season finale, with Glock acknowledging him as a worthy champion.",
+    "sentiment": "Positive",
+    "type": "pending",
+    "sources": [
+      {
+        "link": "https://racingnews365.com/max-verstappen-thanked-for-keeping-mclaren-title-fight-alive",
+        "original_link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNbnZMOXRvcnZYMmI0OG92d2ZTTWRpZ2VPMlBVY0tkVk5lazRIR2NDWXhEZ0ZCWDZMYThQU1NQWUhmdktDMWF3dEpsc1I2aGc0bFdkYVlVWXRsRlppMDNHM20zYkFVckpxZUgwOHNxcDNPMm9mbzZqQVJBZFlFZkJzM3J3Y01ZSjlfMHY1LVdLVQ?oc=5",
+        "source": "racingnews365.com"
+      }
+    ]
+  },
+  {
+    "date": "2025-12-11",
+    "page_id": "formula_1",
+    "title": "Verstappen Discusses Performance After Spanish Grand Prix",
+    "summary": "The article discusses Max Verstappen's reaction to his performance in the Spanish Grand Prix and whether he could learn from Lando Norris's approach. It focuses on Verstappen's assertion that he didn't lose the 2025 title due to the race results.",
+    "sentiment": "Neutral",
+    "type": "pending",
+    "sources": [
+      {
+        "link": "https://www.msn.com/en-sg/news/other/verstappen-says-he-didn-t-lose-2025-f1-title-in-spain-but-could-he-learn-from-norris-attitude/ar-AA1S5rJu",
+        "original_link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPRmdiY2p0R1REY2E4Y3dDOUF0VkNoV2VTbTc0N0JxaEtOR0NibWlzWklCeWtYY3gwV3d5b1VSbWh2a3BrTElFODNsdlc3MlRPaDZhRUtfVFU4RldrQW5yQ1pOSFd6SEYtdk9YMXlRZ2s5VDc1Wk1OVFNwSHR0ZVVseWtXeU40THJNU052Z0xINS1nSVRtbUtkM0pza1k2aVRfTmdOQkpLVk5aQ3ZwWTVtOG1KRFEybkM0WmZuZ0JGcGhveDcxN0h1YWt5dkhZbEs5b0lUei15VGN3Zw?oc=5",
+        "source": "MSN"
+      }
+    ]
+  },
+  {
+    "date": "2025-12-11",
+    "page_id": "formula_1",
+    "title": "Verstappen Reflects on 2025 F1 Season and Red Bull's Performance",
+    "summary": "Max Verstappen described the 2025 Formula 1 season as a 'rollercoaster of emotions' after narrowly missing a fifth consecutive title, finishing just two points behind champion Lando Norris. Despite being 104 points behind Oscar Piastri after the Dutch GP, a late-season surge \u2013 including six wins in the final ten races \u2013 brought him back into contention, all while the team navigated a mid-year leadership change from Chris Horner to Laurent Mekies following Horner's departure after the British GP and struggled with the RB21 machine until late upgrades.",
+    "sentiment": "Positive",
+    "type": "pending",
+    "sources": [
+      {
+        "link": "https://racingnews365.com/max-verstappen-hands-red-bull-instruction-after-f1-rollercoaster-ride",
+        "original_link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWi1xVFZ1eGJWZHhTd1A2YTA0dDVlV1pOMTE2WGc1bWZCd1JEWldDNW5TU3VsV1VzVlBLU3pJWVBxNkZ4QVlIN3dnOWR0RDJ3aWxVTnZpeS00aHR5U01JTlFDSGxCc0VBVExKYVFWYnZQeTdVc2V3TjdaZjBwWVhEZ0FVakU1TjRsdngtWlk4VjRyYkU2ZzFvamFwaw?oc=5",
+        "source": "racingnews365.com"
+      },
+      {
+        "link": "https://f1grandprix.motorionline.com/en/f1-red-bull-verstappen-on-the-2025-season-for-us-it-was-a-rollercoaster-of-emotions/",
+        "original_link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQY3BJRGlQbk5TeDFaOXlYeG14YUF3NkZLdjhtSjZXaldhQm1sNlNOaXdtTWFzZzdUbzFXT0t2N3NSUU96R1NURVpPMGV2bTFOa1ZQeHVRNFd4UkJDbE9haF9tMkEtcGhGM3ZPVG5zQ0RWNkFINHJMOWY2eGVhZUFNa2RER1BpTUFMai1faDU5NFVyb0toQ1NCWUJfOXNEVXNjak9yZWJTR2ZVZWNQdEh2V2p2eUF1eTB5Y1BzOHNhMA?oc=5",
+        "source": "F1GrandPrix.it"
+      }
+    ]
+  },
+  {
+    "date": "2025-12-10",
+    "page_id": "formula_1",
+    "title": "Verstappen Reflects on 2025 F1 Season Performance",
+    "summary": "Max Verstappen narrowly missed the 2025 F1 championship to Lando Norris by two points, but achieved ten consecutive podiums and six wins during a late-season comeback. He expresses confidence in Red Bull's progress and his own abilities heading into the 2026 season, emphasizing the importance of resilience and growth beyond just winning titles.",
+    "sentiment": "Positive",
+    "type": "pending",
+    "sources": [
+      {
+        "link": "https://bvmsports.com/2025/12/10/verstappen-reflects-on-season-of-pride-and-resilience-in-f1/",
+        "original_link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNM0VTeDV3ZDlQMFVsQlRWX1dpODlxaUd5RThadEEtNndoRjYtdVVzMjZMbFBEcnhUUDR3ZzBzeXd4NEFJMGtDXzVQVzFlOEcwT0xQcGp4V2dUbDdIaVBUNHBGRUZyRnRYSG9BVmdBLUdtRHhlVDNIQkVQZEJORFdzR3hZQk03SWFGb0ttMHpIT3pHaWNoOE4zNw?oc=5",
+        "source": "BVM Sports"
+      }
+    ]
+  },
+  {
     "date": "2025-12-13",
     "page_id": "red_fort_incident",
     "title": "Jammu and Kashmir Police Increase Vehicle Checks Following Delhi Blast",
@@ -116,6 +181,12 @@
         "link": "https://www.hindustantimes.com/cities/pune-news/saving-tapovan-ngt-halts-tree-felling-in-nashik-till-jan-15-101765567119346.html",
         "original_link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMDJKR1owUnFZb05LY0c3RmZHWTUtN1hiS1FzU1djV2dnWjR3eGZOSmZ4YmJqYmh4Uk5OTWlXLWZVVVkxc3JmVTRfRm5rNjQ4OXFjbk9FdmU4VnAwMGZRd3lzb3V6LXBpblN2TDNTai11QTNaNEdmUFRMX2lzQklwcXhOSnpuVFQxdHlrR29JTzJuYzdTQ09hM0I1RXhkb3dnMlVkQmZqYnBiQmpfRUhSZ1pVWTA0RGdmdUdQVU12NXRTQllSWmpZ0gHMAUFVX3lxTFBEVzRNalZXRFpzeWZONHlod1Y4SXdUcVEwa09UekdOUFNMTTZpRWhRUDNDZUtWdE02VF9DbVBBVy1tU1o2X1ltR1hQc2l3XzRWUFhlUDFrVVJKVUczekk2MHpBZkZzRFNKY3Y2bEw4SUwwSGpicU5SckkzeHI4eTZldEh3eWI4ZldybF9Qd2l4ZUpVb3VZcGhPNzVnbTI3emtmMldBWlJCaXlQWVlJRkJYZktqWnRLWFRTQ1JhLUw3MUh3OWp5ei1OZGFPcQ?oc=5",
         "source": "Hindustan Times"
+      },
+      {
+        "link": "https://www.thehindu.com/news/national/maharashtra/kumbh-preparation-ngt-stays-cutting-of-trees-in-tapovan-at-nashik/article70391601.ece",
+        "original_link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZnAyTDBEQldCNUg2U25yeHNFX1dNWE85T2lnMndmZjNwbkdUbEZ1YTZtR1E3N2k1cmo4eU16cXJFekFBMDJNS2xicUFGTHpXbENoVjdpUkhObHpPTzBUYVEyelQ5VEtvY05xWEM3Q29oVFR0eXJ6dFlrQ3ExN1hocVROYUxWa2NUbjZiWE91WjFuYkJNUTJiTmUzcThQNjY4LXozUmhOeXdlVG9GMWJLaWpteHZLZTNyWmZxRnhIU2lNY0ppT2ZFTDBZSmhfaTktTEHSAdgBQVVfeXFMTzNLT0NCU1A5UTV5QkJSX0xjSGhYRl82a1V2Tk5fWl8taHpmQV9QUjljNFg0MU5qak1yZW02Q3MwQW04VGY5UGZvc19YaW1GZzFIMHdtaGNUV3BILXJLMkxndDkzV1V0OUdVa0pHSDVPclczaGpSUkhkRHlLR2h4MUNkeUtfTmVzcU10cUxuR3ExdVZ3c0ktQXZoejJxQ1pVSHRoYjRfVmo0bTN6UjhUTFBjOXIyemkzZmlmLUliblFEY1pNbUhCZDZsQTFORElsY0FvMTdNeGQy?oc=5",
+        "source": "The Hindu",
+        "scraped_text": "The western zone bench of the National Green Tribunal on Friday gave a stay to the cutting of trees at Tapovan in Nashik till January 15, 2026, after an applicant named Shriram Pingale claimed that the Nashik administration was reportedly cutting thousands of trees without proper Environmental Impact Assessment, under the name of \u2018developmental requirements for Kumbh Mela 2027\u2019. The NGT also directed the formation of a joint committee of the Maharashtra Pollution Control Board, Nashik Divisional Forest Officer and Nashik Municipal Commissioner to prepare a report in the matter.\n\u201cThe Committee is directed to visit the site, after giving prior notice to the applicant and submit its report within two weeks through e-filing in the form of searchable PDF/OCR Support PDF and not in the form of Image PDF. In the meantime, we direct that till the next date, no tree would be felled by the Authority concerned other than prescribed under the law,\u201d the NGT order issued by Dinesh Kumar Singh and Dr Sujit Kumar Bajpayee stated.\nProtests have erupted in Nashik\u2019s Tapovan area, opposing the proposal to cut trees in a 34-acre plot for the construction of Sadhugram and MICE (Meetings, Incentives, Conferences, and Exhibitions) hub in the region through a \u20b9300 crore project. This project is associated with the Simhastha Kumbh Mela, which is to take place in Nashik next year. The Corporation had sought suggestions and objections for the proposal to clear over 1800 trees from the area. Several environmentalists, local citizens, artists, and political parties continue to hold protests at Tapovan to oppose the government\u2019s plan to chop off trees.\nOn Friday, the NGT gave an urgent hearing to Shriram Pingale, who claimed in his application that the local authorities had initiated a process for \u201cmass felling/ transplantation of trees across various locations, such as main arterial roads, Godavari riverfront, approach roads to Trimbakeshwar, and other public areas citing \u2018developmental requirements for Kumbh Mela 2027\u2019\u201d.\n\u201cIt is further mentioned that the proposed action reportedly includes cutting of thousands of mature native trees, some of which are decades old, without proper Environmental Impact Assessment, without exploring viable alternatives, and in blatant disregard of statutory requirements under the Maharashtra (Urban Areas) Protection and Preservation of Trees Act, 1975,\u201d the application had stated.\nEnvironmentalists happy\nEnvironmentalists in Nashik expressed joy at the passing of the NGT order. \u201cNo tree survey has been conducted by the authorities. Every year, budgetary allocation is made for it. The survey should be conducted in a scientific manner. That has not happened too,\u201d Devang Jani, an environmentalist from Nashik who has been fighting for Godavari\u2019s rejuvenation for over a decade now, told The Hindu, adding that the corporation will not be able to chop off a single tree anymore.\n\u2018No comments\u2019\nNashik Municipal Commissioner Manisha Khatri refused to comment on the order. When contacted, she told The Hindu, \u201cI have not yet seen the order. I cannot say anything without seeing the order.\u201d"
       }
     ]
   },
