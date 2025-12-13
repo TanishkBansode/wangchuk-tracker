@@ -1,5 +1,50 @@
 [
   {
+    "date": "2025-12-12",
+    "page_id": "pune_pollution",
+    "title": "Pune Weather and Air Quality Update - December 12, 2025",
+    "summary": "Pune is experiencing moderate air quality with an AQI of 120\u2013150 as of December 12, 2025, and PM2.5 levels of 40\u201350 \u00b5g/m\u00b3. The IMD has downgraded the cold wave alert to yellow, forecasting gradual warming after December 13th with sunny conditions expected through December 31st.",
+    "sentiment": "Neutral",
+    "type": "pending",
+    "sources": [
+      {
+        "link": "https://www.outlookindia.com/national/pune-weather-forecast-partly-cloudy-to-sunny-with-minimum-1012c-air-quality-moderate-at-aqi-120150",
+        "original_link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNX0NJd0I2R2w0NFFzaFhnSVF4TWM0YS1Ta0paeHVEWXBLS2FCVkl1WGhNMkdnZlBQQ3hNTTZJYWxMS24tZkk2S2NsdTZwdzVYQlVDa1VzRlF2V0NtN1U0ZllfeHBwRnRndlhEV0g4YjJ0cUJaYWZsekZTbzlibTQxRzYzd1lQMHZ3dHptNVRPcUp5Mk5BSDRMc1VfUUNBWnR6a1hGcTdXU3JMNTByNTJCYWFtSFlMS0loT2o3RDR5bUg0ak8xaUNSZG15N0N0Uk15Q2fSAd8BQVVfeXFMUGUxdi15dVVMWXhUQnRVQ0dQV1E3VTVNaEZfcnlYcDIwV2sxVkJ0NkFkOUlfUlQ2V1lpZnVhUzF2VDlLenZJUGdoSnY1b2M1cW02UHVSdlkyVWxZcUFLVXduaTVkdXRJXzdMNWpvMXdvQ01sN3FXZVNwYUwtUkZhT1FSbnRxb3YyWm1IZDA2a0F6V3pDU25mcW5MMEpUWUVDY29VVDJVcFhhV0ZyV1BkZHlFeTgyOFpZOUtIMldmUVQ0R1cxWUIyV1RWdjByblJEV3FaYWFOX2pFYnplNkZjbw?oc=5",
+        "source": "Outlook India"
+      }
+    ]
+  },
+  {
+    "date": "2025-12-11",
+    "page_id": "pmpml_buses",
+    "title": "PMPML Bus Breakdowns: Contractor Vehicles Report Higher Incidence",
+    "summary": "The article discusses breakdowns of PMPML buses, specifically noting that contractor-operated buses experience breakdowns more frequently. The source is PressReader.com, a digital newspaper and magazine subscription service.",
+    "sentiment": "Negative",
+    "type": "pending",
+    "sources": [
+      {
+        "link": "https://www.pressreader.com/india/the-free-press-journal/20251211/281496462610760",
+        "original_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaVdseGJVVnVfOUt5NHB2YVNhX0dhSU5lYnVKaFVzMnNGVUp4UVZhUDZtS2U5R19yWEcxTi1TVEo0bUhzSWl5NXRPbVpMd0VpMUkzNjV3N2VRRlhEUmRpeFlTWGlCUTc1d2lWc3N4dEwyQUtMSUhfRlNQcUhZWVNqZlBaY3IyQ2hu?oc=5",
+        "source": "PressReader"
+      }
+    ]
+  },
+  {
+    "date": "2025-12-07",
+    "page_id": "formula_1",
+    "title": "Lando Norris Wins Formula 1 World Championship in Abu Dhabi Grand Prix",
+    "summary": "Lando Norris won his first Formula 1 world title after finishing third in the Abu Dhabi Grand Prix, while Max Verstappen won the race itself. The article details reactions from drivers like Oscar Piastri and Lewis Hamilton, and mentions the next race will be the Australian Grand Prix in March.",
+    "sentiment": "Positive",
+    "type": "pending",
+    "sources": [
+      {
+        "link": "https://www.theguardian.com/sport/live/2025/dec/07/abu-dhabi-grand-prix-formula-one-f1-title-decider-norris-verstappen-piastri-live",
+        "original_link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSzRpMko1WFRXR0pSeHFZSXkxcHZHTnA1anJXcDFydjhYWER3Rm95X2RSMGhXNGtnaklRYlBrNDh5UjdPTkxHb2JFeEpVZDh5Z0ZPNnRURXJIU1lIMm9FWllJQ2VlWHZiNzFwdm9DbjlUdDNSWkVqZUdWOXNsTklwOUlIQzdJN3FTTjc3VFljeUYzdXV4YnJuUnMyeVBFOFFQLUhPbXJKV1NEa1YxTy12RDNvbFdycDBnWjc3cHF5RU4wQkp1cGFCY2F3SQ?oc=5",
+        "source": "The Guardian"
+      }
+    ]
+  },
+  {
     "date": "2025-12-13",
     "page_id": "formula_1",
     "title": "Lando Norris Wins 2025 Formula One World Championship",
