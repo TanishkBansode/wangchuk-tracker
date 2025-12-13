@@ -1,6 +1,396 @@
 [
   {
     "date": "2025-12-13",
+    "page_id": "bulgaria_incident",
+    "title": "Bulgarian Parliament Approves Government Resignation Following Protests",
+    "summary": "The Bulgarian parliament unanimously approved the resignation of Prime Minister Rossen Zhelyazkov's government on Friday, following mass protests that began in November. President Rumen Radev will now attempt to form a new government, with the possibility of snap elections if unsuccessful, marking the seventh such election since 2020.",
+    "sentiment": "Neutral",
+    "type": "pending",
+    "sources": [
+      {
+        "link": "https://www.easternmirrornagaland.com/bulgarian-parliament-approves-resignation-of-zhelyazkov-led-government",
+        "original_link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbzN4WkhLYmd4UDNVdzV3cWZnS1hfVEhzTF91M0xVVHRUY05jaFNxd2FBWFJYYVRRQURJMjNQU3FtQngxaGtFU3VhazAzQVlFekU0RWhGUjE5NnNTX2ZLTlRrY2w2eElrMUY2RDVnanRuVDVWNWJjS1RlZ1Fsb3BCRWdSX0NmLVQxQngxeXU4dU9TSTJmVDMyUGRwYkUteG1vMjhsUy1KZ0QwVzNY?oc=5",
+        "source": "Eastern Mirror"
+      }
+    ]
+  },
+  {
+    "date": "2025-12-12",
+    "page_id": "bulgaria_incident",
+    "title": "Bulgaria Faces Political Instability Following Gen Z Protests",
+    "summary": "The article discusses political instability in Bulgaria following large protests led by Gen Z. The text notes a potential issue with browser extensions blocking video content related to the topic.",
+    "sentiment": "Neutral",
+    "type": "pending",
+    "sources": [
+      {
+        "link": "https://www.france24.com/en/video/20251212-political-instability-what-s-next-for-bulgaria-after-the-massive-gen-z-protests",
+        "original_link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNm9Mbl92MHFEWnAwTks1TWh4TGtWZTRMcEF4SlJtbm56anlyaVpkdVJxbmR4UHlpUUhIMGpmTXBtdFFwLVFkTHdkMXBmbXN3a3RFZlBfVEliME5YOHhxMzlqeVNsTk9iQ3d3LVl4VDNhWGNJS3JoejZsVjZPTlpDR3lLSW43c3hYYTRtZUxpSVNMYUpXNkxfUXdQWjNzRXhzck5sWGpBaXhHWWJxcG04bGxFWU1oa0hIS1REeklCWQ?oc=5",
+        "source": "France 24"
+      }
+    ]
+  },
+  {
+    "date": "2025-12-12",
+    "page_id": "bulgaria_incident",
+    "title": "Bulgarian Government Resigns Following Protests",
+    "summary": "Following weeks of protests that began in late November and peaked on December 10th, Bulgarian Prime Minister Rosen Zhelyazkov and his government resigned on December 12, 2025, ahead of a scheduled no-confidence vote, due to public anger over systemic corruption \u2013 including the case of Varna mayor Blagomir Kotsev \u2013 and a controversial proposed 2026 budget, the first drafted in euros. These protests were notably led by Generation Z, marking a first for Europe, and spread internationally to cities like Brussels, Berlin, London, and New York, with roughly half the population opposing Euro adoption due to fears of lost sovereignty and price increases.",
+    "sentiment": "Negative",
+    "type": "pending",
+    "sources": [
+      {
+        "link": "https://www.abc.net.au/news/2025-12-12/bulgaria-government-resigns-ahead-of-euro-entry/106135938",
+        "original_link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQkFOQ2dyMEtRRTNGVGJfZUFla1FnNVIyM0tuQ0J0V0dfV0xJZF9hUm43cVd6OU5XaVVOZG1oeEJsb212clE2OVRUbXFwWmtKdlROcXZNR0ljOTBjRzlPVmtQeGhXUzl0UXE1STJzUDVrS2xQTVVuN3FjTDFMYldmdmV6c0s1eTV5VXRsSXpQbkVSY0FoT25PT2FreTg?oc=5",
+        "source": "Australian Broadcasting Corporation"
+      },
+      {
+        "link": "https://www.wionews.com/videos/bulgaria-pm-rossen-jeliazkov-and-his-cabinet-steps-down-after-week-long-anti-graft-protests-1765510426165",
+        "original_link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQQmJZZS1jblVWdVRVZkpIXzBUYl9pWlhfb0paOHpGWUk0STh2dFVVeUZfdlBjTHJ2a054eXJrcWlqTW5rOUZXLVIydkVRXzJYTGlhVjlxQVFjM3RLMDdfLUtoeDlDenZQQlZrU0dVVVhOd0tyeEJwYlZuX2N4dkpuNkNWVnhNNW41ZzZxRHI2RTZXOVk4a1FONFNPNmRhRlE5UVZaX0hYNTBuSkE5YVhoSTNfVFFXRFJ0RFNCbnlZbzB6d3Y3UVlRSG1RTW9QMzhieEHSAdcBQVVfeXFMTVFNNTVuS1VURGJJeDhzbU43dnNYTkF6RDVtbHVqd25MeThORUpfakJoelB5alRaVmE0Rm1CVWp3SGQ5MDJFR2RONE5jT3hWallDR3MtZEY0SG5GdnJGWmwyVzI2VnBOQndpaW4wZ2FRLWVvREg0X0Y2bUg1NjZleEpqV1pXSDRkYWVtWFlzZ2dyTnJ1ai1rZzZLeUJFcVJGbmtyYXR5SXFKZFJyVjBFeDZvdU9KcHVjQ1prYm9DazlLVks5LUMtSFJDWlNZWDJheFlueks3dEU?oc=5",
+        "source": "WION"
+      },
+      {
+        "link": "https://timesofindia.indiatimes.com/world/rest-of-world/watch-tax-hikes-fuel-protests-in-bulgaria-pm-zhelyazkov-quits/articleshow/125924483.cms",
+        "original_link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQMGJjYkNJQjlfWFVCcjdWTjE5QjNFSExJOTh5bWtYN2tfdjBPN0JaZFQtM2NXSFlzZXIzdFlhY2lwMXN1ekFMRmlFVjI5VzlpWmQ1U3dpclViSUlicFU2VmNLaHZHd1N6WXBuWmVVeXVFc3pUWjFiNU9qVmp1ZFl3dnZreVVnNjVKb1BJUm5GbG9CZkdKT2VJZ0RUN1pGa2dIdWNPX0lHaUhUYjMxaWt6NmNSTmJGYWh0eWlFSkV0NE14aFZ0NUVMNTNLd2xKTURIcWpOLURoaU5fRWxwNVFUUtIB4AFBVV95cUxQMGJjYkNJQjlfWFVCcjdWTjE5QjNFSExJOTh5bWtYN2tfdjBPN0JaZFQtM2NXSFlzZXIzdFlhY2lwMXN1ekFMRmlFVjI5VzlpWmQ1U3dpclViSUlicFU2VmNLaHZHd1N6WXBuWmVVeXVFc3pUWjFiNU9qVmp1ZFl3dnZreVVnNjVKb1BJUm5GbG9CZkdKT2VJZ0RUN1pGa2dIdWNPX0lHaUhUYjMxaWt6NmNSTmJGYWh0eWlFSkV0NE14aFZ0NUVMNTNLd2xKTURIcWpOLURoaU5fRWxwNVFUUg?oc=5",
+        "source": "Times of India"
+      },
+      {
+        "link": "https://anewz.tv/world/world-news/16264/bulgarian-pm-resigns-government-falls-amid-mass-protests/news",
+        "original_link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWENmSzlhUEJCV05lZ1JVODFJck1MZHhjT21wYWEtWW05SVhUX3ZZOHdFUUFrRXFWV0JwWnc2MkQzcmhLaXhYbHdtTkZNTFd4MEM4SWs5enV6SEphLWt4MzFFYnpIZjBteFBkT1hVbzRxNXRHOEtOZXJiZ0dYUUhMV1FHbmRtcDhHSWlRLTRsN0JtREtUeGVhUE0tWjVfY2hQejFF?oc=5",
+        "source": "AnewZ"
+      },
+      {
+        "link": "https://evrimagaci.org/gpt/bulgarian-prime-minister-resigns-amid-mass-protests-519707",
+        "original_link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWDVodVpGZi1MMFgwSlg5dVFidTlUVnhMOWlXUi0tLU9jZVBuSm1PUWxKZi1IZmU0LTlaZ0NnZ0JURWx0eGRFeXFOQ0ZlN1d3Wk0wZGhmNU9DaEVsd3RkNlRTUzdWSHdFYUJuV3YxUWI4bXpDUUtJbi1ZamgycDNLTnNHUUItUUtMYnRVRllB?oc=5",
+        "source": "Evrim A\u011fac\u0131"
+      },
+      {
+        "link": "https://www.bloomberg.com/news/articles/2025-12-11/bulgaria-faces-more-political-turmoil-just-as-it-adopts-the-euro",
+        "original_link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONjJtVi1PakFZLXBIbU1UV1BkbFdNOU1aSVo5Q1lWcHo2b1BlZEo0ZUJNcVo1Sm44cVNpeFVEZnotLVB2UUlNOTNlY1dJTGV0cUl1cHB2UDR3QkdCV3FhOERCUG5BSUQ2aVJzdW1qQ1Q5bEFGMVZhVzhreEtLdUVKSjlPQTAtd01fd1psd3ZVbmlaaXFjZFo5VWM0UkFfNDZYeVotdDVQcHA4OElWandrbFVjLUJDZw?oc=5",
+        "source": "Bloomberg.com"
+      },
+      {
+        "link": "https://thelogicalindian.com/bulgarias-parliament-approves-fourth-government-resignation-amid-corruption-protests-snap-election-looms-before-euro-entry/",
+        "original_link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNQm5HeThYZVRSMm1MNDB4VXdsMGpZSXZkSk01cEZJaXB0bTl3YjZNYnBISTl2OWhVdV9BNDlhZENxR3puR0RhYkZnNXFpYkUxVkpmZS1JTXFRcTZXNldjWkYwWUgwcXo0anM5T0wxQkJfNV9MQTdjdTZ1MmUybW9YUGd0N29fZnlvNEs0UzNRdk5hZXpXWU5WRF9TQlBRbTNYMHlNUy1NYjZyREc5RWZJdzlzbzVoWXlDTUFHVUlKdlktcDFKS0RacGI2aVZtbDZuejdqUUEzSnFQZk5MN3JOYy16UGl6V0U?oc=5",
+        "source": "The Logical Indian"
+      },
+      {
+        "link": "https://www.theglobeandmail.com/world/article-bulgarian-parliament-resignation-coalition-government-zhelyazkov/",
+        "original_link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdG9kN0o0QnFpazl3U0FpQTFPNGVsOFBmWGtMcGNvdkV3VmhIZ0VSall1WlZsdzE2blZBTUtQWmR4MEtMS1BBTUhieWRDaFFCNkRBbDBGeW1ZUFpRUzdpUVl5SGk3eXhEMWxFUUFEYUY1V1dhaWR0YW1WMzk2TDhOTHlqYVBkRUZtWFBlaEJLUHU1MGNKdkpmRGl2cVJ0N1M2WFlqLVRyRG9OV1oyNnFEaw?oc=5",
+        "source": "The Globe and Mail"
+      },
+      {
+        "link": "https://www.occrp.org/en/news/anti-corruption-protests-force-bulgarias-pm-to-resign",
+        "original_link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdHVkZzQwZDE2c2p2WGlxUzlnbmFoRXVsMGVrU0RERlZsQ0dPMkJDQmtOaVBLTWpidGxjWWptVUx0TW9Xd1o0WmJtVGlZcHI3b1hIY3B0blQ4UDZBYVNwaFp0ODhac1dIYVBkWTJKam1JSlc4WjVCWVlQLXF5M25KOVhxeVRrZ0ItUjhF?oc=5",
+        "source": "Organized Crime and Corruption Reporting Project | OCCRP"
+      },
+      {
+        "link": "https://myind.net/Home/viewArticle/bulgarian-prime-minister-resigns-amid-mass-protests",
+        "original_link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPM3BrVGQ2RUk4amF5b2NJWHF5SFliVW5GWkR1VXVXT1NQRnNiWElPZmQza0h1UzQ5SEkzb1F1TmlpUS1iUDdwdHEyTjE0azkzZHlFeGRQNXF0NHJ6cjRqNW9oTDdfS2ZRLTl0V3hrSVBWZHVobnJGbVNybE1pQTdZNlVGR2dSUGo1cGVSVC16dw?oc=5",
+        "source": "myind.net"
+      },
+      {
+        "link": "https://newsukraine.rbc.ua/news/bulgarian-parliament-approves-government-1765554273.html",
+        "original_link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMWxJdkk5enRjUzRpcjBvUkNYS3ZfSUlFajlMdjFCVjhFNWoyRl9JOUtqajRPSTQyY3RVNThEMThPbXoxZmR6Q1ltc2JWWEVIaWZwTHZWNXRRNGdVeENYWENLWGJjbGNTMmxuOGlzYzZiUmQ3eHFjeXhQUXhlWmYxWXpRNXhNSEJ3MVphWDRlRS1jdw?oc=5",
+        "source": "RBC-Ukraine"
+      },
+      {
+        "link": "https://www.bloomberg.com/news/articles/2025-12-12/bulgaria-political-crisis-how-anti-corruption-protests-brought-down-government",
+        "original_link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONndNc3R1U3h4ejR0SzFyRUR5NmFQNUNHQ1VRb0Z1UDJtTFhsNVVWWFZjMF9KXzBINGctQm1xd29ndWo4NHQxN2lyaURvMGd6eEZINzFycm1DOHlTWWZSYjVQS0J3RzZRNjY5N2Fmb1J1UzUyZ0lPUEhhM0dSNVZjdDM4T0h6RlhQSTJQR2RIdWY0bklYOEZqNVltbWFrNGp2c0JRblJBamoxZjdYa280QXJGV3NYQ1VfMkhFYjIwN2o1aTF3UGtiYw?oc=5",
+        "source": "Bloomberg.com"
+      },
+      {
+        "link": "https://www.dw.com/en/from-screens-to-action-how-gen-z-helped-topple-bulgarias-government/video-75129902",
+        "original_link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZm92VE1TUlFLVXFVTzFSck1jMzRGYzJId0EtOVl6MVVQRHFrRDFReWVfVjlLZkh5UEtuUjZNcllvZlcxMDB6alNnOVloZzM4STJQSnZxOFloaWhWaWlkdkxMQmRPYnZSQms0VWJnVVFoY3hIYmpiVGZ4ZHBnVVI5Z3NiaHBSVG93QXlVQ0xVUVNWRF9VRkFXanBTYmp5M2ZEQjUwWV9HRQ?oc=5",
+        "source": "DW"
+      },
+      {
+        "link": "https://mezha.net/eng/bukvy/bulgarian-parliament-approves-government-resignation-amid-protests/",
+        "original_link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPYlY5OTBDVlVkSURBYUx1Uy1SUTI3bVNCVzRjUW9EblJsdGNLX3pHSzhGV3VaempGa1pwVkt1X0d0V3hHOVhTZ29CczE1SkdnZElWLUszQnNlRWtCSW1TUkVaaml6aWtpcmtxdE9oMEpCS09tYkZrSDFROG5sMmZPRmw1NWEycG9MUlhsS3VaM3dObWRkdk8wQ0ZEONIBoAFBVV95cUxQWkxmVG1SRGJKV1hybHZNX20wak1wcWMtUjFYQUFJQXpWOHNBTHU2a3V6YXdIX2hRSENoVVdqWEc2bEdiUmhTUFZmLWp4cjRCbkthM0RLX1dlU0Nvb1lta0pPQXU2em14Q24ycnRyaU9VQl9wUG5xUWNFLUlFYlRITlMxcFBpMG90UlJuR2FmbEg5cGxfSTZzUzAtbU14S2VD?oc=5",
+        "source": "mezha.net"
+      },
+      {
+        "link": "https://www.chosun.com/english/world-en/2025/12/13/UJKUZ6VOOFFGJMZRCBZNWTKS5Y/",
+        "original_link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZ3J5QjJjckJIVFhjd3k4bWYwZ1h4dEpEdzdPX0tBRmF2ZFZwdjROMnNVNUlNMGhOQ19ycEVmR3NtbV9xMUR4VGgtVi1lSkxPYmVQQ1pEUUhVei1QV2puc2dldXIxSjAyaWJDVTV4UzV5ZGlTOWpQcGo5MTRDeVNGVDhlaGc?oc=5",
+        "source": "\uc870\uc120\uc77c\ubcf4"
+      }
+    ]
+  },
+  {
+    "date": "2025-12-11",
+    "page_id": "bulgaria_incident",
+    "title": "Bulgaria Sees Large-Scale Protests Over Corruption and Government Policies",
+    "summary": "Following weeks of escalating protests, peaking with over 100,000 participants in Sofia on December 10th, Bulgarian Prime Minister Rosen Zhelyazkov resigned on December 11, 2025, effectively halting the country\u2019s Eurozone accession planned for January 1, 2026, after a controversial 2026 budget proposed social security hikes, dividend tax increases, and public sector freezes. The protests, fueled by widespread frustration with corruption and the influence of sanctioned oligarch Delyan Peevski, led to the suspension of approximately \u20ac215 million in EU payments and ultimately collapsed the 'Grand Compromise' government formed in January 2025, returning the initiative to President Rumen Radev and likely triggering snap elections in March or April 2026.",
+    "sentiment": "Negative",
+    "type": "pending",
+    "sources": [
+      {
+        "link": "https://apnews.com/article/bulgaria-government-protest-corruption-a3ff3cde1b50e6b1519103dd513ac4ee",
+        "original_link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTXBUNTNkM3ExNndCeVBhQlVud0ljTWJscUV5QmdodlBZSTUwSjBHaWlMaXFmN28wanFQUmxDQVVycFJTa2xSQlJNZzNKNGVYLUx5V1FEXzNzM2x1R0dlcVFoTFIyMkFxSXdFOEwtZ1Vkb1NtUW9peXU1b0VmTm5pYVZZVHpveGpqZnZkckREMVFZb0xUX1RpVnlWVWZ0Wmc?oc=5",
+        "source": "AP News"
+      },
+      {
+        "link": "https://www.wionews.com/videos/bulgaria-anti-graft-protest-thousands-rally-against-minority-government-1765438447584",
+        "original_link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOOTBTSm5NRUYwNktLMnZtMU5UWHRpcHRMbkZPQzVRak1MMFFNcDZVcFhhNnBFeXh6RHhBejAxeTJrdzZCTHFnNERPRXlweXdsLW1JclhOZmVXRU42RnFSOWRpNDVlOTdCcV9XelhJMWQ2YXpNTGNPSUpXdllDRmpsekotdzhWMkZLLVRaZ1V2VzJ6cEhCSG5VMEpyS3oyRmRybUwySE1raUFrdVdSTldBUnN5dVZxTW_SAbwBQVVfeXFMT0lMZGdudjJsTWVGWU5TbG9MVmpMbzg2TXNHdDd6OWszOEg3a3huMmwwUWxybXYzVGJrN1JJT2pQcGxjeDlSbWVJWm9heHI4VUFhR3VaX01JUTVDdXkyNXVsd1J6N1VYeUpSN2xmanB2WHV2MEI2WS0xcVQybkFEdGNYelRlRTg1OFJDd1RsQ1QwSUJRa2duSEJmdGR2bEh3UXZMLUd0YnI2Y0dlb0RQbzB5R1ZSc1JOOFZJX1k?oc=5",
+        "source": "WION"
+      },
+      {
+        "link": "http://www.euronews.com/video/2025/12/11/tens-of-thousands-of-protesters-rally-against-bulgarias-ruling-coalition",
+        "original_link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcFB6MTd4WGFIWjhnbU9QSG5Ka3Q1V1hKVjYyUnAzUkU2enptVHBYMzlINnI1OGxLU0RWTDhaVDdQMkkyNHNRZ0tIcUpVTjh6b013QlBacFRPYU1XaG5CNFg2NnQ5ZDM4OEdrclNvQ25ERlRFbldsa2w1NWpmTGNzTkIzYWY4elIyenQzV3NOZV9rWjRkMktXM3l1Z3FIVXUxYmtlLWVkYXNNNFQ2UlUzMTVXWHQ?oc=5",
+        "source": "Euronews.com"
+      },
+      {
+        "link": "https://www.hurriyetdailynews.com/anti-government-protests-draw-thousands-in-bulgaria-216706",
+        "original_link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZHdjdE9ZNWZobUtaUElPZkhzU2s2Skx0Zm5zV2JfNjMxS3ctZlJxS093NXNnWnk0NnJpX1l4cVJFVlpYY0NEQ3BGczdYcDJMV01mWlNZMHRtSGVjWWtnd2wyakxKaHBhcER3d0FGcGpPZk5tcDdIeGN4bW9BT0hCeUl5Q01ETmNvMnE4MTRvZW5sbF9CZWVN0gGcAUFVX3lxTE5nemw0WUNla2NvWmF3YXBqZnhzbTcwVFA5MC1xdVRIODU3cHNiRWFsczFiZzFLSDlvSnVYZzNteE5IcWJSclJDNTIyYXFFQTczRE9BX3B4TU1jSzdvcVRZZkFHeHJBN2E0UDZXeFNkRVduRjJaU1lObzhLWnVXUWt3SFJqdGRuUjE2ZC1EWVRaUEtvZXMtWVdVLVk1SA?oc=5",
+        "source": "H\u00fcrriyet Daily News"
+      },
+      {
+        "link": "https://www.dailysabah.com/world/europe/bulgaria-pm-resigns-amid-mass-protests-days-before-euro-switch",
+        "original_link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSVhzbzVMeHN2Y3pLSmtnS2VZU091MmtVVGF5RzhOUjVRVVFBVFlGa2Y4YkUtWXh0em91WElvbVh6TnBnN21tMUpKQk50cGRSdjVsX0xHXzdIMXZTQ2RlUkF3RUdyZkxDbERXTXpkeHBpMmtIcGtIakVzZkJGYWdtc0ZlTHlJaF9ObVppQUxaUGFocTBrM0h4eGd3WkUwdGF2eWtDYtIBqgFBVV95cUxOejVRbDRUVk9xQkVYRjJTTjZxQTlGOEJmTU1pN0lldVIyaXNGa2hoSjlMdlFsdVlCSXQ2Z1VtanNxV1VMWVNxMHJrMzlYVDZSUEJfUkJtQ3JYRF9lZ0xxNUxWb1hQcXJrWUFWekJoSUhMVG91SFJkdS1GMHdibkFZWExLUVk2VHVWQTUyR0tQOVVMN1ZtdEVobGxtU3V6VGJFME1rMVh2cUdqUQ?oc=5",
+        "source": "Daily Sabah"
+      },
+      {
+        "link": "https://www.france24.com/en/europe/20251211-the-government-resigns-bulgaria-s-pm-steps-down-after-anti-graft-protests",
+        "original_link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONG1Rcjhtak45NVB1QWRTMjFQUzd0QzBRNlZ5Y19fV1BDaS03Yjh2bDAxUUdGVk1HWnM3b1l1UG5sbDRNcWtETEViaXgtNHVUbHctTGNlSktHV0JPWWkyNkQ1S0h1RVR3dS1XVzZLdS1IVlFPazhkVXNibHU0LVJiMEN4MDgzal9kNFlibXY5SFBEOGlRMFRpUFJQdUd2U3cyN0hlVTFQTGozUnhMeGRGY01uTmVpOFRI?oc=5",
+        "source": "France 24"
+      },
+      {
+        "link": "https://www.globalbankingandfinance.com/bulgaria-government/",
+        "original_link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE80bm1QX0ZmVU1RenhkTWVnelN1T0ZWMU13Sm5STmx2anE2YzkwZUN5RzNCWGRuLS1HSHpkUkFUdGc0bXc5N2xyeDJPNnNWTk50N0JjNmlyVFlKaDlOM1JSYmFRNGV0LTlFRlZFWA?oc=5",
+        "source": "Global Banking | Finance"
+      },
+      {
+        "link": "https://www.politico.eu/article/bulgaria-government-collapse-resigns-pm-rosen-zhelyazkov/",
+        "original_link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWEZudW1mdkZsbnBaV0kwVWZKcFlaUXZQRXRCSUJ0Q2hxOGhvdmFvTEVYUUxmSFZfTWI0UEJpaFcyc25UY3Vtc0djUTlEdC1fZmJoeVlMeUl4Y0VJR3lYby01UnExZFJpLVFSdC1ZR256cm03ZVhkeXZsVjFUUTN3S2JDdWo2TjF4SHAyMlRDWUxCLTQ?oc=5",
+        "source": "politico.eu"
+      },
+      {
+        "link": "https://www.rferl.org/a/33620656.html",
+        "original_link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9kVXhWckNiQS1paXNlYm04TnduUW5ic09YNGdYbnNubWNtUzlWdmFjcWxFVFh6OU9iTWFzaFk3RWcybGFGaEZTdjhjTXYzd9IBUEFVX3lxTFBmVHBVamJiN28wMFFmWUo2UHZpMU5wTllCdDB2QlZwTWRUU1lYWUZmdGYzekxEejZGM1g1elZDbUc5ZEcyOE03Q29ZeUpuQTdS?oc=5",
+        "source": "Radio Free Europe/Radio Liberty"
+      },
+      {
+        "link": "https://www.turkiyetoday.com/region/bulgarias-pm-zhelyazkov-resigns-ahead-of-no-confidence-vote-amid-nationwide-protests-3211195",
+        "original_link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNk5hMVRBVklobmVid2lKMDhaQ0p4RnZlQ29NVW90c0FLMDF4YXlmUFpVWW1FaXB0UWh0Nmc2anNodXhWbmhpTWowQzBfa21CUlFXdEFWWi1felFDZ016WWxqOTVVVlNBRWd5MTEwV2lPTS1odS1PWkdKRDRSSmxoc0lobFVFVzFnYjdXVGZ5b2xtd1VTUE1TNUhoai1XWEFxTUhHbHBFMWQwVWc1c2xyUG1JMlBFdmRQLVRvWXJCSUU5d2JzMzhZ?oc=5",
+        "source": "T\u00fcrkiye Today"
+      },
+      {
+        "link": "https://vreme.com/en/svet/bugarski-premijer-podneo-ostavku-usred-masovnih-protesta-protiv-korupcije/",
+        "original_link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZkZpLXJxTmRzT2JFd24yNmN4SWw1TlNPanRsd0ROUVlqeHBrZkUxRS0teFh3SzBKdnNseXo5VkF1a2JhNWItb0RPbmU4ZjFZNlA2UHhwTmxJS1MtU3NGQXVhYXozY2U5VlNPZ05DclJCVjJac2I1YVRnYU5jRk4wRndCOEZwbDIxTWNpa0xkNW1KcTBrVUxveFNRdzNEc3dETGc?oc=5",
+        "source": "vreme.com"
+      },
+      {
+        "link": "https://moderndiplomacy.eu/2025/12/11/bulgarian-pm-steps-down-following-mass-anti-corruption-protests/",
+        "original_link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNREpoQ0M4WGpXN0oxMFI1OTdkZG5jY1k3Y1RQTm9heUhPUGNVTFhROWlEemxRaHJMQnBIMjJRWU1EM00tblBxWDBLNXM5Wjd2LVJ3VlNIZVNDeFgwZlFseFV4dmZ4Wk0xNzNpVVk2d29EZE5GenAtVGRTRHlCRm1SSkJ6X1FwSlNuQWlpWjEwRGFlMXVMSWNJMjBHSGhqOTg2WmxDNA?oc=5",
+        "source": "Modern Diplomacy"
+      },
+      {
+        "link": "https://www.theguardian.com/world/2025/dec/11/bulgarian-government-resigns-mass-anti-corruption-protests",
+        "original_link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVXZZaXFlZWhUTmR5WjJtczJNcmNoaG1mdEE1NW4xeVY2YzA0bk83UkVDX3B5VzN2T1h6OUhfY0M3ajlEVVU1eUtadnRrUkNBY1VGdHYzMHFGdUVzekZsTW0tUi1xaVB4STdPRnZHV0hJYXVfSUt2YnBoLVN0dG5BZ2c1aEQzUUk1b0pFYU04MVljM01LcjBnd1F1WU5zMzZOYk1IRTRFSQ?oc=5",
+        "source": "The Guardian"
+      },
+      {
+        "link": "https://www.dw.com/en/bulgarian-prime-minister-steps-down-after-mass-protests/a-75111199",
+        "original_link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUER6RnhDajNjT2FWSFlHandIZHhSYlN0LXk5Y0txS01Qc3NVVGNCangxWl8yNkg3bnZBVTZFVS13NUJCM2QwWmw1ZEhFV1V6WV9zd1NuQ0dnaWhCZE45cUJiOUVWNTFad3FEcDFmT3VHWU9kOGtwTW5yZ0NUcUVndEl0RnpIRE1YcE1mSlhNZlBlZ9IBkgFBVV95cUxOQTJtb25mdTFBZktaTTgyT1hRS0tZTXZTaEdhdnpnQ1RRWTBrNjBCVjBaQXRncW1EVlRnd2RWc1JNb1BGbVUwdk9oM2I2WVpneGF1WU96REUwdWk2SDhxOTU0bjFXZEwwcWtYVFhiTzV2UFVOVS1XUWhmVmZMSVVvY3JQVV9DZWYxV1FkcXNRQ0hOdw?oc=5",
+        "source": "DW"
+      },
+      {
+        "link": "https://babel.ua/en/news/123661-bulgarian-prime-minister-zhelyazkov-s-government-resigns-amid-mass-protests",
+        "original_link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcE5mclpPb1djOHh6cm5TWVdDR0Y0QUVvTzBFZ1Jfa0hESEJIZUJ6bHlaSDlCZDZFM0gzN0ZmcEV5bmdPU0l6bGRhQ0Y5Z0U1a1c2MTJ6VE0zMFNRQnpvWERCMFM1ejJfTHFTeTlEczNsUU5JbEpFb1k2eWNBSU5pM2Q2XzFRNTBqSE5QZmo0XzZKWnZPb08xeXFXdTJYUFE3WXZlTVJCcGVqVjDSAbABQVVfeXFMT29ieWtFYjVBTk9VeHRaakVnd0VrMnJFNExnOFB6QXpWd3JMSnFHb1JnWkhfRUp2eXpqaVdTM3JOWXRTOWNVbFBtbnZ2NFYzdkhYb0J6M2p6dWZwM3FJdXhHMUJxaVp4MklzUWl4ekJqTHR0UTNCcUJEQ1dwRzE2Z2Yycy13WDhGMjFMN2NBYjJ1MXRrd3oyZDJtSG9KenpuR2NqMzVWTVNCODVSWG1oMDM?oc=5",
+        "source": "\u0411\u0430\u0431\u0435\u043b\u044c"
+      },
+      {
+        "link": "https://bnn-news.com/bulgaria-erupts-in-protests-thousands-demand-government-resignation-275260",
+        "original_link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQT3V5Tk9NZlBTbGpRX3JsaWhKcm1ZUXRaVEpYalFjQ0FxSlRRTkdXNWRSWXAwT19CTGFyVmN3UWVUS1BuYmZ3dFItaTlCTWhLWHJJekw0MVBTVE8zSi05UjNQc3phbVBYVFNZUHlqdHJHX3ZPN1MyVjBGYVl5WmxFV1hDUl9LRFVacUlWUlNGLWZMYWphMmJCb0R4VQ?oc=5",
+        "source": "Baltic News Network"
+      },
+      {
+        "link": "https://efe.com/en/latest-news/2025-12-11/bulgarian-pm-quits-as-mass-protests-shake-government/",
+        "original_link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQeVl2NHJZTzY3OThFRmNjMEo5Y0c1XzRIdUpWdF9sMDI2LUJSWHpwMzlwNVBwejhxUUQ1MEh2WDBmcF9lUzlfdkZYcF9XSUJrTldfMjNyN3lxWTV0aFVwdmJWUWtyeTNiLTd5NEotV3hHWU9GZjllV2V1UDRIdVo3cVhTT20tMmwzeVdubzJZTDhOakJ2VFhmRmZFNA?oc=5",
+        "source": "EFE - Agencia de noticias"
+      },
+      {
+        "link": "https://www.kten.com/news/bulgarian-government-resigns-after-mass-anti-graft-protests/article_9f649ea6-db35-577f-a508-b18e1f2a42d6.html",
+        "original_link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNODBlaFRrSUl3Mk1ITVRrNkZYa2ljRndobS1lRUUtSUZxVVhaenY2dUxIanJoeENfZWhRUllhaDJKQXFpb0F3cVdOTXdXeTZQQnB6aVRET3dGNnRYOU9HM0FMTlg2MENHd19RTzlBS1YtSmk1UksxWU15UXpwR0YyUF9wWlN5Z3Q4TEZ1RXFlMDI3eGZQZUlmSTFwbk1Fd3o2a3ozMllIdl9oaTBiZzU0VjVmRF82MEQtckFGbzRoWHF1RS1vaFE?oc=5",
+        "source": "KTEN"
+      },
+      {
+        "link": "https://www.ekathimerini.com/politics/1289487/bulgarian-government-resigns-after-weeks-of-street-protests/",
+        "original_link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUjNOanBWZV9mVmtyZjNGaTFTelVRRXloYkx2TkZlZU9VU3ZyelEwd1Zvbzd4NlJLQ2RpeHl0dFUtNFJ3WWFObUtlTkdISElEZ0VqSXE1UEhJbkx0WEpHUU1WTUtCdG1rTFd2Wkk4a294b3dCc1ZGMG91a3Q1SUJZZWxXTUVqQm53MWVkRUdnTXNCMmdsSDdXMlJDX0FYTDdqNWtnd3VRaWJmZw?oc=5",
+        "source": "eKathimerini.com"
+      },
+      {
+        "link": "https://euobserver.com/rule-of-law/ardc294b0b",
+        "original_link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE84VzFRcEJ6dm9BSnpVVzhSM0hELWcxLXYzRmRwb0dBYUdDZXBBdWNnZ25WOEZsNUc4ZTVJUWpMM2tDNlFFZG0zaE5DWHlPV2NGNWZRRk1ZUHc?oc=5",
+        "source": "EUobserver"
+      },
+      {
+        "link": "https://www.eunews.it/en/2025/12/11/bulgaria-protests-against-new-budget-law-cause-prime-minister-to-resign/",
+        "original_link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRVRsQ055WkN0TEdlV2lEWDM4Y2wwQnczXzk2VW1TcENuN1gwQ3dSU3Fpbk83RDJZQm1MT0VxZWpnSWNIbzI2a2JiSVlPbXBIQWZuZzQtT2hjZlZCM2VQMDBMN0xwcFhfY0NFdE1oYnZhX2JNWEx4eTdEcWtGUGpmYVdpdlRuN25BTEtWM0h2OWtNY2FDbXFVTWhyaGw2bGQxRFBnajY0WmxZZlNG?oc=5",
+        "source": "Eunews"
+      },
+      {
+        "link": "https://www.nytimes.com/video/world/europe/100000010580690/anti-corruption-protests-topple-bulgarian-government.html",
+        "original_link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZ3BwbUNYeTM0MkYzdjVXR0pjSFpQN0ZYak9TbGJ0c3VSV3c4MFAyZkNVMkJyckRMbXZleVRZTlNNRVloMWlMb2xhcklKOGxHZGF5Tk5Cd1NlSXdKS1dTcjJCMjRiMlJubGxKc3pabE1EUDMyUmVCN3g1QXN4RTQxZEU4X2ZLb2c0LUVoRkdZM3M2WWhVc1RXdlZDWmdvLWFFWWoxSnp2d0FYZGtHUTUyS3R3cUptcW8?oc=5",
+        "source": "The New York Times"
+      },
+      {
+        "link": "https://www.rferl.org/a/bulgaria-sofia-government-collapse-resignation-protest-demonstrations-corruption-spending/33620912.html",
+        "original_link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQOXIxSUlGWE8zS0xxbGotblhBa21pTW1iMDBGa0ZYeVYwQkplV0hWRlEtNU8zNzlUUG1rOVFndEZQTFpuZ3BsMlNfQmIwMWl3LUxWdFBNRER5LUNCZWs3R2Rhdi1SdEZpSTJtYXpmdUx4cFhzYnlwSnpaNFhqX1ZyaTBYWUQzdGZqUzJmeHNvaTBfQmI0QWlKM0xmOXFaZWVoX1ZMeW1rRkZJUXMwdHFXUGd6VUxPbzhMMXVNdUIxai1jcEJDd2fSAcgBQVVfeXFMTjlJTU5BR3NjOTg5c0RiUlQzd3BrY1M5Zl9qN0d2RVlnTHZVdHRibElseHdVaEtsR18tdDBwTlJKNlc4Z0pKSkM5TjBiRmJ5bDFTLTFzRnU5Szk0WF9VaTN5ZTNCM3VMMWZrTGNfQzdKLVhKcU5UenU1UXkyaXZNeXJ2QVJmVGhwcG0xblRNSkxRMHpPaXNDc1JpS2Ruamg5M0RxLXVCMHJvVU1TZzhSaGxITFZSd2VXdUxSVFBVNTdEUmNfTWlxXzE?oc=5",
+        "source": "Radio Free Europe/Radio Liberty"
+      },
+      {
+        "link": "https://www.scmp.com/news/world/europe/article/3336129/bulgarian-government-resigns-after-mass-anti-corruption-protests",
+        "original_link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOLVdzUG10SlduTTRza2toVFhnRlRfN3BUME1XZnJaZzhVNkRzTmRhbTdOVGhacnRWeW9WdHljR20yQW9aQXIwQmVHd096bi1lcG9GVkpLSHpkajZPV21ZMnRyaVIyS0ZacENpdE9fd2RnT1JNRVVSNUt2RUtSbThqYmk0Y1VzMGpmY0JwSWJGWFNpUWd0WkRRV09aVkpRWWFCSXVIcUNic19KcUlscXZLQnNuRzlZbnd3UzZB0gG7AUFVX3lxTE55aXFGSUp0dzNEbkg4OXR2RjZ1eXJaTm53QjVpc3lkT3QzREVDZGhYbVRhY21KSklMZ3lXVUYxR3AyOHgtN0tKNU1DM1NWT0lWb0hHblo2RVVGc1lpUlhqaFZTVi1PX2tNNUlaZ1ZrS21tSS1YakNRTWZ6OTU1YnFtU0J6RDZaeloxMXhKOGpOOUJReTVQaVh4VUlNcTROLVJnMmowaURIdEh6emxXYnctdk1wTDgyb19LNHM?oc=5",
+        "source": "South China Morning Post"
+      },
+      {
+        "link": "https://www.dailyfinland.fi/europe/46720/Bulgarian-government-resigns-after-mass-protests",
+        "original_link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZEowbjU1NFptN3d3aHBvWWFUWWN1M0ROUmNhYWhMcy1uZF9jUEpzdVhVRXRGbzdmVVNGWmlhUWZ4ejcyb1ctNmZ3SWxaaVc0YVBleERQcjc2VzVCVGVoWjhsOW51YVpZRnVTVWxRRFdGYWhPNmg1T2xFQWV1TEp3YlRCakpab0h5RTRyM0JIeG0wazQ?oc=5",
+        "source": "Daily Finland"
+      },
+      {
+        "link": "https://www.globalsecurity.org/military/world/europe/bg-politics-2025.htm",
+        "original_link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4yNWZrZHZNVlhVaFBvRU1ITXVMTmo5UVJiYzk0NS11Ym1vdm1Ldmo4cnZkeHQ5bTBMOWlfZnJURE5zRUs4U21Yel9BWU9URFNESHFsUkFpczBydW4zUVZLU2JiUkl2RzQ3eHZ2MWc1bWQtSDV6WE9pZHhRZjZ2UQ?oc=5",
+        "source": "Global Security.org"
+      }
+    ]
+  },
+  {
+    "date": "2025-12-11",
+    "page_id": "bulgaria_incident",
+    "title": "Bulgaria Faces Protests Ahead of Euro Adoption",
+    "summary": "Bulgaria\u2019s minority coalition government, led by Prime Minister Rosen Zhelyazkov, resigned on Thursday, December 11, 2025, following mass protests in Sofia \u2013 numbering over 100,000 \u2013 initially sparked by a withdrawn 2026 budget plan but quickly expanding to encompass concerns about corruption and the influence of sanctioned politician Delyan Peevski. This resignation, occurring just weeks before Bulgaria\u2019s planned eurozone entry on January 1, 2026, raises concerns about potential price manipulation and threatens to trigger an eighth national election since 2021, potentially destabilizing the country after years of unmet expectations following EU membership in 2007.",
+    "sentiment": "Negative",
+    "type": "pending",
+    "sources": [
+      {
+        "link": "https://www.bloomberg.com/news/articles/2025-12-11/bulgarian-protests-throw-euro-area-s-next-member-into-new-crisis",
+        "original_link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNM3RheURMc3JiUnY0bzlHVEY0RFB1d1pFUV9KWno3NEZ6N1NwMlVDVnlCaGpvNEstN1JFV1kyTUIzcEp2cXZ0Qlc2enJZV0xhbGVGNGZLbFlwby1nQkFXZk44enYzTUtCd0xNeldMN19CSWRnVjU4LVB4aTYtWVE3WHVtUDczcjJ0ZXNqTzRzcEZhM1BPUXNieGxNa1BUYUQ4UmlCNDA3ejU5OEZwdml6azlSMS0wQQ?oc=5",
+        "source": "Bloomberg.com"
+      },
+      {
+        "link": "http://www.euronews.com/video/2025/12/11/bulgarians-demand-government-resign-in-mass-protests-over-corruption",
+        "original_link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcEdqUE90dm5DdUhZSzlFdmR2WjVKbDFpS2Fxd3lqdjFzdTZwVG13Q1pWQVVWdDF3amlYLWZZZzMwS3lvT1hNQkNJTmREOTZJTzN3ZXdBblVfRDBjZWZFc1A1MldwaXNNc29VYUd4U3dOYm96SUtlM0hjT1NTS1k0aVc3M0ZKTEcxdndOVGN4UnRRRURsb1IxQXVsODdsTkZiNzY0Nk92eVN5RHJoMVNR?oc=5",
+        "source": "Euronews.com"
+      },
+      {
+        "link": "https://mynews13.com/fl/orlando/ap-top-news/2025/12/11/bulgarias-government-resigns-as-large-public-protests-grip-the-nation-weeks-before-joining-eurozone",
+        "original_link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPRExZSUJBQjJaU2JaNzlIa3dwdWphb0h5dXhaaVVDeVp1Tko3eW5jWWJZZS1yMlNBVU9rZU1oU0JPUm9FcHlCdjZhWEJYZFc5dlJUQVQxd1FKdTctZjZWeU9iNTNITGEtaHUtM0I4WDJjMGc4bm1lWnVLUnRscGRuZE02NXRJVlJ6MDNJYi1HSjA3b2I2RDg0bzJOUll4Uk5NX2FESWJWcHRBdWdiNUtNSWx6ckJsb0hVRmRzWVpOZHlSeGVUTWo2S3FLZmlzYUhQTmNvbXpKaDl6bU9aamd1b2p4TlpFQXRZbHc?oc=5",
+        "source": "Spectrum News 13"
+      },
+      {
+        "link": "https://www.yahoo.com/news/articles/bulgarias-government-resigns-large-public-130349034.html",
+        "original_link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSDRWSllCSHBkV2xvTzVmSTBCM2k5ZERrZkNxYlJCczJZR0NQLWVxdTNOMlBqNXAtanNiNkJkczZPSS11RTFZNEpxWEhHYjJBZ25OeUZNZEw0eDBfbE5GMFk2eHlRQXVtU2xVQUktci1JWGZlMklyUWotSjduWXA3LTNOQm85MXZTTzBmcnU2VDROZGRld284?oc=5",
+        "source": "Yahoo"
+      },
+      {
+        "link": "https://www.firstpost.com/world/bulgarian-government-resigns-after-mass-protests-13958906.html",
+        "original_link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPOWZvVTZwc0hxUWZFOUNKLXZMYnZZRnB6cV9UWEowNXVnZm1PeFBOZ2l1ekIxQ3dSUTI0R0F2ZDdtTEkyM29qZkxaa3VEMXhhdEwyV0NvSGFYRjBuenJuSlZrNUVWaWM4UnRKLXVYQ3J4VjVCS21TaHJySHZVbThTWURBNmJSRk5jMkR6b3VGWTlBWVdUdlhfcFV30gGfAUFVX3lxTE9WTWF1MmE2OGZGS2tDRjFSUE5VRjdqN3E5VnhvT251T1NuSzJ2Mm9GNUxCTFRTaFlwdlN6bnYwRGp0SjJLQThjZFBCWXpFMHM2eVQtNjNxTWJtUGlrU194Ym9XV0lhMHBoVGhKSnFROFpNU1ZzdkdmWU9sSHhnV0NwcXFibVZoWHZwc0loZXJLbVFWRzFLVFdRZVRmdjBaYw?oc=5",
+        "source": "Firstpost"
+      },
+      {
+        "link": "https://accesswdun.com/ap_article/bulgarias-government-resigns-as-large-public-protests-grip-the-nation-weeks-before-joining-eurozone",
+        "original_link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPRmR1NnlEY1kyLS1SOU9tdUhyRVVmWDc0Zjg3cmNlZ3VqUHJxRnBESFgxUm12a20wNUFxZkZKaW4xUEQxNGFRQkV2eC1zVGc2M3NsZE9QZkQweHQwRTc5Qjl5dXg3c3pTVWRqN3IwTlRLNkVKZ0F3ajVkOEtwSzV1dUpwcWIwd21jX2QxTnI0ejJEbXFoSVN5NHFMUmMwcmNaOENPZTYzRmgxT1paeEp5ZzAxVFpPWHRQTmdCQ2FQcTQ1N09tSWl4cGpjaUhVUQ?oc=5",
+        "source": "AccessWdun"
+      },
+      {
+        "link": "https://english.mathrubhumi.com/news/world/bulgaria-government-resigns-protests-corruption-p01m2dk9",
+        "original_link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQOGpzQkcwOUZZbTVYUngwUVl3UkhkaTZrZExrZWdDVkVsa2toUEk4VExhV2N0WkpyNlBNTmxfU1ptZkZTRWVsOGFXSzB2T3dvV21BaVhwTnJGM19oZUZtZzlOOEdjOWtQMk1uY2FlNGNuc2tSSU16RUpmUzNiTC1QVHVyc1p6Q1NYa0ExamhiVkpwaFZxVURldnpSaFRkWGxfdDllMEFR0gGmAUFVX3lxTFA4anNCRzA5RlltNVhSeDBRWXdSSGRpNmtkTGtlZ0NWRWxra2hQSThUTGFXY3RaSnI2UE1ObF9TWm1mRlNFZWw4YVdLMHZPd29XbUFpWHBOckYzX2hlRm1nOU44R2M5a1AyTW5jYWU0Y25za1JJTXpFSmZTM2JMLVBUdXJzWnpDU1hrQTFqaGJWSnBoVnFVRGV2elJoVGRYbF90OWUwQVE?oc=5",
+        "source": "Mathrubhumi English"
+      },
+      {
+        "link": "https://www.msn.com/en-ca/money/topstories/bulgaria-s-government-resigns-after-mass-protests-and-just-weeks-before-nation-due-to-join-eurozone/ar-AA1S9Qi9",
+        "original_link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQa3p5djh4eklqX1RoM1dSWFJEMUhuLXF0a1JMY08yRUNxN04yaF9nOXFhM3oxX2ZpTTlDRmRmVVBHOWZNSEtYcmRLaC1SakNmakJKaFR2cHJZeEFuS1VaX2t4b2xxZU9kUTZyUzlHYjNPVVFwcXRCVVZZekp2YWtGQ2s2SkdhR25aajdfcFlGZDNqeVpJekZMMUs3RzlRdlA4OVFGY3plSjZLaWcxMGhHeVkxYUdfYWZqd21kREJ1dzZBdy1CajhfMUxPRU5vS2o2UDlORlkyOG9aRVFMWDYyR28xT2xnLWlGcHc?oc=5",
+        "source": "MSN"
+      },
+      {
+        "link": "https://apnews.com/article/bulgaria-government-resigns-protests-eurozone-42e9d41ff7f6b9a49403f761a4f5142d",
+        "original_link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVnpZUjQ1TXFJWnZQOUdxQU5ueXZvREF6R1BWX19reFA2UGlFYU03Z3ZkcVNQdDBKNWRKU1Q4ZVVOeEh4Xzk2bXlpQWJ0TnVmWUEzTWFtZHJocGN4VU5CREhiaGl0WXJWdWN5SHNScnUxZWx4TlBlTXFnRVZPdW90RWlWQWViT0x2eDhmc04tMnVUVFdHb0FkSEpjR1JJZS1OVktUNW1ZMUo?oc=5",
+        "source": "AP News"
+      },
+      {
+        "link": "https://theprint.in/world/bulgaria-faces-turmoil-after-protests-topple-government-on-eve-of-euro-entry/2803912/",
+        "original_link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSHZNbUxkQkhENWRaZ0JkQzhBT0dVeFlfa1dhNGZxX1QwTV94dzJRY3E5QmZXOFdvMzVJOFprcFY5UGxsV3dHVy1RRDV3WG9FdGZqS1hZTWJoYXZ1bVRFWHB5NnpieDFneGw4dlJvZEJ2MUlsUnEyTTd6bFRfWnV0LXFIVHQwdk5vMm5odU1UWjlHLUpuRU1HQjQzaWpzRGVhdEFJN1RGeDNob2IxblpGdtIBtgFBVV95cUxNZ3dyeWt6R3lqVDZBc2VEU0h1TmR5TnNmbnRsWWZQLURwM0xldHREZHZURHJyejQ4YUtRR2s0MXF2WnpGSFBsZWpSaHdvSWxrN0tuc3NCT0doVGRZNzRoeDIyODI1U3duSV9oN29obHJMNlllV3VSWHltdHMzWG9rWjZCckRuNHRhOUVwNjl5SVJfM3RyamRSVkxqSmgxckM5ckJGeXFrOEQ3MG41c3dhc1I1X2pMUQ?oc=5",
+        "source": "ThePrint"
+      },
+      {
+        "link": "https://www.latimes.com/world-nation/story/2025-12-11/bulgarias-government-resigns-after-mass-protests-just-weeks-before-nation-due-to-join-eurozone",
+        "original_link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQaUg0RUVpS3JydVVXYlJQa3RUdUVncF9xU2RWTGFzMVBaTE1OX2p2VUNfaHZBazZKNkN3Y1A0cFV2RTZTb01WMm9qMkxFZWZMQlNfVF9VOUF3VUp6ODNFeVVqME44MDZJMjVSeWhfcW1BOXN4UFVEMEhac3VzNzVxZFFmZm9JQm0tQ0ppVHJUVEJTNGNCbHh2dUdYbFRoVkZEMkxMNlFNOEREdE1NS01ya3gxbG40YTFOQ3htSUlob3piLXlNQXFmRHZwdHNfaVRiMUFaSm1SSXdRdmJRR2M5THF3?oc=5",
+        "source": "Los Angeles Times"
+      }
+    ]
+  },
+  {
+    "date": "2025-12-10",
+    "page_id": "bulgaria_incident",
+    "title": "Bulgaria Holds Anti-Government Protests",
+    "summary": "The article reports on anti-government protests in Bulgaria that drew tens of thousands of participants. The article is surrounded by unrelated shopping and product recommendation articles.",
+    "sentiment": "Neutral",
+    "type": "pending",
+    "sources": [
+      {
+        "link": "https://www.ctvnews.ca/world/article/anti-government-protests-draw-tens-of-thousands-in-bulgaria/",
+        "original_link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTjRSckw1NTFpSzJMTjVnYWxvdE9NRklTMXBLNGhFTnpqTVFmMXdCTVlTcG5rTDlrem5JdnJMREtYUzFhY0d4djM5UnpFcnFXS191cDZOcUlIQl96d3lKQXpib0RUdG51MVJlRlJwZkN1bkt3MTQwbXhYVFRKMFdBei1RTlZlTkowMlZCNW04STZzZUxJT0tpMWVVZ3llQQ?oc=5",
+        "source": "CTV News"
+      }
+    ]
+  },
+  {
+    "date": "2025-12-10",
+    "page_id": "bulgaria_incident",
+    "title": "Bulgaria Protests Erupt Over Budget and Corruption Concerns",
+    "summary": "Beginning December 1st, Bulgaria has seen mass protests, largely led by Gen Z, against the minority government of Prime Minister Rosen Zhelyazkov, fueled by accusations of corruption and controversial parliamentary actions like passing a law regarding Lukoil\u2019s assets in 26 seconds and holding a budget vote during a lunch break; these demonstrations, peaking on Wednesday, are occurring as the country prepares to adopt the euro on January 1st, 2026 and will be followed by a sixth no-confidence vote on Thursday. Protesters, expressing a lack of faith in the country\u2019s future, are demanding government resignation and reforms, with online engagement skyrocketing \u2013 reaching 488,000 users on TikTok related to the protests \u2013 and figures like Boyko Borissov and Delyan Peevski being targeted as symbols of systemic corruption.",
+    "sentiment": "Critical",
+    "type": "pending",
+    "sources": [
+      {
+        "link": "https://www.dw.com/en/bulgaria-protests-why-did-gen-z-turn-out-in-record-numbers/a-75093957",
+        "original_link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOajAyVUlzUGVOYzNkUW5Ha1F0a3hHYzNDNU5IQmRPNlUyOVM2OHlmMWlBbk0ta2tOaVNIRjcwVjZfbUlGZzZUbC1YUmNOR3BRaDdLZ01PTEcwOHZlSDVZdnhEWDQ3enFxaDh1b2V6RDU2OXdpMVE1OHo1bUZBT1FCYU51aTN6SmZLREI4ZVJERVlySWNJWlHSAZYBQVVfeXFMUGJBczhTSHR2ZkV3cUxvSmkzREVyVGRUZEpVT082eVloOTdNalp0ZHNXbWdta0ZQTmR4Ym9RYWNNRVFXTjRvWVJtb3VSQ25kaHVDRGVmdl9WeFMySThyRXU2dzdDckdENldYWXFUd09UelI0M213UW9ZengyUFNtaWxJU3UwV0piTHdVc25NaDBWbHZfS2lR?oc=5",
+        "source": "DW"
+      },
+      {
+        "link": "https://www.kten.com/news/anti-government-protest-draws-tens-of-thousands-in-bulgaria/article_b3a98dc1-eee2-5d88-abe6-e7c0b2ca15a1.html",
+        "original_link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNMWtaU2V2ejlvVzlwSFBiM2R0ZW91TmtSMWdzNG5uS2wxX0tBYW5XOWdRb19xdGM3aHJWcUJxa2hUSGh3UHE4dHdFMDUxSjA2VEgtenNPV2kxODdOZktwa3FSUDFManVXbEhwa2VUNXNfSmlFR3lrNmV0cExpaDVnWG54aUJIbmR4aTZISUVMdHFLOG93NWUwb250cEl6cXlHU1k0bmI5RjBLR2IzWF9kNVptYVVKR2dkU2g3cFhEU1E1REVsRFpPVUhhSGxSR0V2?oc=5",
+        "source": "KTEN"
+      },
+      {
+        "link": "https://unn.ua/en/news/thousands-of-people-in-bulgaria-are-protesting-again-demanding-the-governments-resignation",
+        "original_link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQaUZzMC1SM3FsM3U1NzVIY3BMXzZEZVNPWHd3R0dxQlpUY0RjcmlwcHN0VUpvbmxYZ1VsdFpiUGs4ODNmeHpQb2V1bWdiYW1PVC1HSko0NXBwZjA4a1JYY2VpT0xVbzM1ZGxoQmlqRDBhUHF0aXZTY3BjM3lOOHNWcVI5Ry05bHNJX3RZcVA3STFVS3dpZGltUGIyNEhyUkRiZ0V6VV9RNFkxRlNfdzZEbEVLMNIBsgFBVV95cUxNazluSUNXcmtfaTJPWlVZZF9XcWd0empzOXVxQTZGTV9Xc0FaX2pscFAwV0wwSkRkMlhjLTNxWExVTFUzRXdYNUt1UGtDa0VLTnhzQ0Q5WWkwajNoQ0tsemRtdVdySzlqcy1uN2NQbFZqbm54WkVKTXZYZzV4Nnk3dzdrM2gxNER2cG1WZmd5LUtCc0tlZ3JOejltbGVDM2Z2cW9OZ3hBSzFEc0txdmNhT1VR?oc=5",
+        "source": "\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0456 \u041d\u0430\u0446\u0456\u043e\u043d\u0430\u043b\u044c\u043d\u0456 \u041d\u043e\u0432\u0438\u043d\u0438"
+      }
+    ]
+  },
+  {
+    "date": "2025-12-09",
+    "page_id": "bulgaria_incident",
+    "title": "Bulgaria Protests Reflect Concerns Over Government Policies and Democratic Backsliding",
+    "summary": "Large-scale protests began in Bulgaria on December 1st, with over 110,000 people demonstrating in Sofia and other cities against the government and a draft 2026 state budget. The article argues the current coalition, led by Boyko Borissov and Delyan Peevski, is exhibiting an 'Orbanist turn' and calls for EU intervention to safeguard democratic processes.",
+    "sentiment": "Critical",
+    "type": "pending",
+    "sources": [
+      {
+        "link": "https://ecfr.eu/article/on-sofias-streets-how-protests-are-highlighting-an-orbanist-turn-in-bulgaria/",
+        "original_link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWjFaVTcxWjFBVXZfNVpJX3hZZjBfaTdrdDJlbEFVNmNRQjk0M1FtR0ZrU0J6OUFmNlpmLW9KTG5SOEh5VUZDVmVVaVZ0b3VabUdVZ09yejBOSW5VWF96NklGdTlCcmZNcFU0LWhPQXlEa2ZxNW9JeXJxdE9XQWZjYjFqTnQ1a1FHdjRKdEktQTR3TDl6WDA1WmFEb3dEVnBTck5z0gGoAUFVX3lxTE9GZFFQeUxJTWl1MS10bXJOeE9wam1oM2ZvWV9sdWpqcy04MVktMGk0NFUzUnIyelVjbUk1OXdNUHpxeDEtbkhZZ2FuZWNjWnZtSGt0ZGJtdENhQ1FHUVNmU3h4UmE4ZzZfYUh6WUZNd0h6NC1xX2NRc0ZlYi1KRm9ETU5BNjFFMncwLVNMSk5KY3FULUcyZlo5bEk0aU9nR2tvZnRFYnc1Qw?oc=5",
+        "source": "European Council on Foreign Relations (ECFR)"
+      }
+    ]
+  },
+  {
+    "date": "2025-12-07",
+    "page_id": "formula_1",
+    "title": "2025 Abu Dhabi Grand Prix Starting Grid",
+    "summary": "The article details the starting grid for the 2025 Abu Dhabi Grand Prix, with Max Verstappen on pole and Lando Norris in second. The race is scheduled to start at 1700 local time, with live coverage beginning at 1600.",
+    "sentiment": "Neutral",
+    "type": "pending",
+    "sources": [
+      {
+        "link": "https://www.formula1.com/en/latest/article/official-grid-who-starts-where-for-2025s-title-decider.2HeO0mO7UeUdaCdlqxj8gz",
+        "original_link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOU0l6c3BOMFRJSUNxME12OW1lVzRMTlFhZGFCMDR6NExYMXpiM0JucXZIdVo2TUlENW1ZR3pXVnRORjZBdXp1RFh2Yl9VMng0d01wVzdTTDRmd0pTMlgtdHdqQnQyNHpMNlYzRF9CdzBJX2V1a0xEZUU1UDNzTWJFaEZSNk0wX0I3Zl9tZnNuZ3hkTGdFNTl3Z0tuWFFxR1NramtQdUpnSkNYTThaNEZwLWNYVko1Y056QTJzZQ?oc=5",
+        "source": "Formula 1"
+      }
+    ]
+  },
+  {
+    "date": "2025-12-13",
     "page_id": "formula_1",
     "title": "Rwanda Pursues Formula 1 Grand Prix for 2029 or 2030",
     "summary": "Rwanda is in talks to host a Formula 1 race as early as 2029, with negotiations linked to the development of a new international airport and city. Lewis Hamilton has previously advocated for a race in Africa, and the 2024 FIA Awards were held in Kigali where Rwanda's intention to bid was confirmed.",
@@ -334,6 +724,12 @@
         "original_link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNdVhGQk1ET08tQVVQSEtmVHFTNXNsZExQY1VYYlpvd0o3clJPbkctblJMZUhXY0dDWU1oNE5zZUsxX1Q5N2V4a082TU10dkhKd3B4Y19EZlVrdGRhT21ldXQ3eU1vcmZmMEIybnJPM3E4QzdVc2htbzUzdTBhTnZaQ3YzTXRvMzVFY2xqOERDWG5IVTd0UEprV09oZVd0RVVlTkxIdHV3MWdkVldTRk8wMHlGWXA3RGtBOEF2TWk1eEZQY3FpMFpqTWx5REo5N1J6S01Mcml3?oc=5",
         "source": "Formula 1",
         "scraped_text": "Norris reflects on 'incredible' Drivers' Championship triumph as he collects trophy at FIA Awards\nMcLaren's Lando Norris received his Drivers' Championship trophy at the FIA Awards in Tashkent, Uzbekistan.\nLando Norris has reflected on his \u201cincredible\u201d Drivers\u2019 Championship win as he was presented with the trophy at the FIA Awards on Friday night in Uzbekistan, 11 years on after he appeared at the awards as karting world champion.\nThe McLaren driver came out on top in Sunday\u2019s Abu Dhabi Grand Prix finale as the fight for the drivers\u2019 title went down to the final race of an epic 2025 season \u2013 Norris, team mate Oscar Piastri and Max Verstappen all had a chance of winning at Yas Marina.\nWhile four-time champion Verstappen won the race, Norris' third place result was enough to see him seal the title by just two points, which led to emotional post-race scenes as the Briton realised his childhood dream.\nOn Friday, in Tashkent, Norris collected his trophy on stage at the FIA Awards, while also looking back on a hard-fought year.\n\"Where do I start?\u201d Norris said. \u201cCongratulations and thank you to McLaren, the team I've been with for many, many years on giving both of us an incredible car that at times made our life very easy, and beautiful, and we could bring home many wins all the way to the end of the season.\n\"Of course, Mr Piastri, the incredible team mate that I've had, who has helped me improve so much over the last few seasons and made us the team that we are, allowed us to turn into the team winning two constructors' back-to-back.\n\"Of course, to Max as well, for challenging us the whole way, putting us under pressure, just doing what Max always does.\n\"It was incredible. Obviously this is a lot of people's dreams, a lot of racing drivers' dreams and I got to finally live it \u2013 live that one dream that I had when I was a little kid.\u201d\nBack in 2014, a young Norris was on stage at the FIA Awards to collect his trophy as karting world champion, and he also looked back on his journey through F1 from that moment 11 years ago.\nHe added: \"It's been amazing to grow up here alongside a lot of you guys, deliver it with McLaren and to get to race all the World Champions that I've been racing against \u2013 Lewis [Hamilton], Max [Verstappen], Seb [Vettel], Fernando [Alonso].\n\"All the incredible drivers that I looked up to and watched when I was a little kid and get that chance to race against them, to try and beat them and to show what I can do against them all and we managed to do that this year.\n\"So [I\u2019m] very proud, very happy of course. [I] got very emotional on Sunday after the race, then got extremely drunk and had an amazing time!\"\nThere was also a moment of humour on stage as Norris dropped an expletive, saying: \"I and we had our fair share of mistakes and **** ups. Can I say that here? I'm ok?\"\nHe then continued: \"Sorry, yeah. I got fined! I can pay it off now!\"\nMcLaren CEO Zak Brown was also on stage to lift the Teams' Championship trophy alongside the Woking-based squad\u2019s Team Principal Andrea Stella \u2013 the pair having led McLaren back to the front of the grid in recent seasons.\n\"Fantastic season,\u201d said Brown. \"All the men and women at McLaren have done an unbelievable job led by our two awesome drivers, of course the job Andrea has done leading.\n\"To go into the final race with two drivers fighting for the World Championship when everyone said that couldn't be done, I'm just very proud of how McLaren went racing and that's exactly what we plan to do next year.\"\nNext Up\nRelated Articles\n- This Week in F110 quiz questions on the Abu Dhabi title decider\n- Norris hopes title win doesn\u2019t change him as a driver\n- Hulkenberg pleased to score points in Sauber\u2019s final race\n- Abu Dhabi 'not a bad weekend' for Ferrari \u2013 Vasseur\n- Dr Helmut Marko to leave Red Bull motorsport advisor role\n- Bottas embarks on first day as a Cadillac driver"
+      },
+      {
+        "link": "https://timesofindia.indiatimes.com/sports/formula-one/news/fia-awards-lando-norris-receives-title-trophy-alongside-margarida-corceiro-max-verstappen-sends-message/articleshow/125948739.cms",
+        "original_link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQWWdQX2RGWHVOaThsVS1EeHNKX3g4TFV3RjNOVDJwT2RfcTMxYnBLT3ZBQ1RyUHZRWHJTeTFwT3N2ZFFrSVRCcy1hQjNmOS1ZNlh1TkplMWM5cUZ4bGRiSHk5eUpPT0tjbUVhN2hmRnNjcGhveDAtWDlmUXpNSjNhZ3psbzhGdUJVb0ctM0dMMlR5TDJzcWxETHV6YnpfbGFVTzk5M3FVSkhNcDVEY1FEckRwOVdjVHgxcWw2NDN4Zl9LTHdhdTJ4SU9ZS01jUG9mMzNVTnZ2YWpTaE8wOFphbTlYdE5WOS1KM0RFR0xBOFZqdUdyUFlwTDUyc0E3UEdlMkNrZjRHRjMwZjhoVFFvQzFaMUdyN2tB0gGeAkFVX3lxTFBiZU9XRnRpY0ZmbGZwZ2VYZXFGSzFmV0FtN2Q4Y2dlcV9ESkgzbUlCc0tXc2JIU2s3bE5kUzFPMFhjeHBoT2RSdm9vQnI2dklOeFJyYkRCaWkyMVZsNVM3Z2JzdGlMaVBwRHhoZ1pLQmIzOHR6MV9tZm55cTVNNENpR3FoV2wxWXA2Qkhjemg5N3hlQkJxQy1ob04wUmZoNmVhR1VVOGxSTV9Id2JudGFYZVFWazZ1Y3AyZUQ5S3A0LXBaaUE2Y21hTS1Pb0lCbzdQRUlwTHhILTktTU4tYXdUMWdIQjhXenBsRkhmQV91TTI5WWlPZ1FtR3ZXRS01TGYwdHhNWnNlU0RIaExNVUZfa1VoMjJRaDVjcXZiaUE?oc=5",
+        "source": "Times of India",
+        "scraped_text": "It was a starry night in Uzbekistan as Lando Norris received his F1 World Championship trophy at the FIA Awards. Giving him company was his girlfriend, Margarida Corceiro. Runner-up Max Verstappen called in sick, but others like Oscar Piastri and Charles Leclerc were joined by their girlfriends in black. Verstappen did send a video message to make up for his absence in Tashkent.\nLando Norris, Oscar Piastri and Charles Leclerc attend FIA Awards with their girlfriends\nLando Norris was decked out in black and had Margarida Corceiro cheering for him. Sharing a picture of him holding the trophy, Norris wrote on Instagram, \u201cHonour to have my name alongside such greats. A dream come true.\u201d Another picture gave a closer look at all the names of the F1 champions carved on the trophy.\nNorris was also joined by teammate Oscar Piastri on stage as he received his trophy. Piastri too looked dapper in black, and his girlfriend Lily Zneimer complemented him in a black gown. McLaren CEO Zak Brown and team principal Andrea Stella lifted the F1 Teams\u2019 Constructors\u2019 Trophy.\nFerrari driver Charles Leclerc\u2019s model girlfriend, Alexandra Saint Mleux, too made a starry appearance in a black lace gown.\nSpeaking on the occasion, Norris talked about winning the championship and the guys who gave him a tough fight.\nHe said, \u201cI had two other guys who were pretty freaking fast and certainly made my life tough this year. Oscar, the whole way since round one, I knew he was probably going to be the toughest guy to beat, and then you can never count out Max, he\u2019s Max. We certainly never counted him out, and for anyone who might have done, he proved you wrong. I\u2019m glad we kept ourselves on our toes and we were ready for such a thing, but it was a pleasure to fight Max, a four-time world champion.\u201d\n\u201cFor me to have those fights against him and enjoy those moments\u2014maybe not always enjoy them, but some of them\u2014but just to share the track and fight against another world champion like him, and certainly Oscar as well, who will be a world champion, I really enjoyed this season because of that. As much as they made my life hell a lot of the time, those moments I almost enjoyed the most,\u201d he added.\nMax Verstappen sends video message after skipping FIA Awards\nMeanwhile, Max Verstappen sent a video message: \u201cA big congratulations to McLaren and especially Lando. You guys had an unbelievable season, and it was really cool to be able to race against you guys until the end. But I definitely enjoyed it! Take care. Have a great evening, and see you guys all in 2026. Bye bye!\u201d\nFormula 1 will return for the next season with the Australian Grand Prix on March 8.\nAlso Read: \u201cIt took a championship\u201d: Internet reacts as Lando Norris and Margarida Corceiro make their relationship Instagram official"
       }
     ]
   },
