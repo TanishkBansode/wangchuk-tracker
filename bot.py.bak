@@ -267,22 +267,30 @@ def call_with_retry(model, prompt, max_retries=5):
 def analyze_article(text, original_title, topic_name):
     # print(f"   🧠 Asking Gemini to analyze...") # Moved to inside function for cleaner logs
     prompt = f"""
-    Analyze this article about {topic_name}. Return strictly JSON.
+    Role: You are a senior news editor and focused reporter.
+    Task: Extract the core news story about {topic_name} from the raw text below.
+    
+    Constraints:
+    - IGNORE all ads, promotional material, "read more" links, and unrelated sidebars.
+    - NO meta-commentary. Do NOT start with "The article discusses", "This text is about", or "According to the report".
+    - Report the facts directly and objectively (e.g. "Air pollution levels in Pune spiked on Tuesday..." instead of "The article says pollution spiked...").
+    - If the text is just a collection of ads or snippets with no real story, set is_relevant: false.
+
     Article Title: {original_title}
-    Article Text: {text[:30000]}
+    Article Text (Raw): {text[:30000]}
 
-    Tasks:
-    1. is_relevant: Boolean. Is it about {topic_name}?
-    2. is_clickbait: Boolean. Is the title misleading?
-    3. sentiment: "Positive", "Neutral", "Critical", "Urgent", or "Negative".
-    4. new_title: Write a factual, boring headline.
-    5. summary: 2 short sentences. IMPORTANT: Include specific dates or times mentioned in the text (e.g., "on Monday", "Dec 5th") if available.
+    JSON Output Requirements:
+    1. is_relevant: boolean. Is there a coherent news story about {topic_name}?
+    2. is_clickbait: boolean. Does the title exaggerate the actual content?
+    3. priority: "High" (Breaking/Urgent), "Medium" (Important), "Low" (Routine).
+    4. new_title: Write a professional, objective headline for this story.
+    5. summary: Two concise sentences giving the latest facts. Include specific details (dates, numbers, names). NO filler.
 
-    Output Schema:
+    Output strictly JSON:
     {{
         "is_relevant": true,
         "is_clickbait": false,
-        "sentiment": "Neutral",
+        "priority": "Medium",
         "new_title": "...",
         "summary": "..."
     }}
@@ -444,7 +452,7 @@ def main():
             "page_id": page_id,
             "title": analysis['new_title'],
             "summary": analysis['summary'],
-            "sentiment": analysis['sentiment'],
+            "priority": analysis.get('priority', 'Medium'),
             "type": "pending",
             "sources": [{
                 "link": res['final_url'],
@@ -585,10 +593,13 @@ def merge_into(target, source):
     # Append all sources
     target['sources'].extend(source['sources'])
     
-    # Update sentiment to most severe
-    severity = {"Positive": 1, "Neutral": 2, "Critical": 3, "Urgent": 4, "Negative": 5}
-    if severity.get(source['sentiment'], 0) > severity.get(target['sentiment'], 0):
-        target['sentiment'] = source['sentiment']
+    # Update priority to highest
+    priorities = {"Low": 1, "Medium": 2, "High": 3}
+    source_p = priorities.get(source.get('priority', 'Medium'), 2)
+    target_p = priorities.get(target.get('priority', 'Medium'), 2)
+    
+    if source_p > target_p:
+        target['priority'] = source.get('priority', 'Medium')
 
 def merge_summaries_smart(summary1, summary2, text1, text2):
     """Use Gemini to merge two summaries, preserving unique details."""
