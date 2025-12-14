@@ -80,5 +80,11 @@ TOPICS = [
 	"page_title": "Bulgaria incident",
 	"topic_name": "Bulgaria protest",
 	"query": "Bulgaria+Protest"
-    }
+    },
+    {
+	"page_id": "sydney_mass_shooting",
+	"page_title": "Sydney mass shooting",
+	"topic_name": "Sydney mass shooting",
+	"query": "Sydney+mass+shooting"
+    },
 ]
