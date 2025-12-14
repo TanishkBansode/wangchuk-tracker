@@ -1,5 +1,35 @@
 [
   {
+    "date": "2025-12-14",
+    "page_id": "formula_1",
+    "title": "Ferrari's 2025 Performance and 2026 Development Strategy",
+    "summary": "Ferrari abandoned development of the SF-25 project prematurely to focus on the 2026 car, despite aiming for second place in the 2025 constructors\u2019 standings. The team will begin 2026 with 15% more wind tunnel and CFD time than McLaren, and the new car is expected to launch around mid-January before testing in Bahrain in February.",
+    "sentiment": "Critical",
+    "type": "pending",
+    "sources": [
+      {
+        "link": "https://www.the-race.com/formula-1/what-ferraris-key-technical-failures-mean-for-f1-2026/",
+        "original_link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQjZDTDlQZUFKQXhYTjJRMm5WUmRnZzY0bVlEUVMydTJONXBOTENZU2JkWEM1R3gwd3pLR2J1cTd2OHRKUlZ6UE1wM0VsWXdkTmFyYW93UW9PVGloRVRaQ081ZkVKOG9ManR4dFRqWTZlc1FtVFdrMW9xSGdZWFJ3UHNBbWs0VG41cjA2ZHdYUHZQUm8?oc=5",
+        "source": "The Race"
+      }
+    ]
+  },
+  {
+    "date": "2025-12-14",
+    "page_id": "formula_1",
+    "title": "Williams F1 Team Ahead of Schedule in 2026 Car Development",
+    "summary": "Williams is aiming to have their 2026 car completed for Virtual Test Track (VTT) testing at the beginning of January, potentially being the first team to do so. They have prioritized 2026 development, abandoning significant work on the 2025 car, and plan a filming day before Barcelona testing on January 26th.",
+    "sentiment": "Positive",
+    "type": "pending",
+    "sources": [
+      {
+        "link": "https://lastwordonsports.com/motorsports/2025/12/14/f1-williams-2026-car-could-be-finished-before-any-other-team/",
+        "original_link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNR2FhSG5RNXZaUlJ0cHFjamF6VV82cFVaSC0wbTF6UmNwMEZaRTdEbzllSmQyQ2E4eERDLVE0N2w1Q1hWcTZLa1J3alhiNXViZmpKSDAya29XM3YzZWZqczFXMjV5ZE9Uc3NfZU5QRjdUdHlsS3BWaEJYdjRPU2kzNnJ4S05XcFhCamZnWkRmNU1KbjJNMmpyX001bUZwQjBDa2JJUVZIclJGZHg5Z2NYWVhuTQ?oc=5",
+        "source": "Last Word On Sports"
+      }
+    ]
+  },
+  {
     "date": "2025-12-13",
     "page_id": "formula_1",
     "title": "Review of 'F1 The Movie' on Apple TV",
