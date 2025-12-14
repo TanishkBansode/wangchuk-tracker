@@ -51,12 +51,7 @@ TOPICS = [
         "topic_name": "Nashik trees",
         "query": "Nashik+trees"
     },
-    {
-	"page_id": "formula_1",
-	"page_title": "Formula 1",
-	"topic_name": "Formula 1",
-	"query": "Formula+1"
-    },
+
     {
 	"page_id": "red_fort_incident",
 	"page_title": "red_fort_incident",
