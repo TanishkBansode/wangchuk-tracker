@@ -17,6 +17,9 @@ EMBEDDING_MODEL = 'models/text-embedding-004'
 SIMILARITY_THRESHOLD = 0.80  # Tunable: 0.80-0.95 for duplicate detection
 DATA_FILE = 'data.json'
 
+TURSO_DB_URL = os.getenv("TURSO_DB_URL")
+TURSO_DB_TOKEN = os.getenv("TURSO_DB_TOKEN")
+
 TOPICS = [
     {
         "page_id": "wangchuk",

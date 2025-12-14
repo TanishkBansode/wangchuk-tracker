@@ -6,3 +6,4 @@ requests
 numpy
 
 googlenewsdecoder==0.1.7
+libsql-experimental

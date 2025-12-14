@@ -1,16 +1,16 @@
 import os
 import libsql_experimental as libsql
-from config import DATA_FILE
+from config import DATA_FILE, TURSO_DB_URL, TURSO_DB_TOKEN
 
 # Use local file for now, but configured to be easily switchable to Turso URL
 DB_FILE = "wangchuk.db"
-# If we were using Turso remote:
-# DB_URL = os.getenv("TURSO_DB_URL")
-# DB_TOKEN = os.getenv("TURSO_DB_TOKEN")
 
 def get_connection():
-    # If using remote Turso:
-    # return libsql.connect(DB_URL, auth_token=DB_TOKEN)
+    if TURSO_DB_URL and TURSO_DB_TOKEN:
+        print("☁️ Connecting to Turso Cloud Database...")
+        return libsql.connect(TURSO_DB_URL, auth_token=TURSO_DB_TOKEN)
+    
+    print("TB Connecting to local database...")
     return libsql.connect(DB_FILE)
 
 def get_known_links():
