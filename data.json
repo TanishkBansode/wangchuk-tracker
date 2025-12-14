@@ -2,6 +2,66 @@
   {
     "date": "2025-12-14",
     "page_id": "formula_1",
+    "title": "Rookie Performance Review: 2024 Formula 1 Season",
+    "summary": "The article reviews the performance of Formula 1 rookies during their first season, with a focus on Kimi Antonelli who achieved a best finish of P2 and 150 total points. Antonelli notably secured a Sprint Qualifying pole in Miami, becoming the youngest ever polesitter in F1 history at 18 years and 251 days old.",
+    "sentiment": "Neutral",
+    "type": "pending",
+    "sources": [
+      {
+        "link": "https://www.formula1.com/en/latest/article/rating-the-rookies-how-did-the-new-kids-on-the-grid-do-in-their-first-f1.7zr1hi4iCjks668vQilfCG",
+        "original_link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPeW5fRXI3Rlo3MVk2Q3NuQTB0M2x0UDFOamd4d29PVzB6NjlrWGFiaDZzMHczLXRicVB4Wi16V2JVNzkzcTVfb0c4cVdFbDdwSWdGd2wteF9waF9oeFFJaUZ3a25pMDA3Mi1rQXI3ZkJtVzRacWFXUmcxajZlNDFkQmxyRHl3b1FqSkcyUmotWFd2bVhMcWdoZjZrMTFFek45TkRubHlLTDZpeHFUU255d2doeTRBUi1fVjRIc1VWNmotajFnQ25qUWtzeVpVNU15QXdpRw?oc=5",
+        "source": "Formula 1"
+      }
+    ]
+  },
+  {
+    "date": "2025-12-14",
+    "page_id": "formula_1",
+    "title": "Lewis Hamilton's Performance in First Season with Ferrari",
+    "summary": "Lewis Hamilton had a disappointing first season with Ferrari, failing to reach the podium and finishing 86 points behind teammate Charles Leclerc. He broke Didier Pironi's 40-year record for the longest start to a Ferrari tenure without a podium finish, despite winning a sprint race at the Chinese Grand Prix.",
+    "sentiment": "Critical",
+    "type": "pending",
+    "sources": [
+      {
+        "link": "https://racingnews365.com/should-lewis-hamilton-retire-from-f1-and-when",
+        "original_link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9hZHNFMDNpakYzTmtNUjVvQ055dlNyOVFLSzExamtsTjA1Y1hhYWpzVkpUcWp4aVpJUEJJWVBnTFhUYUZJa0gtSUdXOU1yRy04dVd6RERGM1RuLXczX0lTVUkxT2JfdzlUbVpNV0VFTlprd2hzUTN4ZURvTQ?oc=5",
+        "source": "racingnews365.com"
+      }
+    ]
+  },
+  {
+    "date": "2025-12-14",
+    "page_id": "formula_1",
+    "title": "Piastri to Discuss McLaren's 'Papaya Rules' During Offseason",
+    "summary": "Oscar Piastri plans to discuss potential adjustments to McLaren's 'Papaya rules' with team bosses over the winter, ahead of the 2026 campaign. The 'Papaya rules' were implemented in 2024 to ensure fairness between Piastri and Lando Norris as they compete for wins and the 2025 World Championship.",
+    "sentiment": "Neutral",
+    "type": "pending",
+    "sources": [
+      {
+        "link": "https://racingnews365.com/oscar-piastri-planning-mclaren-f1-talks-over-papaya-rules",
+        "original_link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUDJpQmNCX0FUeXhtbzBHZjk3eGdpdFczUGVoaS1ha2VOOG5ZLV93eDc4Uy1BeDdmU2NUVGp5a0Y1eDhRNmsyTmYzSUJWSk4wNWdEQ2xNaHh3LVluSVFUVEU3MHdIYmZRSG50di13Q251RzhkOXNSWGNOQy10aXBLbldES0lDODgzYXR3?oc=5",
+        "source": "racingnews365.com"
+      }
+    ]
+  },
+  {
+    "date": "2025-12-13",
+    "page_id": "formula_1",
+    "title": "Esteban Ocon Interview: Inspirations, Hobbies, and Career Reflections",
+    "summary": "Esteban Ocon cites Michael Schumacher as his inspiration for falling in love with Formula 1, recalling a specific Monaco Grand Prix incident. He also discusses his driving test, which he passed on the first attempt after completing a minimum of 20 hours of instruction in France, and his win in Budapest in 2021.",
+    "sentiment": "Positive",
+    "type": "pending",
+    "sources": [
+      {
+        "link": "https://www.formula1.com/en/latest/article/schumachers-inspiration-lapland-adventures-and-becoming-a-superhero-getting.4zK2RpALutD14VWXvYm0ln",
+        "original_link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPdHEwMjdxZXdraWI1dGQwbzVFMFlSdXc5RVFteG0ycUY0SmhVLW1aekFTZW5jUmRuZTJxUkF0TjNZOC00OGUyMDZ0RGpmaEMta3BwdGxuNUNSOHdFZ0ZKQ3BmNVBMVmRWcXRlQ0x0bjd2Yjl1M29jX3Awelg4OVRVRmNGY2RUTVlVejdJUXhFMER5djY0NmNYR0hEVVphTWJfYkVUcmM5TFpOR1QydzRvSGVGS05SVlY3dU9teFdQVExEblFGYnNucG1mQV82dko1bUlmajRQdlM?oc=5",
+        "source": "Formula 1"
+      }
+    ]
+  },
+  {
+    "date": "2025-12-14",
+    "page_id": "formula_1",
     "title": "Helmut Marko Criticizes Christian Horner's Leadership at Red Bull Racing",
     "summary": "Helmut Marko alleges that Christian Horner lied and disrupted the team's performance, particularly impacting Max Verstappen's 2025 title campaign following the death of Dietrich Mateschitz. Several key figures, including Horner, Adrian Newey, and Marko himself, have left Red Bull in the last eighteen months, leaving Laurent Mekies to lead the team through a transition including developing their own engine for the 2026 regulations.",
     "sentiment": "Critical",
@@ -11,6 +71,12 @@
         "link": "https://lastwordonsports.com/motorsports/2025/12/14/helmut-marko-christian-horner-lied-about-everything-and-anything/",
         "original_link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORUhlTTU5VTlobU1odUNLemtISlBTV2hmUTVZbkx0QlhrRHpnQ1N0VXhGZzZuODJFN3dYU2pPMVUzTEhYeUFlVVFpT0hsTUlhN2lqZmVmYUNUNHNHOVJ4RWtfRDdKSFFKNjU2UkZCYXlnQWszM2lzRXlwZ013LWtkYVdTaTFBdTJ6YXZPaEJRRmN2VXhJQ1FicG9vZ21zMnM4bnZnVHo3NGczX1JpQjN0Z09Id1oxRDNL?oc=5",
         "source": "Last Word On Sports"
+      },
+      {
+        "link": "https://racingnews365.com/helmut-marko-hits-out-at-christian-horner-in-shocking-red-bull-power-struggle-revelation",
+        "original_link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQaWcxRWhkMHNGc3F2enZnd3ByV1cxLTJDdWstSk5LMnVHdDZQTU1JTkhYTnBZaFl5ZGJHaEVyVWtvcFh2TjRKMlhBMTdNR1cxeGd6VFFQRmJ5dzVMUUtZVlg1ajAzYmdkcWVZX1JiYmhiaHk1NEJTNWZEOF90NzZPc3FQZ2JXb3FmWUIyYVpVZjNBNEk5NGFwVzRPV3RRNHR6STcxb1hRa0tvb3F0TXhRQXYtanc?oc=5",
+        "source": "racingnews365.com",
+        "scraped_text": "Helmut Marko has disclosed some of the details of the internal power struggle at Red Bull, which ultimately culminated in Christian Horner being fired as team principal soon after the British Grand Prix earlier this year.\nThe former motorsport adviser for the Milton Keynes-based squad argued that the Briton used the passing of Dietrich Mateschitz, the influential founder of the energy drinks manufacturer and subsequent sports empire, to try to wrestle control of the F1 team.\nUsing the support of Red Bull GmbH co-founder Chalerm Yoovidhya, Horner tried to shift the power balance towards the Thai side of the company.\nThere were flashpoints between Horner and Marko. When the accusations of inappropriate conduct were made against the 52-year-old in early 2024, internal politics destabilised the team and caused considerable tension.\n18 months later, the former was gone amid poor on-track performance from the six-time F1 constructors' champions, having worked alongside the latter for over 20 years.\nWhen reflecting on Horner's dismissal, Marko explained that it had been painted as the 'Austrian side' of the business winning the power struggle.\n\"That is how it has always been described in the media, but it was nothing personal,\" he told De Limburger. \"Together with Didi [Dietrich Mateschitz], I founded Red Bull Racing in 2005.\n\"We appointed Horner as team boss, and I was there as supervisor. Basically, the power was always in Austria, we decided.\n\"I remember a party in 2022 prior to the Austrian Grand Prix. Didi was there, but not in good health. Christian came to me then and said, 'He won't make it to the end of the year.'\n\"From that point on, he began cosying up to Chalerm Yoovidhya. When Didi died later that year, he did everything he could to take over with Yoovidhya's support. I did everything I could on behalf of 'Austria' to prevent that.\"\nViewed by others:\n'Dirty games' being played\nHowever, Horner being relieved of his duties in July is not what Marko considers a victory, having escaped being suspended from the team early in 2024 when close ally Max Verstappen stepped in.\nRather, it was predominantly down to the waning results from the F1 team, with the 82-year-old adamant that Verstappen would have won a fifth consecutive F1 drivers' championship had action been taken sooner.\n\"We had to do something because performance on the track was lagging,\" the Austrian explained. \"Had we done that earlier, by the way, we would have gotten it on track faster this year, and Max would have become world champion.\n\"I'm absolutely convinced of that. But those last years with Horner were not pleasant. Dirty games were played.\"\nExpanding on his remarks about Horner, he provided insight into the dynamics of the team towards the end of the Briton's tenure at the helm.\n\"Can you remember back in the days of Sergio P\u00e9rez when it was claimed I said that Mexicans are less focused than the Dutch or Germans? That was fabricated, perhaps by them,\" he said.\n\"Just like when I spread in 2024 that the development of our engine was behind schedule and that we would lose Ford as our sponsor as a result.\n\"[I] never said that, but Horner wanted to use that to suspend me. Because Max then stepped into the breach in Jeddah, it didn't happen.\"\nDescribing how Horner came to be fired, Marko detailed how Yoovidhya was slowly brought round to letting him go, adding: \"More and more often we were able to show that Horner was lying about everything and anything.\n\"Once Chalerm realised that too, he reconsidered.\"\nDon't miss out on any of the Formula 1 action thanks to this handy 2026 F1 calendar that can be easily loaded into your smartphone or PC.Download the calender\nMost read\nIn this article"
       }
     ]
   },
@@ -113,6 +179,12 @@
         "original_link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcHNGd3N4OWh3eUpTMzIzd0x3Y0x2WnQyNS1NOThpOHE0djdRWEJJeHUtdkVoQ21xbUtaNnNnMXNoM3lWTkx4T2tJcll6RW0tREhaaXBRTDc2VmpETkdPanhJZVF4cjBjSUNzOWxEYlJSZ0tzQk1VT0JneEZQeTNvNEt5ZnNWbHhZUnltM25kVHVTS2hjYjVpa05VRjhBMEVTNnfSAacBQVVfeXFMT0NlY2ZNQW41MGt2eFlCV1daUDZxMThFNi1kaC01eXZEUXlDMm9SOFdsQ2tSVlhiZlNuRzlXOGJCSU02TFN6OTl0eFRQc2xSam4wUUs2WmdEb3BUMzhrS1BHQWdMQnA4Y3FYaXEyNXpMRzFlaFExUXotRVZWX0stcTVSRDhGZ3R1OEQ4YWFNU0ZpMFVRZFdNbm9CN2s4VHhhX3dqOFhDRlE?oc=5",
         "source": "boldnewsonline.com",
         "scraped_text": "Parliament Panel Praises Sonam Wangchuk\u2019s HIAL, Recommends UGC Recognition\nCommittee praises Himalayan Institute of Alternatives for exemplary work in experiential education and recommends model be replicated nationwide.\nNew Delhi, Dec 14: The Himalayan Institute of Alternatives (HIAL), founded by Ladakh educator and activist Sonam Wangchuk, has been praised by a Parliamentary panel for its \u201cexemplary\u201d work, with a recommendation that the University Grants Commission (UGC) grant it formal recognition.\nIn its report tabled in Parliament earlier this week, the Standing Committee on Education, Women, Youth and Sports, headed by Congress MP Digvijaya Singh, expressed concern over the pending UGC recognition of HIAL and suggested the Ministry of Education study its model for possible replication through Centres of Innovation in Education or other initiatives.\n\u201cDuring its study visit to Ladakh, the committee was impressed with the academic, research, and entrepreneurship ecosystem at HIAL, especially its success in implementing experiential education rooted in local socio-cultural and ecological contexts,\u201d the report said.\nThe panel highlighted HIAL\u2019s impact on the local community and international recognition for initiatives such as the ice stupas. It noted that the institute exemplifies the National Education Policy (NEP) 2020\u2019s emphasis on project-based learning, community engagement, and integration of Indian Knowledge Systems (IKS).\n\u201cThe committee recommends that the UGC consider granting recognition to HIAL. Additionally, it encourages both the UGC and the department to study the HIAL model closely and explore its replication elsewhere,\u201d the report added.\nHIAL\u2019s journey has been marked by recent challenges. Sonam Wangchuk was detained under the National Security Act on September 26 following protests demanding statehood and Sixth Schedule status for Ladakh, which turned violent. Subsequently, the Ladakh administration cancelled HIAL\u2019s land allotment, and the Union Home Ministry revoked its FCRA registration, citing alleged violations.\nDespite these hurdles, the Parliamentary panel\u2019s report underlines HIAL\u2019s significant contribution to education and innovation in the region."
+      },
+      {
+        "link": "https://www.deccanherald.com/india/sonam-wangchuks-hial-doing-exemplary-work-should-be-given-ugc-recognition-parliamentary-panel-3830535",
+        "original_link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQREo5MFVkRWQzNWZmLUxwSHhscXdyMUZiclZoZ05GRVVERzRQWF93ZjgzT2NLSk9PWlowbHdwM21qV3RTTnJqUmZvUVE2a0c2V01JcEZ3MkktSlpodlZsZmt3YW5xbU1oMXBOZXA0UGlxcndMa1ppZWdRcTltLVBsY0Zxa0lqZWtGdGZnNmdfVVpleHVQcUFlZjBOY0lYZTlmMVZHby1lbXNvX2JveGd3T0ZFSTVVcFhfOS11Q04wcnNpQ2lhNlk0YWRiTngtd0I4TEE?oc=5",
+        "source": "Deccan Herald",
+        "scraped_text": "Sonam Wangchuk's HIAL doing exemplary work, should be given UGC recognition: Parliamentary panel\nThe panel also recommended that the Ministry of Education closely study the HIAL model and consider how it can be replicated elsewhere through Centres of Innovation in Education or other interventions."
       }
     ]
   },
