@@ -1,0 +1,18 @@
+name = "wangchuk-tracker"
+main = "src/index.ts"
+compatibility_date = "2024-04-05"
+compatibility_flags = ["nodejs_compat"]
+
+[vars]
+# Model ID for Gemini (used in Worker)
+MODEL_ID = "gemma-3-27b-it"
+EMBEDDING_MODEL = "models/text-embedding-004"
+
+# Secrets (Add these via `wrangler secret put <NAME>`)
+# GEMINI_API_KEY
+# TURSO_DB_URL
+# TURSO_DB_TOKEN
+
+# Serve static assets (React/HTML frontend)
+[site]
+bucket = "./public"

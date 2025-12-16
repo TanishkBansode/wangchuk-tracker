@@ -10,7 +10,9 @@ ENV/
 
 # Environment variables
 .env
+# ignore node modules.
 
+node_modules/
 # Data files (optional - remove if you want to include data.json)
 # data.json
 
