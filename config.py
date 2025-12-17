@@ -64,6 +64,12 @@ TOPICS = [
 	"topic_name": "PMPML Buses",
 	"query": "PMPML+buses"
     },
+    {
+	"page_id": "narendra_modi",
+	"page_title": "Narendra Modi",
+	"topic_name": "Narendra Modi",
+	"query": "Narendra+Modi"
+    },
 
 
 
