@@ -70,6 +70,12 @@ TOPICS = [
 	"topic_name": "Narendra Modi",
 	"query": "Narendra+Modi"
     },
+    {
+	"page_id": "aravali_hills",
+	"page_title": "Aravali Hills",
+	"topic_name": "Aravali Hills",
+	"query": "Aravali+Hills"
+    },
 
 
 
