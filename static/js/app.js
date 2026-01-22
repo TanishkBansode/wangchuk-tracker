@@ -58,14 +58,17 @@ function renderHome() {
             <!-- Hero / Search -->
             <div class="text-center mb-16">
                 <h1 class="text-4xl md:text-5xl font-bold text-white mb-6 drop-shadow-md">
-                    Discover What's Happening
+                    🏔️ Sonam Wangchuk<br><span class="text-2xl md:text-3xl font-normal opacity-90">News Tracker</span>
                 </h1>
+                <p class="text-white/80 text-lg mb-8 max-w-2xl mx-auto">
+                    Stay updated with the latest news about Sonam Wangchuk, engineer, innovator, and education reformist from Ladakh.
+                </p>
                 <div class="relative max-w-2xl mx-auto group">
                     <div class="absolute inset-0 bg-gradient-to-r from-blue-400 to-purple-500 rounded-full blur opacity-25 group-hover:opacity-50 transition duration-500"></div>
                     <input 
                         type="text" 
                         id="searchInput"
-                        placeholder="Search for news, topics..." 
+                        placeholder="Search news about Sonam Wangchuk..." 
                         class="relative w-full px-6 py-4 rounded-full bg-white/90 backdrop-blur text-slate-800 placeholder-slate-400 border-none outline-none shadow-lg focus:ring-2 focus:ring-purple-500/50 transition text-lg"
                         oninput="handleSearch(this.value)"
                     >

@@ -10,6 +10,15 @@ ENV/
 
 # Environment variables
 .env
+worker/.dev.vars
+
+# Database files
+*.db
+wangchuk.db
+
+# Data files
+data.json
+
 # ignore node modules.
 
 node_modules/
