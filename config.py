@@ -12,8 +12,8 @@ if not API_KEY:
     # actually, print is fine, but exit() at module level is bad practice.
     # leaving it for now to match behavior, but will let main check it.
 
-MODEL_ID = 'gemma-3-27b-it'
-EMBEDDING_MODEL = 'models/text-embedding-004'
+MODEL_ID = 'gemini-2.5-flash-lite'
+EMBEDDING_MODEL = 'models/gemini-embedding-2-preview'
 SIMILARITY_THRESHOLD = 0.80  # Tunable: 0.80-0.95 for duplicate detection
 DATA_FILE = 'data.json'
 
