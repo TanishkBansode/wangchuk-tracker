@@ -27,4 +27,16 @@ TOPICS = [
         "topic_name": "Sonam Wangchuk",
         "query": "Sonam+Wangchuk"
     },
+    {
+        "page_id": "iran_israel_war",
+        "page_title": "Iran-Israel-America War",
+        "topic_name": "Iran Israel America War",
+        "query": "Iran+Israel+America+war"
+    },
+    {
+        "page_id": "lpg_shortage_india",
+        "page_title": "LPG Shortage Crisis India",
+        "topic_name": "LPG Shortage India",
+        "query": "LPG+shortage+crisis+India"
+    },
 ]
