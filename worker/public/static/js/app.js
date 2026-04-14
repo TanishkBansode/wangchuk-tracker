@@ -1,5 +1,6 @@
 const API_BASE = '/api';
 const GITHUB_URL = 'https://github.com/TanishkBansode/wangchuk-tracker';
+const CACHE_TTL_MS = 30 * 60 * 1000; // 30 minutes
 
 // Topics config (display names + IDs)
 const TOPICS = [
@@ -11,10 +12,44 @@ const TOPICS = [
 // State
 const state = {
     activeTopic: 'wangchuk',
-    articles: []
+    articles: [],
+    error: null,
 };
 
-// Initialize
+// ─── LocalStorage Cache ───────────────────────────────────────────────────────
+
+function cacheKey(topicId) {
+    return `wt_articles_${topicId}`;
+}
+
+function saveToCache(topicId, articles) {
+    try {
+        localStorage.setItem(cacheKey(topicId), JSON.stringify({
+            ts: Date.now(),
+            data: articles,
+        }));
+    } catch (e) {
+        // Storage full or unavailable — silently ignore
+    }
+}
+
+function loadFromCache(topicId) {
+    try {
+        const raw = localStorage.getItem(cacheKey(topicId));
+        if (!raw) return null;
+        const { ts, data } = JSON.parse(raw);
+        if (Date.now() - ts > CACHE_TTL_MS) {
+            localStorage.removeItem(cacheKey(topicId));
+            return null;
+        }
+        return data;
+    } catch (e) {
+        return null;
+    }
+}
+
+// ─── Initialize ───────────────────────────────────────────────────────────────
+
 window.addEventListener('load', init);
 
 async function init() {
@@ -22,78 +57,140 @@ async function init() {
     render();
 }
 
-// API Call
-async function fetchArticles(topicId) {
+// ─── API Call ─────────────────────────────────────────────────────────────────
+
+async function fetchArticles(topicId, forceRefresh = false) {
+    state.error = null;
+
+    // Try cache first unless forced refresh
+    if (!forceRefresh) {
+        const cached = loadFromCache(topicId);
+        if (cached) {
+            console.log(`✅ Cache hit for "${topicId}" (${cached.length} articles)`);
+            state.articles = cached;
+            return;
+        }
+    }
+
     try {
         const res = await fetch(`${API_BASE}/articles?topic=${topicId}`);
-        state.articles = await res.json();
+        if (!res.ok) throw new Error(`Server error ${res.status}`);
+        const articles = await res.json();
+        state.articles = articles;
+        saveToCache(topicId, articles);
     } catch (e) {
-        console.error("Failed to fetch articles", e);
+        console.error('Failed to fetch articles', e);
         state.articles = [];
+        state.error = e.message;
     }
 }
 
-// Switch topic
+// ─── Switch Topic ─────────────────────────────────────────────────────────────
+
 async function switchTopic(topicId) {
+    if (state.activeTopic === topicId) return;
     state.activeTopic = topicId;
     state.articles = [];
+    state.error = null;
     renderSkeleton();
     await fetchArticles(topicId);
     renderTimeline();
+    // Update tab highlights without full re-render
+    document.querySelectorAll('[data-topic-btn]').forEach(btn => {
+        const isActive = btn.dataset.topicBtn === topicId;
+        btn.className = `px-4 py-2 rounded-full text-sm font-semibold transition-all duration-200 ${
+            isActive ? 'bg-white text-indigo-700 shadow-lg scale-105' : 'bg-white/20 text-white hover:bg-white/30'
+        }`;
+    });
+    // Update article count
+    const countEl = document.getElementById('article-count');
+    if (countEl) {
+        const activeTopic = TOPICS.find(t => t.id === topicId);
+        countEl.innerHTML = `${state.articles.length} updates on <span class="font-semibold text-white/80">${activeTopic?.label}</span>`;
+    }
 }
 
-// Rendering
+// ─── Refresh (force network) ──────────────────────────────────────────────────
+
+async function refreshTopic() {
+    renderSkeleton();
+    await fetchArticles(state.activeTopic, true);
+    renderTimeline();
+}
+
+// ─── Rendering ────────────────────────────────────────────────────────────────
+
 const main = document.getElementById('app');
 
 function renderSkeleton() {
-    document.getElementById('timeline').innerHTML = `
-        ${Array(3).fill(0).map(() => `
-            <div class="glass-card h-32 rounded-xl animate-pulse mb-4"></div>
-        `).join('')}
-    `;
+    const timeline = document.getElementById('timeline');
+    if (timeline) {
+        timeline.innerHTML = `
+            ${Array(3).fill(0).map(() => `
+                <div class="glass-card h-32 rounded-xl animate-pulse mb-4"></div>
+            `).join('')}
+        `;
+    }
 }
 
 function renderTimeline() {
-    document.getElementById('timeline').innerHTML = `
-        ${state.articles.map((item, i) => `
-            <div class="relative flex items-center justify-between md:justify-normal md:odd:flex-row-reverse group animate-fade-in">
-                <!-- Icon -->
-                <div class="absolute left-4 md:left-1/2 w-8 h-8 rounded-full border-4 border-slate-200 bg-white shadow shrink-0 -translate-x-1/2 flex items-center justify-center z-10 text-xs font-bold text-slate-500">
-                   ${i + 1}
+    const timeline = document.getElementById('timeline');
+    if (!timeline) return;
+
+    if (state.error) {
+        timeline.innerHTML = `
+            <div class="text-center py-12">
+                <div class="text-5xl mb-4">⚠️</div>
+                <p class="text-white/70 text-sm mb-4">Could not load articles: ${state.error}</p>
+                <button onclick="refreshTopic()" class="px-4 py-2 rounded-full bg-white/20 text-white text-sm hover:bg-white/30 transition">
+                    Try Again
+                </button>
+            </div>
+        `;
+        return;
+    }
+
+    if (state.articles.length === 0) {
+        timeline.innerHTML = `
+            <div class="text-center text-white/60 py-12">No updates found yet.</div>
+        `;
+        return;
+    }
+
+    timeline.innerHTML = state.articles.map((item, i) => `
+        <div class="relative flex items-center justify-between md:justify-normal md:odd:flex-row-reverse group animate-fade-in">
+            <!-- Icon -->
+            <div class="absolute left-4 md:left-1/2 w-8 h-8 rounded-full border-4 border-slate-200 bg-white shadow shrink-0 -translate-x-1/2 flex items-center justify-center z-10 text-xs font-bold text-slate-500">
+               ${i + 1}
+            </div>
+            
+            <!-- Card -->
+            <div class="ml-10 md:ml-0 w-[calc(100%-3.5rem)] md:w-[calc(50%-2rem)] glass-card p-6 rounded-2xl relative hover:scale-[1.01] transition-transform duration-300">
+                 <div class="flex justify-between items-start mb-3">
+                    <span class="text-xs font-bold px-2 py-0.5 rounded ${getPriorityClass(item.priority)}">
+                        ${item.priority || 'Medium'}
+                    </span>
+                    <time class="text-xs text-slate-500 font-medium font-mono">${item.date}</time>
                 </div>
-                
-                <!-- Card -->
-                <div class="ml-10 md:ml-0 w-[calc(100%-3.5rem)] md:w-[calc(50%-2rem)] glass-card p-6 rounded-2xl relative hover:scale-[1.01] transition-transform duration-300">
-                     <div class="flex justify-between items-start mb-3">
-                        <span class="text-xs font-bold px-2 py-0.5 rounded ${getPriorityClass(item.priority)}">
-                            ${item.priority || 'Medium'}
-                        </span>
-                        <time class="text-xs text-slate-500 font-medium font-mono">${item.date}</time>
-                    </div>
-                    <h3 class="text-lg font-bold text-slate-800 mb-2 leading-tight">
-                        <a href="${item.sources[0]?.link}" target="_blank" class="hover:text-indigo-600 transition">
-                            ${item.title}
+                <h3 class="text-lg font-bold text-slate-800 mb-2 leading-tight">
+                    <a href="${item.sources?.[0]?.link || '#'}" target="_blank" class="hover:text-indigo-600 transition">
+                        ${item.title}
+                    </a>
+                </h3>
+                <p class="text-slate-600 text-sm leading-relaxed mb-4">
+                    ${item.summary}
+                </p>
+                <div class="flex flex-wrap gap-2 pt-3 border-t border-slate-100/50">
+                    ${(item.sources || []).map(s => `
+                        <a href="${s.link}" target="_blank" class="text-xs flex items-center space-x-1 px-2 py-1 rounded bg-slate-50 border border-slate-100 hover:bg-indigo-50 hover:text-indigo-600 transition text-slate-500">
+                            <span>${s.source}</span>
+                            <span class="opacity-50">↗</span>
                         </a>
-                    </h3>
-                    <p class="text-slate-600 text-sm leading-relaxed mb-4">
-                        ${item.summary}
-                    </p>
-                    <div class="flex flex-wrap gap-2 pt-3 border-t border-slate-100/50">
-                        ${item.sources.map(s => `
-                            <a href="${s.link}" target="_blank" class="text-xs flex items-center space-x-1 px-2 py-1 rounded bg-slate-50 border border-slate-100 hover:bg-indigo-50 hover:text-indigo-600 transition text-slate-500">
-                                <span>${s.source}</span>
-                                <span class="opacity-50">↗</span>
-                            </a>
-                        `).join('')}
-                    </div>
+                    `).join('')}
                 </div>
             </div>
-        `).join('')}
-        
-        ${state.articles.length === 0 ? `
-            <div class="text-center text-white/60 py-12">No updates found yet.</div>
-        ` : ''}
-    `;
+        </div>
+    `).join('');
 }
 
 function render() {
@@ -115,6 +212,7 @@ function render() {
             <div class="flex flex-wrap gap-2 justify-center mb-10">
                 ${TOPICS.map(t => `
                     <button 
+                        data-topic-btn="${t.id}"
                         onclick="switchTopic('${t.id}')"
                         class="px-4 py-2 rounded-full text-sm font-semibold transition-all duration-200 ${
                             state.activeTopic === t.id
@@ -127,9 +225,10 @@ function render() {
                 `).join('')}
             </div>
 
-            <!-- Article count -->
-            <div class="text-center text-white/60 text-sm mb-8">
-                ${state.articles.length} updates on <span class="font-semibold text-white/80">${activeTopic?.label}</span>
+            <!-- Article count + refresh -->
+            <div class="flex items-center justify-center gap-3 text-white/60 text-sm mb-8">
+                <span id="article-count">${state.articles.length} updates on <span class="font-semibold text-white/80">${activeTopic?.label}</span></span>
+                <button onclick="refreshTopic()" title="Force refresh from server" class="opacity-50 hover:opacity-100 transition text-lg leading-none" aria-label="Refresh">↻</button>
             </div>
 
             <!-- Timeline -->
@@ -157,7 +256,8 @@ function render() {
     renderTimeline();
 }
 
-// Helpers
+// ─── Helpers ──────────────────────────────────────────────────────────────────
+
 function getPriorityClass(priority) {
     switch (priority) {
         case 'High': return 'bg-red-100 text-red-700';

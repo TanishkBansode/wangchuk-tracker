@@ -95,35 +95,38 @@ app.get('/api/articles', async (c) => {
 
     try {
         const result = await db.execute({ sql: query, args: params });
-        const articles: any[] = [];
+        if (result.rows.length === 0) return c.json([]);
 
-        // Hydrate sources for each article (could be optimized with JOIN)
-        // For now, doing N+1 but lightweight on Turso/Edge
-        for (const row of result.rows as any[]) {
-            const articleId = row.id as number; // explicit cast or type
-            const sourcesRes = await db.execute({
-                sql: "SELECT link, original_link, source, scraped_text FROM sources WHERE article_id = ?",
-                args: [articleId]
-            });
+        // Single JOIN query for all sources — avoids N+1 problem
+        const articleIds = result.rows.map((r: any) => r.id);
+        const placeholders = articleIds.map(() => '?').join(', ');
+        const sourcesRes = await db.execute({
+            sql: `SELECT article_id, link, original_link, source FROM sources WHERE article_id IN (${placeholders})`,
+            args: articleIds
+        });
 
-            const sources = sourcesRes.rows.map((s: any) => ({
+        // Group sources by article_id
+        const sourcesByArticle = new Map<number, any[]>();
+        for (const s of sourcesRes.rows as any[]) {
+            const aid = s.article_id as number;
+            if (!sourcesByArticle.has(aid)) sourcesByArticle.set(aid, []);
+            sourcesByArticle.get(aid)!.push({
                 link: s.link,
                 original_link: s.original_link,
                 source: s.source,
-                scraped_text: s.scraped_text
-            }));
-
-            articles.push({
-                id: row.id,
-                date: row.date,
-                page_id: row.page_id,
-                title: row.title,
-                summary: row.summary,
-                priority: row.priority,
-                type: row.type,
-                sources: sources
             });
         }
+
+        const articles = result.rows.map((row: any) => ({
+            id: row.id,
+            date: row.date,
+            page_id: row.page_id,
+            title: row.title,
+            summary: row.summary,
+            priority: row.priority,
+            type: row.type,
+            sources: sourcesByArticle.get(row.id as number) || [],
+        }));
 
         return c.json(articles);
     } catch (e: any) {
