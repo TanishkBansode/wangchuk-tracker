@@ -9,7 +9,10 @@ app = FastAPI(title="Wangchuk Tracker API")
 
 @app.on_event("startup")
 async def startup_event():
-    await search_engine.initialize()
+    try:
+        await search_engine.initialize()
+    except Exception as e:
+        print(f"⚠️  Search engine init failed (non-fatal): {e}")
 
 # Serve Index
 @app.get("/")
@@ -27,9 +30,14 @@ async def get_articles(
     date: str = Query(None),
     limit: int = 100
 ):
-    # Fetch articles
-    articles = get_articles_by_date(date_str=date, page_id=topic, limit=limit)
-    return articles
+    try:
+        articles = get_articles_by_date(date_str=date, page_id=topic, limit=limit)
+        return articles
+    except Exception as e:
+        import traceback
+        print(f"❌ /api/articles error: {e}")
+        traceback.print_exc()
+        raise HTTPException(status_code=500, detail=str(e))
 
 @app.get("/api/search")
 async def search(q: str, mode: str = "semantic"):
